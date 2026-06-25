@@ -3,25 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="风湿免疫多病种前沿研究、临床试验与证据分级情报站">
-  <title>风湿免疫前沿研究</title>
+  <meta name="description" content="每日更新的风湿免疫科研文献小站">
+  <title>每日一看，科研小站</title>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
   <header class="site-header">
     <a class="brand" href="index.html">
       <span class="brand-mark">R&I</span>
-      <span><strong>风湿免疫前沿研究</strong><small>Rheumatology & Immunology Frontier</small></span>
+      <span><strong>每日一看，科研小站</strong><small>Rheumatology & Immunology Frontier</small></span>
     </a>
-    <nav><a href="#diseases">病种模块</a><a href="#feed">研究情报</a><a href="#method">方法说明</a></nav>
+    <nav><a href="#diseases">病种模块</a><a href="#feed">研究情报</a></nav>
   </header>
 
   <main>
     <section class="hero">
       <div>
         <p class="eyebrow">Evidence-aware research intelligence</p>
-        <h1>按病种追踪<br>风湿免疫前沿</h1>
-        <p class="hero-copy">覆盖 12 个核心病种模块，仅呈现 PubMed 最近 1 天新增文献，保留 PMID、DOI 与英文原始摘要。本站用于科研信息追踪，不提供医疗建议。</p>
+        <h1>每日一看<br>科研小站</h1>
       </div>
       <div class="hero-stats" id="stats" aria-live="polite"></div>
     </section>
@@ -55,7 +54,6 @@
       <div class="filters">
         <select id="disease-filter" aria-label="病种"><option value="">全部病种</option></select>
         <select id="source-filter" aria-label="来源"><option value="">全部来源</option></select>
-        <select id="evidence-filter" aria-label="证据等级"><option value="">全部证据</option></select>
         <select id="topic-filter" aria-label="研究主题"><option value="">全部主题</option></select>
       </div>
     </section>
@@ -79,25 +77,13 @@
           <h2>主题雷达</h2>
           <div id="topic-radar" class="topic-radar"></div>
         </section>
-        <section class="panel caution">
-          <p class="eyebrow">Reading rule</p>
-          <h2>先看研究阶段</h2>
-          <p>所有事实字段来自 PubMed。自动证据标签仅用于初筛；动物或细胞机制不能直接推导患者获益，观察性关联不能证明因果。</p>
-        </section>
       </aside>
     </section>
 
-    <section class="method" id="method">
-      <div><p class="eyebrow">Method</p><h2>证据标注方法</h2></div>
-      <div class="method-grid">
-        <article><span>01</span><h3>保留来源</h3><p>每条记录保留 PMID、DOI、NCT 编号和原始链接。</p></article>
-        <article><span>02</span><h3>区分阶段</h3><p>注册、临床前、观察性、临床信号和临床证据分别标注。</p></article>
-        <article><span>03</span><h3>控制解读</h3><p>中文翻译、研究解读和可信度判断互相分离，避免把推断写成结论。</p></article>
-      </div>
-    </section>
   </main>
 
-  <footer><span>数据每日自动更新 · 人工覆盖规则可追溯</span><span id="updated-at"></span></footer>
+  <footer><span>数据每日自动更新 · 来源可追溯</span><span id="updated-at"></span></footer>
   <script type="module" src="assets/app.js"></script>
 </body>
 </html>
+
