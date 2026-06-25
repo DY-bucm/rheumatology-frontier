@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-06-25T13:51:37.273Z",
+  "generatedAt": "2026-06-25T15:20:22.967Z",
   "total": 159,
-  "translated": 59,
+  "translated": 114,
+  "publishable": 114,
+  "unpublishedTranslationFailures": 45,
   "withoutAbstract": 13,
   "crossDisease": 8,
   "errors": [],
