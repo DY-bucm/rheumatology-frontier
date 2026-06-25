@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update": "node scripts/update-feed.mjs --days 30 --limit 20 --output data/items.json",
+    "update": "node scripts/update-feed.mjs --days 1 --limit 100 --output data/items.json",
     "check": "node scripts/verify-site.mjs"
   },
   "engines": {
