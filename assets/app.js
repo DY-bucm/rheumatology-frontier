@@ -16,6 +16,15 @@ const elements = {
 
 let allItems = [];
 
+function isWithinLatestDay(item) {
+  if (!item.date) return false;
+  const itemDate = new Date(`${item.date}T00:00:00Z`);
+  const cutoff = new Date();
+  cutoff.setUTCHours(0, 0, 0, 0);
+  cutoff.setUTCDate(cutoff.getUTCDate() - 1);
+  return !Number.isNaN(itemDate.valueOf()) && itemDate >= cutoff;
+}
+
 function unique(values) {
   return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, "zh-CN"));
 }
@@ -27,7 +36,7 @@ function fillSelect(select, values) {
 function render() {
   const query = elements.search.value.trim().toLowerCase();
   const filtered = allItems.filter(item => {
-    const haystack = [item.title, item.titleZh, item.summaryZh, item.abstract, item.pmid, item.nctId, ...(item.topics || [])].join(" ").toLowerCase();
+    const haystack = [item.title, item.titleZh, item.summaryZh, item.abstract, item.pmid, ...(item.topics || [])].join(" ").toLowerCase();
     return (!query || haystack.includes(query))
       && (!elements.source.value || item.source === elements.source.value)
       && (!elements.disease.value || item.diseaseId === elements.disease.value)
@@ -35,11 +44,16 @@ function render() {
       && (!elements.topic.value || (item.topics || []).includes(elements.topic.value));
   });
   elements.count.textContent = `${filtered.length} 条`;
-  elements.list.innerHTML = filtered.length ? filtered.map(cardHtml).join("") : `<div class="empty">当前筛选条件下没有记录。</div>`;
+  elements.list.innerHTML = filtered.length
+    ? filtered.map(cardHtml).join("")
+    : `<div class="empty">PubMed 最近 1 天暂无符合条件的新增文献。</div>`;
 }
 
 function renderDiseaseModules(diseases, items) {
-  const counts = Object.fromEntries(diseases.map(disease => [disease.id, items.filter(item => item.diseaseId === disease.id).length]));
+  const counts = Object.fromEntries(diseases.map(disease => [
+    disease.id,
+    items.filter(item => item.diseaseId === disease.id).length
+  ]));
   elements.diseaseGrid.innerHTML = diseases.map(disease => `
     <button class="disease-card" data-disease="${disease.id}" style="--module-color:${disease.color}">
       <span class="module-count">${counts[disease.id] || 0}</span>
@@ -55,12 +69,12 @@ function renderDiseaseModules(diseases, items) {
 }
 
 function renderStats(items) {
-  const trialCount = items.filter(item => item.nctId).length;
-  const highCount = items.filter(item => item.credibility?.confidence === "high").length;
+  const linkedCount = items.filter(item => item.source === "PubMed" && item.pmid && item.url).length;
+  const diseaseCount = new Set(items.map(item => item.diseaseId).filter(Boolean)).size;
   elements.stats.innerHTML = `
-    <div><strong>${items.length}</strong><span>当前记录</span></div>
-    <div><strong>${trialCount}</strong><span>试验注册</span></div>
-    <div><strong>${highCount}</strong><span>高可信度</span></div>`;
+    <div><strong>${items.length}</strong><span>近 1 天文献</span></div>
+    <div><strong>${linkedCount}</strong><span>PMID 可追溯</span></div>
+    <div><strong>${diseaseCount}</strong><span>涉及病种</span></div>`;
 }
 
 function renderRadar(items) {
@@ -77,17 +91,26 @@ function renderRadar(items) {
 
 try {
   const [data, diseases] = await Promise.all([loadItems(), loadDiseases()]);
-  allItems = (data.items || []).sort((a, b) => new Date(b.date) - new Date(a.date));
-  diseases.forEach(disease => elements.disease.insertAdjacentHTML("beforeend", `<option value="${disease.id}">${disease.zh}</option>`));
+  allItems = (data.items || []).filter(item => item.source === "PubMed" && isWithinLatestDay(item))
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
+  diseases.forEach(disease => elements.disease.insertAdjacentHTML(
+    "beforeend",
+    `<option value="${disease.id}">${disease.zh}</option>`
+  ));
   fillSelect(elements.source, unique(allItems.map(item => item.source)));
   fillSelect(elements.evidence, unique(allItems.map(item => item.evidenceLevel)));
   fillSelect(elements.topic, unique(allItems.flatMap(item => item.topics || [])));
   renderStats(allItems);
   renderRadar(allItems);
   renderDiseaseModules(diseases, allItems);
-  elements.updated.textContent = data.updatedAt ? `数据更新时间：${new Date(data.updatedAt).toLocaleString("zh-CN")}` : "";
-  [elements.search, elements.disease, elements.source, elements.evidence, elements.topic].forEach(el => el.addEventListener("input", render));
+  elements.updated.textContent = data.updatedAt
+    ? `数据更新时间：${new Date(data.updatedAt).toLocaleString("zh-CN")}`
+    : "";
+  [elements.search, elements.disease, elements.source, elements.evidence, elements.topic]
+    .forEach(element => element.addEventListener("input", render));
   render();
 } catch (error) {
   elements.list.innerHTML = `<div class="empty">数据加载失败：${error.message}</div>`;
 }
+
+
