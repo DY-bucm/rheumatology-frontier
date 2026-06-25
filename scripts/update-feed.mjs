@@ -5,7 +5,7 @@ const args = Object.fromEntries(process.argv.slice(2).reduce((acc, value, index,
   if (value.startsWith("--")) acc.push([value.slice(2), list[index + 1] && !list[index + 1].startsWith("--") ? list[index + 1] : true]);
   return acc;
 }, []));
-const days = Number(args.days || 30);
+const days = Number(args.days || 1);
 const limit = Number(args.limit || 20);
 const output = String(args.output || "data/items.json");
 const config = JSON.parse(await fs.readFile("data/source-config.json", "utf8"));
@@ -20,6 +20,16 @@ function textBetween(xml, tag) {
 }
 function allBetween(xml, tag) {
   return [...xml.matchAll(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "gi"))].map(match => stripTags(match[1]));
+}
+function pubmedEntrezDate(article) {
+  const history = article.match(/<History>([\s\S]*?)<\/History>/i)?.[1] || "";
+  const block = history.match(/<PubMedPubDate PubStatus="entrez">([\s\S]*?)<\/PubMedPubDate>/i)?.[1]
+    || history.match(/<PubMedPubDate PubStatus="pubmed">([\s\S]*?)<\/PubMedPubDate>/i)?.[1]
+    || "";
+  const year = textBetween(block, "Year");
+  const month = textBetween(block, "Month").padStart(2, "0");
+  const day = textBetween(block, "Day").padStart(2, "0");
+  return year && month && day ? `${year}-${month}-${day}` : new Date().toISOString().slice(0, 10);
 }
 function topicTags(text = "") {
   const rules = [
@@ -69,7 +79,7 @@ function merge(item) {
 
 async function fetchPubMed() {
   if (!config.pubmed?.enabled) return [];
-  const term = `${config.pubmed.query} AND ("last ${days} days"[PDat])`;
+  const term = `${config.pubmed.query} AND ("last ${days} days"[EDat])`;
   const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&retmax=${limit}&sort=pub+date&term=${encodeURIComponent(term)}`;
   const search = await fetchJson(searchUrl);
   const ids = search.esearchresult?.idlist || [];
@@ -80,15 +90,13 @@ async function fetchPubMed() {
     const pmid = textBetween(article, "PMID");
     const title = textBetween(article, "ArticleTitle");
     const abstract = allBetween(article, "AbstractText").join(" ");
-    const date = textBetween(article, "ArticleDate") || [
-      textBetween(article, "Year"), textBetween(article, "Month"), textBetween(article, "Day")
-    ].filter(Boolean).join("-");
+    const date = pubmedEntrezDate(article);
     const doi = [...article.matchAll(/<ArticleId IdType="doi">([^<]+)<\/ArticleId>/gi)][0]?.[1] || "";
     const publicationTypes = allBetween(article, "PublicationType");
     const [evidenceLevel, studyStage, conclusionStrength] = inferPaperEvidence(publicationTypes, `${title} ${abstract}`);
     const disease = diseaseTag(`${title} ${abstract}`);
     return merge({
-      id: `pmid-${pmid}`, pmid, doi, source: "PubMed", date: normalizeDate(date), title, abstract,
+      id: `pmid-${pmid}`, pmid, doi, source: "PubMed", date, dateType: "PubMed indexed date", title, abstract,
       ...disease,
       topics: topicTags(`${title} ${abstract}`), evidenceLevel, studyType: publicationTypes[0] || "Journal article",
       url: `https://pubmed.ncbi.nlm.nih.gov/${pmid}/`,
@@ -132,12 +140,15 @@ async function fetchTrials() {
   }).filter(item => item.nctId && item.title);
 }
 
-const settled = await Promise.allSettled([fetchPubMed(), fetchTrials()]);
+const settled = await Promise.allSettled([fetchPubMed()]);
 const failures = settled.filter(result => result.status === "rejected");
 failures.forEach(result => console.error("Source update failed:", result.reason?.message || result.reason));
 const fetched = settled.flatMap(result => result.status === "fulfilled" ? result.value : []);
 if (!fetched.length && failures.length) process.exitCode = 1;
-const items = fetched.length ? dedupe(fetched).sort((a, b) => new Date(b.date) - new Date(a.date)) : [...existing.values()];
+const sourceFailed = failures.length === settled.length;
+const items = sourceFailed
+  ? [...existing.values()]
+  : dedupe(fetched).sort((a, b) => new Date(b.date) - new Date(a.date));
 await fs.mkdir(path.dirname(output), { recursive: true });
 await fs.writeFile(output, JSON.stringify({ updatedAt: new Date().toISOString(), items }, null, 2) + "\n");
 console.log(`Wrote ${items.length} items to ${output}`);
