@@ -5,7 +5,7 @@
     "retmax": 48
   },
   "clinicalTrials": {
-    "enabled": true,
+    "enabled": false,
     "conditions": [
       "rheumatoid arthritis",
       "systemic lupus erythematosus",
