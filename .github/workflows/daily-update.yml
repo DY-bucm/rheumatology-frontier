@@ -16,10 +16,23 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Update latest one-day PubMed literature
-        run: node scripts/update-feed.mjs --days 1 --limit 100 --output data/items.json
+      - name: Reconcile complete five-day PubMed window
+        run: node scripts/update-feed.mjs --days 5 --retentionDays 5 --pageSize 100 --maxRecords 1000 --output data/items.json
       - name: Apply exclusion rules
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
+      - name: DeepSeek faithful translation
+        continue-on-error: true
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: https://api.deepseek.com
+          DEEPSEEK_MODEL: deepseek-chat
+          TRANSLATION_LIMIT: "100"
+        run: |
+          if [ -n "$DEEPSEEK_API_KEY" ]; then
+            node scripts/enrich-ai.mjs data/items.json data/items.json
+          else
+            echo "DEEPSEEK_API_KEY is not configured; skipping translation."
+          fi
       - name: Build quality report
         run: node scripts/build-quality-report.mjs
       - name: Verify site
@@ -28,4 +41,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update rheumatology research feed"
-
