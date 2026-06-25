@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-06-25T12:33:51.877Z",
-  "total": 86,
-  "missingTitleZh": 86,
-  "missingSummaryZh": 86,
-  "missingSourceUrl": 0,
-  "registeredTrials": 0,
-  "preclinical": 5,
-  "lowRelevance": 0
+  "generatedAt": "2026-06-25T13:51:37.273Z",
+  "total": 159,
+  "translated": 59,
+  "withoutAbstract": 13,
+  "crossDisease": 8,
+  "errors": [],
+  "warnings": [
+    "pmid-42342317: PubMed 未提供摘要",
+    "pmid-42334948: PubMed 未提供摘要",
+    "pmid-42334871: PubMed 未提供摘要",
+    "pmid-42334565: PubMed 未提供摘要",
+    "pmid-42334506: PubMed 未提供摘要",
+    "pmid-42334237: PubMed 未提供摘要",
+    "pmid-42336387: PubMed 未提供摘要",
+    "pmid-42328826: PubMed 未提供摘要",
+    "pmid-42328896: PubMed 未提供摘要",
+    "pmid-42325419: PubMed 未提供摘要",
+    "pmid-42325075: PubMed 未提供摘要",
+    "pmid-42324723: PubMed 未提供摘要",
+    "pmid-42328032: PubMed 未提供摘要"
+  ]
 }
