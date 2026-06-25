@@ -117,7 +117,7 @@ function inferPaperEvidence(types = [], text = "") {
   if (/mouse|mice|murine|in vitro|cell line|animal model/i.test(joined)) {
     return ["动物/细胞研究", "临床前研究", "preclinical"];
   }
-  return ["其他研究", "待人工判定", "hypothesis"];
+  return ["其他研究", "研究类型未细分", "hypothesis"];
 }
 
 function mergeFetched(item) {
@@ -199,19 +199,19 @@ async function fetchPubMed() {
         ...diseaseTags(`${title} ${abstract}`),
         topics: topicTags(`${title} ${abstract}`),
         evidenceLevel,
-        evidenceMethod: "规则自动初筛，需人工复核",
+        evidenceMethod: "基于文献类型自动标注",
         studyType: publicationTypes[0] || "Journal Article",
         url: `https://pubmed.ncbi.nlm.nih.gov/${pmid}/`,
         credibility: {
           studyStage,
           conclusionStrength,
-          clinicalImplication: "请依据原始摘要、研究设计和全文判断，不将自动标签视为临床结论。",
+          clinicalImplication: "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
           riskNote: conclusionStrength === "observational"
             ? "观察性关联不能证明因果。"
             : conclusionStrength === "preclinical"
               ? "动物或细胞结果不能直接外推至患者。"
-              : "证据类型为自动初筛，使用前需核对原文。",
-          confidence: "自动初筛"
+              : "研究类型由规则自动归类，具体内容以原文为准。",
+          confidence: "自动标注"
         }
       }));
     }
@@ -317,3 +317,4 @@ async function readJson(file, fallback) {
     return fallback;
   }
 }
+
