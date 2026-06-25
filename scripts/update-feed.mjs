@@ -18,6 +18,8 @@ const config = JSON.parse(await fs.readFile("data/source-config.json", "utf8"));
 const existingPayload = await readJson(output, { items: [] });
 const existing = new Map((existingPayload.items || []).map(item => [item.id, item]));
 const today = utcDateOnly(new Date());
+const ncbiApiKey = process.env.NCBI_API_KEY || "";
+const requestIntervalMs = ncbiApiKey ? 350 : 1100;
 const fetchCutoff = new Date(`${today}T00:00:00Z`);
 fetchCutoff.setUTCDate(fetchCutoff.getUTCDate() - (fetchDays - 1));
 
@@ -146,11 +148,13 @@ async function searchPubMedIds() {
       tool: "rheumatology_frontier",
       email: config.ncbi?.email || "site-maintainer@example.com"
     });
+    if (ncbiApiKey) params.set("api_key", ncbiApiKey);
     const data = await fetchJsonPost("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi", params);
     const pageIds = data.esearchresult?.idlist || [];
     ids.push(...pageIds);
     totalCount = Number(data.esearchresult?.count || 0);
     if (!pageIds.length || ids.length >= totalCount) break;
+    await sleep(requestIntervalMs);
   }
   if (totalCount > maxRecords) {
     throw new Error(`PubMed returned ${totalCount} records, exceeding maxRecords=${maxRecords}; refusing a truncated update`);
@@ -171,6 +175,8 @@ async function fetchPubMed() {
       tool: "rheumatology_frontier",
       email: config.ncbi?.email || "site-maintainer@example.com"
     });
+    if (ncbiApiKey) params.set("api_key", ncbiApiKey);
+    if (start > 0) await sleep(requestIntervalMs);
     const xml = await fetchTextPost("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi", params);
     const articles = [...xml.matchAll(/<PubmedArticle>([\s\S]*?)<\/PubmedArticle>/gi)].map(match => match[1]);
     for (const article of articles) {
@@ -263,29 +269,45 @@ function isWithinRollingWindow(value, windowDays) {
 }
 
 async function fetchJsonPost(url, params) {
-  const response = await fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
-      "User-Agent": "RheumatologyFrontier/1.0"
-    },
-    body: params
-  });
-  if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+  const response = await fetchWithRetry(url, params);
   return response.json();
 }
 
 async function fetchTextPost(url, params) {
-  const response = await fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
-      "User-Agent": "RheumatologyFrontier/1.0"
-    },
-    body: params
-  });
-  if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+  const response = await fetchWithRetry(url, params);
   return response.text();
+}
+
+async function fetchWithRetry(url, params, maxAttempts = 7) {
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    const response = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": `RheumatologyFrontier/1.0 (${config.ncbi?.email || "site-maintainer@example.com"})`
+      },
+      body: params
+    });
+    if (response.ok) return response;
+
+    const retryable = response.status === 429 || response.status >= 500;
+    if (!retryable || attempt === maxAttempts) {
+      throw new Error(`${response.status} ${response.statusText} after ${attempt} attempt(s)`);
+    }
+
+    const retryAfter = Number(response.headers.get("retry-after"));
+    const exponential = Math.min(60_000, 2 ** (attempt - 1) * 2_000);
+    const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
+      ? retryAfter * 1000
+      : exponential + Math.floor(Math.random() * 1000);
+    console.warn(`NCBI returned ${response.status}; retrying in ${Math.ceil(waitMs / 1000)}s (${attempt}/${maxAttempts})`);
+    await sleep(waitMs);
+  }
+  throw new Error("NCBI request failed after retries");
+}
+
+function sleep(milliseconds) {
+  return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
 
 async function readJson(file, fallback) {
@@ -295,4 +317,3 @@ async function readJson(file, fallback) {
     return fallback;
   }
 }
-
