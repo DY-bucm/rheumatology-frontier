@@ -48,6 +48,16 @@ const report = {
   retentionDays: payload.retentionDays,
   total: items.length,
   translated: items.filter(item => item.titleZh && item.translationMeta?.validationPassed).length,
+  publishable: items.filter(item =>
+    item.titleZh
+    && item.translationMeta?.validationPassed === true
+    && (!item.abstract || item.abstractZh)
+  ).length,
+  unpublishedTranslationFailures: items.filter(item =>
+    !item.titleZh
+    || item.translationMeta?.validationPassed !== true
+    || (item.abstract && !item.abstractZh)
+  ).length,
   withoutAbstract: items.filter(item => !item.abstract).length,
   crossDisease: items.filter(item => (item.diseaseIds || []).length > 1).length,
   errors,
@@ -57,3 +67,4 @@ const report = {
 await fs.writeFile(output, JSON.stringify(report, null, 2) + "\n");
 console.log(JSON.stringify(report, null, 2));
 if (errors.length) process.exit(1);
+
