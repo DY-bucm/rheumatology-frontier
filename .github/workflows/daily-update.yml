@@ -17,6 +17,8 @@ jobs:
         with:
           node-version: "22"
       - name: Reconcile complete five-day PubMed window
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
         run: node scripts/update-feed.mjs --days 5 --retentionDays 5 --pageSize 100 --maxRecords 1000 --output data/items.json
       - name: Apply exclusion rules
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
