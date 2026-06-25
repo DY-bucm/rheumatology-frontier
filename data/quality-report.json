@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T01:59:59.005Z",
-  "total": 1,
-  "missingTitleZh": 0,
-  "missingSummaryZh": 0,
+  "generatedAt": "2026-06-25T02:30:43.458Z",
+  "total": 40,
+  "missingTitleZh": 40,
+  "missingSummaryZh": 40,
   "missingSourceUrl": 0,
-  "registeredTrials": 0,
-  "preclinical": 0,
+  "registeredTrials": 20,
+  "preclinical": 5,
   "lowRelevance": 0
 }
