@@ -16,15 +16,15 @@ try {
     <article class="detail-article">
       <div class="card-meta"><span>${escapeHtml(formatDate(item.date))}</span><span>${escapeHtml(item.source)}</span><span class="disease-label">${escapeHtml(item.diseaseZh || "待归类")}</span><span class="stage">${escapeHtml(c.studyStage || item.studyType || "待分类")}</span></div>
       <h1>${escapeHtml(item.title)}</h1>
-      ${item.titleZh ? `<p class="detail-title-zh">${escapeHtml(item.titleZh)}</p>` : ""}
+      ${item.titleZh ? `<p class="detail-title-zh">${escapeHtml(item.titleZh)} <small class="translation-label">DeepSeek 翻译·未人工复核</small></p>` : ""}
       <div class="detail-tags">${(item.topics || []).map(tag => `<span>${escapeHtml(tag)}</span>`).join("")}</div>
       <section class="judgment-grid">
         <div><small>证据等级</small><strong>${escapeHtml(item.evidenceLevel || "待评估")}</strong></div>
         <div><small>结论强度</small><strong>${escapeHtml(labelStrength(c.conclusionStrength))}</strong></div>
         <div><small>可信度</small><strong>${escapeHtml(c.confidence || "待评估")}</strong></div>
       </section>
-      <section><h2>文章重点</h2><p>${escapeHtml(item.insight || item.summaryZh || "尚无人工或 AI 解读。")}</p></section>
-      <section class="credibility-box"><h2>可信度判断</h2>
+      <section><h2>内容说明</h2><p>本站不自动生成研究结论。请以英文原始摘要、PubMed 记录及论文全文为准。</p></section>
+      <section class="credibility-box"><h2>自动证据初筛 <small class="translation-label">需人工复核</small></h2>
         <dl>
           <div><dt>研究阶段</dt><dd>${escapeHtml(c.studyStage || "待判断")}</dd></div>
           <div><dt>临床含义</dt><dd>${escapeHtml(c.clinicalImplication || "需结合研究设计与完整结果判断。")}</dd></div>
@@ -32,7 +32,7 @@ try {
         </dl>
       </section>
       ${item.abstract ? `<section><h2>英文原文摘要</h2><p class="abstract">${escapeHtml(item.abstract)}</p></section>` : ""}
-      ${item.abstractZh ? `<section><h2>中文翻译</h2><p>${escapeHtml(item.abstractZh)}</p></section>` : `<section><h2>中文要点</h2><p>${escapeHtml(item.summaryZh || "暂未生成中文内容。")}</p></section>`}
+      ${item.abstractZh ? `<section><h2>中文翻译 <small class="translation-label">AI辅助·未人工复核</small></h2><p>${escapeHtml(item.abstractZh)}</p></section>` : `<section><h2>中文翻译</h2><p>暂未生成中文翻译，请以英文原文和 PubMed 来源为准。</p></section>`}
       <section><h2>研究解读</h2><dl class="readout">
         <div><dt>研究类型</dt><dd>${escapeHtml(ai.studyType || item.studyType || "待分类")}</dd></div>
         <div><dt>核心发现</dt><dd>${escapeHtml(ai.keyFinding || "请查看原始来源。")}</dd></div>
