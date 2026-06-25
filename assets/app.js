@@ -5,7 +5,6 @@ const elements = {
   search: document.querySelector("#search"),
   source: document.querySelector("#source-filter"),
   disease: document.querySelector("#disease-filter"),
-  evidence: document.querySelector("#evidence-filter"),
   topic: document.querySelector("#topic-filter"),
   count: document.querySelector("#result-count"),
   stats: document.querySelector("#stats"),
@@ -19,6 +18,14 @@ const elements = {
 let rollingItems = [];
 let diseases = [];
 let activeWindow = 1;
+
+function isPublishable(item) {
+  return Boolean(
+    item.titleZh
+    && item.translationMeta?.validationPassed === true
+    && (!item.abstract || item.abstractZh)
+  );
+}
 
 function isWithinDays(item, days) {
   if (!item.date) return false;
@@ -51,7 +58,6 @@ function filteredItems(items) {
     return (!query || haystack.includes(query))
       && (!elements.source.value || item.source === elements.source.value)
       && (!elements.disease.value || (item.diseaseIds || [item.diseaseId]).includes(elements.disease.value))
-      && (!elements.evidence.value || item.evidenceLevel === elements.evidence.value)
       && (!elements.topic.value || (item.topics || []).includes(elements.topic.value));
   });
 }
@@ -122,14 +128,13 @@ try {
   const [data, diseaseData] = await Promise.all([loadItems(), loadDiseases()]);
   diseases = diseaseData;
   rollingItems = (data.items || [])
-    .filter(item => item.source === "PubMed" && isWithinDays(item, 5))
+    .filter(item => item.source === "PubMed" && isWithinDays(item, 5) && isPublishable(item))
     .sort((a, b) => new Date(b.date) - new Date(a.date));
   diseases.forEach(disease => elements.disease.insertAdjacentHTML(
     "beforeend",
     `<option value="${disease.id}">${disease.zh}</option>`
   ));
   fillSelect(elements.source, unique(rollingItems.map(item => item.source)));
-  fillSelect(elements.evidence, unique(rollingItems.map(item => item.evidenceLevel)));
   fillSelect(elements.topic, unique(rollingItems.flatMap(item => item.topics || [])));
   elements.updated.textContent = data.updatedAt
     ? `数据更新时间：${new Date(data.updatedAt).toLocaleString("zh-CN")}`
@@ -139,12 +144,13 @@ try {
     <p>滚动窗口：${data.retentionDays || 5} 天</p>
     <p>当前记录：${data.itemCount ?? rollingItems.length} 条</p>
     <p>本次新增：${data.changes?.added?.length ?? 0} 条 · 移除：${data.changes?.removed?.length ?? 0} 条</p>
-    <p>中文内容：DeepSeek 辅助翻译，未人工复核</p>`;
+    <p>中文内容：DeepSeek 忠实翻译并通过保真校验</p>
+    <p>公开展示：${rollingItems.length} 条</p>`;
   elements.windowButtons.forEach(button => button.addEventListener("click", () => {
     activeWindow = Number(button.dataset.window);
     renderWindow();
   }));
-  [elements.search, elements.disease, elements.source, elements.evidence, elements.topic]
+  [elements.search, elements.disease, elements.source, elements.topic]
     .forEach(element => element.addEventListener("input", renderFeed));
   renderWindow();
 } catch (error) {
