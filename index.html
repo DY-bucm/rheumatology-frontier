@@ -31,6 +31,22 @@
       <div id="disease-grid" class="disease-grid"></div>
     </section>
 
+    <section class="window-section" aria-labelledby="window-title">
+      <div>
+        <p class="eyebrow">Rolling literature window</p>
+        <h2 id="window-title">文献时间窗口</h2>
+        <p>默认查看最新 1 天；近 5 天模块每日滚动，自动加入新文献并移除超过 5 天的记录。</p>
+      </div>
+      <div class="window-switch" role="group" aria-label="选择文献时间窗口">
+        <button type="button" class="active" data-window="1" aria-pressed="true">
+          <strong>最新 1 天</strong><span>当天新增</span>
+        </button>
+        <button type="button" data-window="5" aria-pressed="false">
+          <strong>近 5 天文献</strong><span>每日滚动更新</span>
+        </button>
+      </div>
+    </section>
+
     <section class="toolbar" id="feed">
       <div class="search-wrap">
         <label for="search">检索当前情报</label>
@@ -53,6 +69,11 @@
         <div id="feed-list" class="feed-list" aria-live="polite"></div>
       </div>
       <aside>
+        <section class="panel source-panel">
+          <p class="eyebrow">Data provenance</p>
+          <h2>数据来源</h2>
+          <div id="source-status">正在读取数据状态…</div>
+        </section>
         <section class="panel" id="topics">
           <p class="eyebrow">Topic radar</p>
           <h2>主题雷达</h2>
