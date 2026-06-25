@@ -1,0 +1,25 @@
+{
+  "pubmed": {
+    "enabled": true,
+    "query": "(\"rheumatoid arthritis\"[Title/Abstract] OR \"systemic lupus erythematosus\"[Title/Abstract] OR \"lupus nephritis\"[Title/Abstract] OR \"Sjogren syndrome\"[Title/Abstract] OR \"Sjögren disease\"[Title/Abstract] OR \"systemic sclerosis\"[Title/Abstract] OR \"idiopathic inflammatory myopathy\"[Title/Abstract] OR dermatomyositis[Title/Abstract] OR spondyloarthritis[Title/Abstract] OR \"psoriatic arthritis\"[Title/Abstract] OR \"ANCA-associated vasculitis\"[Title/Abstract] OR \"giant cell arteritis\"[Title/Abstract] OR \"Takayasu arteritis\"[Title/Abstract] OR \"Behcet disease\"[Title/Abstract] OR \"antiphospholipid syndrome\"[Title/Abstract] OR \"IgG4-related disease\"[Title/Abstract] OR \"adult-onset Still disease\"[Title/Abstract] OR \"familial Mediterranean fever\"[Title/Abstract] OR gout[Title/Abstract] OR \"juvenile idiopathic arthritis\"[Title/Abstract]) NOT \"lupus vulgaris\"[Title/Abstract]",
+    "retmax": 48
+  },
+  "clinicalTrials": {
+    "enabled": true,
+    "conditions": [
+      "rheumatoid arthritis",
+      "systemic lupus erythematosus",
+      "Sjogren disease",
+      "systemic sclerosis",
+      "idiopathic inflammatory myopathy",
+      "spondyloarthritis",
+      "systemic vasculitis",
+      "antiphospholipid syndrome",
+      "IgG4-related disease",
+      "adult-onset Still disease",
+      "gout",
+      "juvenile idiopathic arthritis"
+    ],
+    "pageSize": 48
+  }
+}

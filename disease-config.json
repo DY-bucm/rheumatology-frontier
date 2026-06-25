@@ -1,0 +1,36 @@
+{
+  "siteNameZh": "风湿免疫前沿研究",
+  "siteNameEn": "Rheumatology & Immunology Frontier",
+  "scope": "炎症性、免疫介导性及晶体性风湿病",
+  "modules": [
+    {"id":"ra","zh":"类风湿关节炎","en":"Rheumatoid Arthritis","abbr":["RA"],"terms":["rheumatoid arthritis"]},
+    {"id":"sle","zh":"系统性红斑狼疮","en":"Systemic Lupus Erythematosus","abbr":["SLE","LN","NPSLE"],"terms":["systemic lupus erythematosus","lupus nephritis","neuropsychiatric lupus"]},
+    {"id":"sjogren","zh":"干燥综合征","en":"Sjögren Disease","abbr":["SjD","pSS"],"terms":["Sjogren syndrome","Sjögren disease","primary Sjogren"]},
+    {"id":"ssc","zh":"系统性硬化症","en":"Systemic Sclerosis","abbr":["SSc"],"terms":["systemic sclerosis","scleroderma"]},
+    {"id":"myositis","zh":"特发性炎性肌病","en":"Idiopathic Inflammatory Myopathies","abbr":["IIM","DM","PM","IMNM","ASyS"],"terms":["idiopathic inflammatory myopathy","dermatomyositis","immune-mediated necrotizing myopathy","antisynthetase syndrome"]},
+    {"id":"spa","zh":"脊柱关节炎谱系","en":"Spondyloarthritis","abbr":["SpA","axSpA","AS","PsA"],"terms":["spondyloarthritis","axial spondyloarthritis","ankylosing spondylitis","psoriatic arthritis"]},
+    {"id":"vasculitis","zh":"系统性血管炎","en":"Systemic Vasculitis","abbr":["AAV","GCA","TAK","BD"],"terms":["ANCA-associated vasculitis","giant cell arteritis","Takayasu arteritis","Behcet disease","systemic vasculitis"]},
+    {"id":"aps","zh":"抗磷脂综合征","en":"Antiphospholipid Syndrome","abbr":["APS"],"terms":["antiphospholipid syndrome"]},
+    {"id":"igg4","zh":"IgG4相关病","en":"IgG4-Related Disease","abbr":["IgG4-RD"],"terms":["IgG4-related disease"]},
+    {"id":"autoinflammatory","zh":"自炎症性疾病","en":"Autoinflammatory Diseases","abbr":["AOSD","FMF","CAPS"],"terms":["adult-onset Still disease","familial Mediterranean fever","cryopyrin-associated periodic syndrome","autoinflammatory disease"]},
+    {"id":"crystal","zh":"晶体性关节炎","en":"Crystal Arthritis","abbr":["Gout","CPPD"],"terms":["gout","calcium pyrophosphate deposition disease","crystal arthritis"]},
+    {"id":"pediatric","zh":"儿童风湿病","en":"Pediatric Rheumatic Diseases","abbr":["JIA","jSLE","jDM"],"terms":["juvenile idiopathic arthritis","juvenile systemic lupus","juvenile dermatomyositis","pediatric rheumatic disease"]}
+  ],
+  "crossDiseaseTopics": [
+    "靶向治疗",
+    "细胞治疗",
+    "免疫机制",
+    "生物标志物",
+    "影像与数字健康",
+    "妊娠与女性健康",
+    "真实世界研究",
+    "缓解与达标治疗",
+    "安全性",
+    "指南与共识"
+  ],
+  "frontierWindows": {"papersDays":30,"trialsDays":180,"reportsDays":30},
+  "taxonomySources": [
+    {"name":"American College of Rheumatology — Diseases & Conditions","url":"https://rheumatology.org/patients/diseases-and-conditions"},
+    {"name":"NIAMS — Autoimmune Diseases","url":"https://www.niams.nih.gov/health-topics/autoimmune-diseases"}
+  ]
+}

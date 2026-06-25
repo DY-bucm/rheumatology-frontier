@@ -1,0 +1,14 @@
+[
+  {"term":"systemic lupus erythematosus","zh":"系统性红斑狼疮","aliases":["SLE"]},
+  {"term":"lupus nephritis","zh":"狼疮肾炎","aliases":["LN"]},
+  {"term":"neuropsychiatric systemic lupus erythematosus","zh":"神经精神性系统性红斑狼疮","aliases":["NPSLE"]},
+  {"term":"type I interferon","zh":"I型干扰素","aliases":["IFN-I"]},
+  {"term":"B-cell activating factor","zh":"B细胞活化因子","aliases":["BAFF","BLyS"]},
+  {"term":"belimumab","zh":"贝利尤单抗","aliases":[]},
+  {"term":"anifrolumab","zh":"阿尼鲁单抗","aliases":[]},
+  {"term":"voclosporin","zh":"伏环孢素","aliases":[]},
+  {"term":"obinutuzumab","zh":"奥妥珠单抗","aliases":[]},
+  {"term":"chimeric antigen receptor T-cell","zh":"嵌合抗原受体T细胞","aliases":["CAR-T"]},
+  {"term":"low disease activity state","zh":"低疾病活动状态","aliases":["LLDAS"]},
+  {"term":"Definition Of Remission In SLE","zh":"SLE缓解定义","aliases":["DORIS"]}
+]

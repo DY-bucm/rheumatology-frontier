@@ -1,0 +1,14 @@
+{
+  "excludeTitlePatterns": [
+    "\\blupus vulgaris\\b",
+    "\\basset seizure\\b"
+  ],
+  "lowRelevancePatterns": [
+    "lupus anticoagulant"
+  ],
+  "requiredContextForLowRelevance": [
+    "systemic lupus",
+    "SLE",
+    "lupus nephritis"
+  ]
+}

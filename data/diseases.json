@@ -1,0 +1,14 @@
+[
+  {"id":"ra","zh":"类风湿关节炎","en":"Rheumatoid Arthritis","description":"滑膜炎、结构损伤、缓解策略与精准治疗。","color":"#9c3d35"},
+  {"id":"sle","zh":"系统性红斑狼疮","en":"Systemic Lupus Erythematosus","description":"多器官受累、狼疮肾炎、细胞治疗与达标治疗。","color":"#6f4b8b"},
+  {"id":"sjogren","zh":"干燥综合征","en":"Sjögren Disease","description":"腺体与系统受累、B细胞异常、淋巴瘤风险。","color":"#3d6b8a"},
+  {"id":"ssc","zh":"系统性硬化症","en":"Systemic Sclerosis","description":"纤维化、血管病变、间质性肺病和肺高压。","color":"#9a6335"},
+  {"id":"myositis","zh":"特发性炎性肌病","en":"Inflammatory Myopathies","description":"肌炎亚型、自身抗体、ILD 与恶性肿瘤风险。","color":"#9a4d67"},
+  {"id":"spa","zh":"脊柱关节炎谱系","en":"Spondyloarthritis","description":"axSpA、强直性脊柱炎、银屑病关节炎及附着点炎。","color":"#3e7250"},
+  {"id":"vasculitis","zh":"系统性血管炎","en":"Systemic Vasculitis","description":"AAV、大血管炎、白塞病及器官威胁性炎症。","color":"#a24b3d"},
+  {"id":"aps","zh":"抗磷脂综合征","en":"Antiphospholipid Syndrome","description":"血栓、妊娠并发症、风险分层和抗凝策略。","color":"#53669a"},
+  {"id":"igg4","zh":"IgG4相关病","en":"IgG4-Related Disease","description":"多器官纤维炎症、分型诊断与复发防治。","color":"#477c78"},
+  {"id":"autoinflammatory","zh":"自炎症性疾病","en":"Autoinflammatory Diseases","description":"AOSD、FMF、CAPS 与先天免疫异常。","color":"#b06b24"},
+  {"id":"crystal","zh":"晶体性关节炎","en":"Crystal Arthritis","description":"痛风、CPPD、降尿酸策略与炎症控制。","color":"#657642"},
+  {"id":"pediatric","zh":"儿童风湿病","en":"Pediatric Rheumatology","description":"JIA、幼年 SLE、幼年皮肌炎及生长发育结局。","color":"#4777a3"}
+]

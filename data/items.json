@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-06-25T01:54:08.933Z",
+  "items": [
+    {
+      "id": "welcome-rheumatology-frontier",
+      "source": "Site note",
+      "diseaseId": "sle",
+      "diseaseZh": "系统性红斑狼疮",
+      "date": "2026-06-25",
+      "title": "The rheumatology research feed is ready for its first automated update",
+      "titleZh": "风湿免疫研究情报流已就绪，等待首次自动更新",
+      "summaryZh": "运行 npm run update 可从 PubMed 和 ClinicalTrials.gov 获取最新记录；配置 API 密钥后可继续生成忠实中文翻译和证据解读。",
+      "abstract": "",
+      "topics": [
+        "研究方法"
+      ],
+      "evidenceLevel": "站点说明",
+      "studyType": "方法说明",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=systemic+lupus+erythematosus",
+      "credibility": {
+        "studyStage": "非研究记录",
+        "conclusionStrength": "review",
+        "clinicalImplication": "不涉及临床结论。",
+        "riskNote": "这是初始化说明，不是医学证据。",
+        "confidence": "high"
+      },
+      "aiRead": {
+        "studyType": "站点初始化",
+        "keyFinding": "数据管线已配置。",
+        "limitation": "尚未执行联网更新。",
+        "watchNext": "运行更新脚本并抽样复核内容。"
+      },
+      "relevanceFlag": "normal"
+    }
+  ]
+}
