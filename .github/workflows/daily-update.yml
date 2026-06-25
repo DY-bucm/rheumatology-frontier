@@ -16,27 +16,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Update PubMed and ClinicalTrials.gov feed
-        run: node scripts/update-feed.mjs --days 30 --limit 20 --output data/items.json
+      - name: Update latest one-day PubMed literature
+        run: node scripts/update-feed.mjs --days 1 --limit 100 --output data/items.json
       - name: Apply exclusion rules
         run: node scripts/apply-exclusions.mjs data/items.json data/exclusion-rules.json data/items.json
-      - name: AI translation and evidence readout
-        continue-on-error: true
-        env:
-          AI_API_KEY: ${{ secrets.AI_API_KEY }}
-          AI_API_BASE_URL: ${{ vars.AI_API_BASE_URL }}
-          AI_API_MODE: ${{ vars.AI_API_MODE }}
-          AI_MODEL: ${{ vars.AI_MODEL }}
-          AI_RESPONSE_FORMAT: ${{ vars.AI_RESPONSE_FORMAT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-          AI_ENRICH_LIMIT: "20"
-        run: |
-          if [ -n "$AI_API_KEY" ] || [ -n "$OPENAI_API_KEY" ]; then
-            node scripts/enrich-ai.mjs data/items.json data/items.json
-          else
-            echo "AI key is not configured; source update remains available."
-          fi
       - name: Build quality report
         run: node scripts/build-quality-report.mjs
       - name: Verify site
@@ -45,3 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update rheumatology research feed"
+
