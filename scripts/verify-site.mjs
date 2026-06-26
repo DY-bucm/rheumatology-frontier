@@ -118,4 +118,3 @@ async function walk(dir) {
   }
   return files;
 }
-
