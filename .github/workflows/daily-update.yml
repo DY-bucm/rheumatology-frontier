@@ -30,6 +30,7 @@ jobs:
           DEEPSEEK_MODEL: deepseek-chat
           TRANSLATION_LIMIT: "500"
           TRANSLATION_ATTEMPTS: "3"
+          TRANSLATION_CONCURRENCY: "3"
         run: |
           if [ -n "$DEEPSEEK_API_KEY" ]; then
             node scripts/enrich-ai.mjs data/items.json data/items.json
