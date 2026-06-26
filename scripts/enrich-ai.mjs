@@ -8,6 +8,7 @@ const baseUrl = (process.env.DEEPSEEK_API_BASE_URL || "https://api.deepseek.com"
 const model = process.env.DEEPSEEK_MODEL || "deepseek-chat";
 const limit = Number(process.env.TRANSLATION_LIMIT || 500);
 const maxTranslationAttempts = Number(process.env.TRANSLATION_ATTEMPTS || 3);
+const concurrency = Math.max(1, Math.min(Number(process.env.TRANSLATION_CONCURRENCY || 3), 5));
 
 if (!apiKey) {
   console.log("DEEPSEEK_API_KEY is not configured; skipping translation.");
@@ -26,7 +27,8 @@ function sourceHash(item) {
 }
 
 function protectedNumbers(text = "") {
-  return [...new Set(text.match(/\b\d+(?:\.\d+)?(?:%|×10[-−]?\d+)?\b/g) || [])];
+  const matches = text.match(/\b\d[\d,]*(?:\.\d+)?(?:%|×10[-−]?\d+)?\b/g) || [];
+  return [...new Set(matches.map(token => token.replaceAll(",", "")))];
 }
 
 function protectedTerms(text = "") {
@@ -45,7 +47,8 @@ function validateTranslation(result, item) {
 
   const source = `${item.title || ""} ${item.abstract || ""}`;
   const translated = `${result.titleZh} ${result.abstractZh}`;
-  const missingNumbers = protectedNumbers(source).filter(token => !translated.includes(token));
+  const normalizedTranslated = translated.replaceAll(",", "");
+  const missingNumbers = protectedNumbers(source).filter(token => !normalizedTranslated.includes(token));
   const missingTerms = protectedTerms(source)
     .filter(token => !translated.toLowerCase().includes(token.toLowerCase()));
 
@@ -135,19 +138,27 @@ const candidates = (payload.items || [])
   .filter(item => item.source === "PubMed" && item.pmid && item.title)
   .filter(item => item.translationMeta?.sourceHash !== sourceHash(item)
     || item.translationMeta?.validationPassed !== true)
+  .sort((a, b) => {
+    const aFailures = a.translationFailure?.totalAttempts || 0;
+    const bFailures = b.translationFailure?.totalAttempts || 0;
+    if (aFailures !== bFailures) return bFailures - aFailures;
+    return new Date(b.date) - new Date(a.date);
+  })
   .slice(0, limit);
 
 let translatedCount = 0;
 let failedCount = 0;
 
-for (const item of candidates) {
+async function processItem(item) {
   let correction = "";
   let success = false;
+  let lastError = "";
   for (let attempt = 1; attempt <= maxTranslationAttempts; attempt += 1) {
     try {
       const result = await requestTranslation(item, correction);
       const validation = validateTranslation(result, item);
       if (!validation.passed) {
+        lastError = validation.reason;
         correction = `上一次译文未通过校验。${validation.reason}。请重新完整翻译并原样保留这些内容。`;
         continue;
       }
@@ -163,11 +174,13 @@ for (const item of candidates) {
         validationMethod: "numbers-and-medical-abbreviations-preserved",
         attempts: attempt
       };
+      delete item.translationFailure;
       translatedCount += 1;
       success = true;
       console.log(`Translated ${item.id} on attempt ${attempt}`);
       break;
     } catch (error) {
+      lastError = error.message;
       correction = `上一次请求失败：${error.message}。请重新输出符合要求的 JSON 译文。`;
       if (attempt === maxTranslationAttempts) {
         console.error(`Translation failed for ${item.id}: ${error.message}`);
@@ -178,9 +191,26 @@ for (const item of candidates) {
     item.titleZh = "";
     item.abstractZh = "";
     delete item.translationMeta;
+    item.translationFailure = {
+      lastAttemptAt: new Date().toISOString(),
+      lastReason: lastError || "unknown",
+      totalAttempts: (item.translationFailure?.totalAttempts || 0) + maxTranslationAttempts,
+      retryPending: true
+    };
     failedCount += 1;
   }
 }
+
+let cursor = 0;
+async function worker() {
+  while (cursor < candidates.length) {
+    const item = candidates[cursor];
+    cursor += 1;
+    await processItem(item);
+  }
+}
+
+await Promise.all(Array.from({ length: concurrency }, () => worker()));
 
 payload.translationStatus = {
   attemptedAt: new Date().toISOString(),
@@ -188,9 +218,16 @@ payload.translationStatus = {
   translated: translatedCount,
   failed: failedCount,
   publishable: (payload.items || []).filter(item =>
-    item.titleZh && item.translationMeta?.validationPassed === true).length
+    item.titleZh
+    && item.translationMeta?.validationPassed === true
+    && (!item.abstract || item.abstractZh)
+  ).length,
+  pending: (payload.items || []).filter(item =>
+    !item.titleZh
+    || item.translationMeta?.validationPassed !== true
+    || (item.abstract && !item.abstractZh)
+  ).length
 };
 
 await fs.writeFile(output, JSON.stringify(payload, null, 2) + "\n");
 console.log(`Translation finished: ${translatedCount} succeeded, ${failedCount} failed.`);
-
