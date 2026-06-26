@@ -58,6 +58,7 @@ const report = {
     || item.translationMeta?.validationPassed !== true
     || (item.abstract && !item.abstractZh)
   ).length,
+  retryPending: items.filter(item => item.translationFailure?.retryPending === true).length,
   withoutAbstract: items.filter(item => !item.abstract).length,
   crossDisease: items.filter(item => (item.diseaseIds || []).length > 1).length,
   errors,
@@ -67,4 +68,5 @@ const report = {
 await fs.writeFile(output, JSON.stringify(report, null, 2) + "\n");
 console.log(JSON.stringify(report, null, 2));
 if (errors.length) process.exit(1);
+
 
