@@ -126,7 +126,8 @@ function mergeFetched(item) {
     ...item,
     titleZh: prior.titleZh || "",
     abstractZh: prior.abstractZh || "",
-    translationMeta: prior.translationMeta || undefined
+    translationMeta: prior.translationMeta || undefined,
+    translationFailure: prior.translationFailure || undefined
   };
 }
 
@@ -223,7 +224,7 @@ let fetched;
 try {
   fetched = await fetchPubMed();
 } catch (error) {
-  console.error(`PubMed update failed: ${error.message}`);
+  console.error(`PubMed update failed: ${error.message}${error.cause ? `; cause: ${error.cause.message}` : ""}`);
   process.exit(1);
 }
 
@@ -280,14 +281,24 @@ async function fetchTextPost(url, params) {
 
 async function fetchWithRetry(url, params, maxAttempts = 7) {
   for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
-    const response = await fetch(url, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded",
-        "User-Agent": `RheumatologyFrontier/1.0 (${config.ncbi?.email || "site-maintainer@example.com"})`
-      },
-      body: params
-    });
+    let response;
+    try {
+      response = await fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "User-Agent": `RheumatologyFrontier/1.0 (${config.ncbi?.email || "site-maintainer@example.com"})`
+        },
+        body: params,
+        signal: AbortSignal.timeout(120_000)
+      });
+    } catch (error) {
+      if (attempt === maxAttempts) throw error;
+      const waitMs = Math.min(60_000, 2 ** (attempt - 1) * 2_000) + Math.floor(Math.random() * 1000);
+      console.warn(`NCBI network error: ${error.message}; retrying in ${Math.ceil(waitMs / 1000)}s (${attempt}/${maxAttempts})`);
+      await sleep(waitMs);
+      continue;
+    }
     if (response.ok) return response;
 
     const retryable = response.status === 429 || response.status >= 500;
@@ -317,4 +328,3 @@ async function readJson(file, fallback) {
     return fallback;
   }
 }
-
