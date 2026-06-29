@@ -1,6 +1,217 @@
 {
-  "updatedAt": "2026-06-29T02:13:52.496Z",
+  "updatedAt": "2026-06-29T09:36:52.420Z",
   "items": [
+    {
+      "id": "pmid-42366340",
+      "pmid": "42366340",
+      "doi": "10.1186/s12902-026-02387-8",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Association of metabolic syndrome and its components with systemic lupus erythematosus.",
+      "abstract": "Systemic lupus erythematosus (SLE) patients might manifest an increased prevalence of Metabolic syndrome (MetS) components like insulin resistance, obesity, and dyslipidemia. Here we aimed to assess the interconnection between MetS components and SLE and attempted to divulge the potential contribution of MetS on SLE development. We enrolled 200 cases with SLE whose diagnosis was accomplished by American College of Rheumatology (ACR) criteria. MetS diagnosed was accomplished through the International Diabetes Federation (IDF) criteria. The frequency of MetS among the SLE population was 28.5%. SLEDAI was not significantly different between SLE cases with and without MetS (P = 0.3519). CRP level was significantly higher in the SLE cases with MetS compared to those without MetS (P = 0.0412). BMI, FBS, WC (both in males and females), total cholesterol, TG, and LDL were significantly higher in SLE subjects with MetS compared to those without MetS. However, in both males and females, HDL level was significantly lower in SLE subjects with MetS compared to those without MetS. Obesity, CVD, T2D, dyslipidemia, and hypertension were more prevalent in MetS cases among the SLE population. An increased prevalence of MetS in the SLE population was observed, while these patients did not have worsen disease severity. All conventional components of MetS were associated with MetS development in the SLE population. Not applicable.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366340/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "代谢综合征及其组分与系统性红斑狼疮的关联",
+      "abstractZh": "系统性红斑狼疮（SLE）患者可能表现出代谢综合征（MetS）组分（如胰岛素抵抗、肥胖和血脂异常）患病率增加。本研究旨在评估MetS组分与SLE之间的相互关联，并试图揭示MetS对SLE发展的潜在贡献。我们纳入了200例符合美国风湿病学会（ACR）诊断标准的SLE患者。MetS的诊断依据国际糖尿病联盟（IDF）标准。SLE人群中MetS的频率为28.5%。有和无MetS的SLE患者之间SLEDAI无显著差异（P = 0.3519）。有MetS的SLE患者CRP水平显著高于无MetS者（P = 0.0412）。有MetS的SLE患者BMI、FBS、WC（男性和女性）、总胆固醇、TG和LDL均显著高于无MetS者。然而，在男性和女性中，有MetS的SLE患者HDL水平显著低于无MetS者。在SLE人群中，MetS患者中肥胖、CVD、T2D、血脂异常和高血压更为常见。观察到SLE人群中MetS患病率增加，但这些患者的疾病严重程度并未加重。所有常规MetS组分均与SLE人群中MetS的发生相关。不适用。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "7795b5078eaaf81441b77abbddcf1cb8c0c2a7637548004591617091ed5e5917",
+        "translatedAt": "2026-06-29T09:39:18.717Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42366265",
+      "pmid": "42366265",
+      "doi": "10.1007/s10067-026-08124-9",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "The value of arthroscopic synovectomy in the treatment of rheumatoid arthritis: A prospective cohort study.",
+      "abstract": "The aim of this study is to investigate the effect of arthroscopic synovectomy (AS) on disease status in patients with rheumatoid arthritis (RA). A prospective study was conducted among patients with RA who underwent AS of the elbow or knee joints due to persistent swelling following conventional treatment, as well as control individuals who only received conventional treatment. All patients were evaluated at baseline and 4, 12, 24, 48, 96 weeks after AS. The coprimary outcomes were week 96 disease activity score (DAS)-28 remission and American College of Rheumatology improvement criteria (ACR20/50/70) remission. Key secondary outcomes were changes from baseline to week 96 in Mayo score, Lysoholm score, Health Assessment questionnaire (HAQ), patient's visual analogue scale, Magnetic Resonance Imaging in AS group. The correlation between synovial tissue biology and clinical response was analyzed. A total of 51 patients were included, with 17 accepted AS and conventional treatment, 34 only accepted conventional treatment. At week 96, more patients in AS group achieved DAS-28 remission [52.9% (9/17) vs 11.8% (4/34), P = 0.005] and ACR70 response [35.3% (6/11) vs 5.9% (2/34), P = 0.021] compared with control group. In AS group, DAS28 score [3.9 (3.7, 4.4) vs 2.8 (2.2, 3.4), P = 0.0002], MAYO score [52.5, (45.3, 62.8) vs 72 (60. 76.3), P = 0.021], Lysoholm score [55.5 (50, 59.5) vs 67.5 (63, 78), P = 0.020] and HAQ [4 (1, 6) vs 1 (0, 2), P = 0.034] improved significantly at week 4, 4, 12 and 48 respectively, and persisted until week 96. An increase in disease activity after AS was exclusively noted in the diffuse myeloid group. The disease activity and joint function of RA patients who underwent AS showed considerable improvement after surgery, which suggests that AS may enhance the likelihood of achieving remission in patients who had been treated with multiple DMARDs but have not achieved remission. Key Points • The rate of patients achieved disease remission in AS group at week 96 endpoint was better than that of the conventional treatment group. • Patients with RA after AS showed sustained improvement in disease activity and joint function, which remained stable for 96 weeks. • Only patients with diffuse myeloid synovial pathology exhibit increased disease activity.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "真实世界研究",
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366265/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "关节镜下滑膜切除术治疗类风湿关节炎的价值：一项前瞻性队列研究",
+      "abstractZh": "本研究旨在探讨关节镜下滑膜切除术（AS）对类风湿关节炎（RA）患者疾病状态的影响。对接受肘关节或膝关节AS（因常规治疗后持续肿胀）的RA患者以及仅接受常规治疗的对照组进行前瞻性研究。所有患者在基线及AS后4、12、24、48、96周进行评估。共同主要结局是第96周疾病活动评分（DAS）-28缓解和美国风湿病学会改善标准（ACR20/50/70）缓解。关键次要结局是AS组从基线到第96周Mayo评分、Lysoholm评分、健康评估问卷（HAQ）、患者视觉模拟量表、磁共振成像的变化。分析滑膜组织生物学与临床反应的相关性。共纳入51例患者，其中17例接受AS和常规治疗，34例仅接受常规治疗。第96周时，AS组达到DAS-28缓解的患者更多[52.9%（9/17） vs 11.8%（4/34），P = 0.005]，ACR70应答也更多[35.3%（6/11） vs 5.9%（2/34），P = 0.021]。在AS组中，DAS28评分[3.9（3.7, 4.4） vs 2.8（2.2, 3.4），P = 0.0002]、MAYO评分[52.5（45.3, 62.8） vs 72（60, 76.3），P = 0.021]、Lysoholm评分[55.5（50, 59.5） vs 67.5（63, 78），P = 0.020]和HAQ[4（1, 6） vs 1（0, 2），P = 0.034]分别在第4、4、12和48周显著改善，并持续至第96周。仅在弥漫性髓系组中观察到AS后疾病活动增加。接受AS的RA患者术后疾病活动和关节功能显著改善，这表明AS可能提高接受多种DMARDs治疗但未缓解的患者达到缓解的可能性。关键点 • AS组在第96周终点达到疾病缓解的患者比例优于常规治疗组。 • RA患者AS后疾病活动和关节功能持续改善，并稳定维持96周。 • 仅弥漫性髓系滑膜病理患者表现出疾病活动增加。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "fd29b1d2890da9eacac7d487ac793407368fb292bb4efdd8472781e1edf679e8",
+        "translatedAt": "2026-06-29T09:39:22.402Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42366221",
+      "pmid": "42366221",
+      "doi": "10.1038/s41598-026-59911-y",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Comparing the effects of two occupational therapy programmes on selected indicators in women with rheumatoid arthritis: a randomised controlled trial.",
+      "abstract": "Rheumatoid arthritis is one of the most common autoimmune diseases in the world. That is why new effective methods for the conservative treatment of this disease are constantly being sought. Unfortunately, there is still a lack of scientific reports on the effective use of occupational therapy as a method of conservative treatment among this group of individuals. Therefore, the aim of our research is to compare the effectiveness of two occupational therapeutic programmes based on art therapy and computer technology among women with rheumatoid arthritis. A group of 55 women between the age of 50-70 years with diagnosed rheumatoid arthritis in remission, with a disease duration between five and 10 years took, part in the research. Participants were randomly (a coin toss, performed by the main author) assigned to one of three groups: Group P (Pablo ® System therapy), Group A (art therapy), and Group C (control, no therapeutic intervention). All of the examined women were residents of the same large city, the average age in the examined groups being: Group P - 59.95 years, Group A - 61.79 years, and Group C - 61.47 years. The original therapeutic programme in Groups P and A was carried out individually with each patient, three times a week, for six weeks. The primary outcomes were to measure body mass (Tanita scale), body height (Martin type anthropometer) and identify the most difficult activity to perform (Canadian Occupational Performance Measure Questionnaire). The effects of therapy were assessed using the 25 Hole Pegboard Test (dexterity and hand-eye coordination), the Pablo ® System (range of motion in the wrists: extension, flexion, intra-radial adduction and ulnar adduction), the Numeric Rating Scale (pain intensity) and the 36-Item Short Form Health Survey (quality of life). The research project was a quantitative study, lasting from October to December 2025. It was conducted at the Occupational Therapy Workshop, part of the Central Research Laboratory of the University of Physical Culture in Kraków, Poland. Statistical analysis was performed using the t -test for dependent samples and one-way analysis of variance (ANOVA). Women from the study groups did not differ statistically significantly in terms of age, body mass, body height or Body Mass Index. Statistically significant results for comparisons between measurements were obtained in Group P for the dominant limb: dexterity (p < 0.001; 29.82-32.57 95%CI), wrist extension (p < 0.001; 57.86-65.40 95% CI), wrist flexion (p < 0.001; 64.70-71.40 95%CI), wrist intra-radial adduction (p < 0.001; 15.69-17.46 95%CI), wrist ulnar adduction (p < 0.001), and for the non-dominant limb: dexterity (p < 0.001; 29.59-32.43 95% CI), wrist extension (p < 0.001; 58.25-66.38 95%CI), wrist flexion (p < 0.001; 66.61-72.02 95%CI), wrist intra-radial adduction (p < 0.001; 15.28-17.14 95%CI) and wrist ulnar adduction (p < 0.001; 25.41-32.80 95%CI). For Group P, statistically significant results were also observed in comparisons between measurements of pain intensity (p < 0.001; 3.02-3.82) and in the physical area of quality of life (p < 0.026; 48.38-54.02). In Group A, such changes were observed only in pain intensity (p = 0.011; 3.72-4.59 95%CI). The results obtained during the study suggest that occupational therapy using the Pablo system may be more effective than art therapy in improving upper limb function among women with rheumatoid arthritis, especially in terms of functional parameters and quality of life regarding its physical component.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366221/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "比较两种职业治疗方案对类风湿关节炎女性患者选定指标的影响：一项随机对照试验",
+      "abstractZh": "类风湿关节炎是世界上最常见的自身免疫性疾病之一。因此，人们不断寻求新的有效保守治疗方法。遗憾的是，关于职业治疗作为该类患者保守治疗方法的有效性的科学报告仍然缺乏。因此，本研究的目的是比较基于艺术疗法和计算机技术的两种职业治疗方案对类风湿关节炎女性患者的有效性。研究对象为55名年龄在50-70岁之间、确诊为类风湿关节炎且处于缓解期、病程在5至10年之间的女性。参与者被随机（由主要作者进行抛硬币）分配到三组之一：P组（Pablo®系统治疗）、A组（艺术治疗）和C组（对照组，无治疗干预）。所有受试女性均居住在同一大城市，各组平均年龄分别为：P组59.95岁，A组61.79岁，C组61.47岁。P组和A组的原始治疗方案为每周三次、每次针对每位患者单独进行，持续六周。主要结局指标包括测量体重（Tanita秤）、身高（Martin型人体测量仪）并识别最困难的活动（加拿大职业表现测量问卷）。治疗效果通过25孔插板测试（灵巧性和手眼协调）、Pablo®系统（腕关节活动范围：伸展、屈曲、桡偏和尺偏）、数字评分量表（疼痛强度）和36项简短健康调查（生活质量）进行评估。该研究项目为定量研究，于2025年10月至12月进行，地点为波兰克拉科夫体育大学中央研究实验室的职业治疗工作室。统计分析采用配对样本t检验和单因素方差分析（ANOVA）。研究组女性在年龄、体重、身高或体重指数方面无统计学显著差异。P组在优势肢体的以下指标中获得了测量间比较的统计学显著结果：灵巧性（p < 0.001；95%CI 29.82-32.57）、腕伸展（p < 0.001；95%CI 57.86-65.40）、腕屈曲（p < 0.001；95%CI 64.70-71.40）、腕桡偏（p < 0.001；95%CI 15.69-17.46）、腕尺偏（p < 0.001）；非优势肢体：灵巧性（p < 0.001；95%CI 29.59-32.43）、腕伸展（p < 0.001；95%CI 58.25-66.38）、腕屈曲（p < 0.001；95%CI 66.61-72.02）、腕桡偏（p < 0.001；95%CI 15.28-17.14）、腕尺偏（p < 0.001；95%CI 25.41-32.80）。P组在疼痛强度（p < 0.001；95%CI 3.02-3.82）和生活质量躯体领域（p < 0.026；95%CI 48.38-54.02）的测量间比较中也观察到统计学显著结果。在A组中，仅在疼痛强度方面观察到此类变化（p = 0.011；95%CI 3.72-4.59）。研究结果表明，使用Pablo系统的职业治疗在改善类风湿关节炎女性患者的上肢功能方面可能比艺术治疗更有效，尤其是在功能参数和生活质量的躯体成分方面。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "6dcaecabe319b8875ebdf6e3bd0e13cabdb3948561f815c6078179cd38ff0c79",
+        "translatedAt": "2026-06-29T09:39:25.023Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42365814",
+      "pmid": "42365814",
+      "doi": "10.1016/j.medcli.2026.107501",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Pseudochylothorax in rheumatoid arthritis.",
+      "abstract": "",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365814/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "类风湿关节炎中的假性乳糜胸",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "fdc248bb6957ffbf461b4cdb0ba5b6d19896da78d4bb286fc309b0fc10b9356e",
+        "translatedAt": "2026-06-29T09:39:21.785Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42365805",
+      "pmid": "42365805",
+      "doi": "10.1016/j.medcli.2026.107497",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Glucocorticoid monotherapy versus combination with methotrexate or tocilizumab in giant cell arteritis: efficacy and safety at 78 weeks in a retrospective cohort study.",
+      "abstract": "The classic treatment for giant cell arteritis (GCA) is based on glucocorticoids (GC), whose prolonged use causes adverse effects. Therefore, GC-sparing drugs are used, although few direct comparative studies exist. We assessed the efficacy and safety of GC monotherapy (GC mono ), GC with methotrexate (GC+MTX), and GC with tocilizumab (GC+TCZ). Retrospective cohort study of patients with GCA. A composite endpoint (REACT-G) was defined that included relapses, serious infections, and GC-related adverse events at 78 weeks, and the cumulative dose of GC was analyzed. A total of 52 patients were included; 15 received GC mono , 30 received GC+MTX, and 7 received GC+TCZ. The REACT-G endpoint occurred in 27 patients, mainly due to relapses. GC+TCZ was associated with a lower REACT-G rate (14%) than GC mono (67%) and GC+MTX (53%) (p=0.082). In the GC+MTX group, the REACT-G was lower with higher doses of MTX (p=0.009). In the multivariate analysis, the use of GC+TCZ was the only independent protective factor against REACT-G (p=0.038). The cumulative GC dose at 78 weeks was higher in the GC mono group (7143.7±2977.7mg) than in GC+MTX group (5273.2±1745.3mg; p=0.032) and GC+TCZ group (3733.9±2286.8mg; p=0.005). In the multivariate analysis, only the GC+TCZ group accumulated significantly lower GC doses (p=0.034). Compared with GC mono , GC+TCZ combination was associated with a significant reduction in REACT-G events in the multivariate analysis and a lower cumulative dose of GC at 78 weeks. The benefit of GC+MTX was moderate and, like the prevention of REACT-G events, appears to be dose-dependent.",
+      "diseaseId": "vasculitis",
+      "diseaseIds": [
+        "vasculitis"
+      ],
+      "diseaseZh": "系统性血管炎",
+      "topics": [
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365805/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-06-29T09:39:33.081Z",
+        "lastReason": "必须保留这些缩写：GC-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
     {
       "id": "pmid-42365561",
       "pmid": "42365561",
@@ -30,7 +241,6 @@
       },
       "titleZh": "系统性硬化症患者社交外貌焦虑及其与焦虑、抑郁症状和健康相关生活质量的关系：一项横断面研究",
       "abstractZh": "本研究旨在评估系统性硬化症患者与健康对照者相比的社交外貌焦虑，并探讨其与焦虑、抑郁症状、健康相关生活质量及疾病相关临床特征的关系。这项横断面研究纳入71例系统性硬化症患者和38例健康对照者。使用社交外貌焦虑量表评估社交外貌焦虑。采用医院焦虑抑郁量表评估焦虑和抑郁症状，使用简短健康调查量表-36评估健康相关生活质量。记录疾病相关变量，包括改良Rodnan皮肤评分和EUSTAR疾病活动指数。系统性硬化症患者的社交外貌焦虑量表评分高于健康对照者[32.0（21.0-51.5） vs. 19.0（16.25-34.0）；p = 0.003]。系统性硬化症患者的焦虑和抑郁症状评分也更高。在系统性硬化症中，社交外貌焦虑与焦虑症状呈正相关，与多个健康相关生活质量领域呈负相关。社交外貌焦虑与改良Rodnan皮肤评分或EUSTAR疾病活动指数之间未观察到显著关联。系统性硬化症中社交外貌焦虑增加，且与心理困扰和健康相关生活质量受损相关，而非与常规疾病活动或皮肤厚度指标相关。这些发现支持将心理社会评估纳入系统性硬化症的常规护理。关键点 • 系统性硬化症患者的社交外貌焦虑高于健康对照者。 • 社交外貌焦虑与焦虑症状和健康相关生活质量受损相关。 • 社交外貌焦虑与皮肤厚度或EUSTAR疾病活动无显著关联。 • 心理社会评估可能为系统性硬化症护理提供临床相关信息。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -40,7 +250,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42365450",
@@ -74,7 +285,6 @@
       },
       "titleZh": "TNF抑制剂用于幼年特发性关节炎相关葡萄膜炎的长期管理：来自ITHACA队列的真实世界数据",
       "abstractZh": "评估不同TNF抑制剂（TNFi）在幼年特发性关节炎相关葡萄膜炎（JIA-U）中的处方模式并描述其长期真实世界有效性。回顾性纳入接受TNFi治疗的JIA-U患者。共纳入96例JIA-U患者（77%为女性），诊断年龄中位数为2.44岁[四分位距（IQR）1.56-3.81]，中位随访时间为19年。阿达木单抗是最常处方的TNFi（61%），其次是依那西普（19%）、英夫利西单抗（15%）和戈利木单抗（5%）。总体而言，阿达木单抗的并发症发生率最低（51%；p < 0.001），葡萄膜炎复发中位数最低（1；IQR 0-2；p = 0.012）。相反，依那西普的葡萄膜炎复发中位数最高（4；IQR 1-5）。各TNFi的“葡萄膜炎复发”累积发生率曲线相似。然而，当以“治疗变更”作为事件时，与接受阿达木单抗治疗的患者相比，接受英夫利西单抗治疗的患者风险显著更高（HR 3.06，95% CI 1.41-6.63；p < 0.01）。所有TNFi似乎对JIA-U的长期管理均有效。我们观察到在葡萄膜炎复发次数和眼部并发症发生率方面存在一些差异，阿达木单抗优于英夫利西单抗和依那西普，这些发现有待在前瞻性研究中进一步证实。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -84,6 +294,135 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
+      },
+      "relevanceFlag": "normal"
+    },
+    {
+      "id": "pmid-42366049",
+      "pmid": "42366049",
+      "doi": "10.2169/internalmedicine.7653-26",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "A Possible Case of Drug-induced ANCA-associated Vasculitis Associated with Mirabegron.",
+      "abstract": "Mirabegron, a β3-adrenoceptor agonist used for treating overactive bladder, has recently been identified in pharmacovigilance analyses as a potential signal for drug-induced myeloperoxidase (MPO) antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV), although detailed clinical reports are lacking. We herein describe a patient who developed MPO-ANCA-positive vasculitis approximately 1 year after mirabegron initiation. The patient presented with inflammatory symptoms, elevated MPO-ANCA and C-reactive protein levels, and hematuria, with an improvement following drug discontinuation, thus allowing for the withdrawal of immunosuppressive therapy within 1 year. Causality was assessed as \"probable/likely\" using the WHO-UMC system. This case highlights the importance of early recognition and prompt drug withdrawal in cases of drug-induced AAV.",
+      "diseaseId": "vasculitis",
+      "diseaseIds": [
+        "vasculitis"
+      ],
+      "diseaseZh": "系统性血管炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366049/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-06-29T09:39:29.692Z",
+        "lastReason": "必须保留这些缩写：ANCA-, MPO-ANCA-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42365762",
+      "pmid": "42365762",
+      "doi": "10.1016/j.semarthrit.2026.153031",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Soluble urokinase plasminogen activator receptor (suPAR) is associated with intrarenal chronicity features on diagnostic and repeat kidney biopsies in lupus nephritis.",
+      "abstract": "Soluble urokinase plasminogen activator receptor (suPAR) is linked to organ damage in systemic lupus erythematosus (SLE). We investigated whether serum suPAR associates with histological activity and chronicity in diagnostic and 12-month repeat kidney biopsies in lupus nephritis (LN). suPAR levels were determined using ELISA in serum samples from 23 LN patients (19 incident) before and 12 months after initiation of immunosuppressive therapy, and from 15 age- and sex-matched healthy controls. Correlations with NIH activity index (AI) and chronicity index (CI) scores were assessed using Spearman's rank correlation coefficient. suPAR levels were higher at active LN than in controls (5.37±0.93 ng/mL versus 2.64±0.97 ng/mL; p<0.001), decreased by month 12 (3.77±0.94 ng/mL; p=0.005), but remained elevated compared with controls (p<0.001). Baseline suPAR did not correlate with AI at baseline (rho=0.202; p=0.368) or month 12 (rho=0.332; p=0.165), whereas month-12 suPAR correlated with month-12 AI (rho=0.595; p=0.007). Baseline suPAR correlated with CI at baseline (rho=0.541; p=0.008) and month 12 (rho=0.554; p=0.017). Month-12 suPAR showed a trend towards a correlation with month-12 CI (rho=0.440; p=0.066). Baseline suPAR correlated with baseline interstitial fibrosis (rho=0.422; p=0.044) and predicted month-12 glomerular sclerosis (rho=0.580; p=0.011) and tubular atrophy (rho=0.477; p=0.045). Month-12 suPAR correlated with month-12 glomerular sclerosis (rho=0.572; p=0.013). Serum suPAR levels were elevated in active LN and, despite a decline, after 12 months of treatment compared with healthy individuals. suPAR levels correlated with intrarenal chronicity and predicted post-treatment glomerular sclerosis and tubular atrophy, suggesting suPAR as a potential biomarker of kidney damage in LN.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "生物标志物",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365762/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "可溶性尿激酶型纤溶酶原激活物受体（suPAR）与狼疮性肾炎诊断性和重复肾活检中的肾内慢性化特征相关",
+      "abstractZh": "可溶性尿激酶型纤溶酶原激活物受体（suPAR）与系统性红斑狼疮（SLE）的器官损伤相关。我们研究了血清suPAR是否与狼疮性肾炎（LN）诊断性和12个月重复肾活检中的组织学活动性和慢性化相关。采用ELISA法测定23例LN患者（19例初发）在免疫抑制治疗开始前和12个月后血清样本中的suPAR水平，并与15例年龄和性别匹配的健康对照进行比较。使用Spearman秩相关系数评估与NIH活动指数（AI）和慢性指数（CI）评分的相关性。活动性LN患者的suPAR水平高于对照组（5.37±0.93 ng/mL vs 2.64±0.97 ng/mL；p<0.001），在第12个月时下降（3.77±0.94 ng/mL；p=0.005），但仍高于对照组（p<0.001）。基线suPAR与基线AI（rho=0.202；p=0.368）或第12个月AI（rho=0.332；p=0.165）无相关性，而第12个月suPAR与第12个月AI相关（rho=0.595；p=0.007）。基线suPAR与基线CI（rho=0.541；p=0.008）和第12个月CI（rho=0.554；p=0.017）相关。第12个月suPAR与第12个月CI呈相关性趋势（rho=0.440；p=0.066）。基线suPAR与基线间质纤维化相关（rho=0.422；p=0.044），并预测第12个月肾小球硬化（rho=0.580；p=0.011）和肾小管萎缩（rho=0.477；p=0.045）。第12个月suPAR与第12个月肾小球硬化相关（rho=0.572；p=0.013）。活动性LN患者血清suPAR水平升高，尽管治疗12个月后有所下降，但仍高于健康个体。suPAR水平与肾内慢性化相关，并预测治疗后肾小球硬化和肾小管萎缩，提示suPAR可能是LN肾损伤的潜在生物标志物。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "41136a0fc24acc042a190aa7353cd8dfce27f14045d41522d3a98e2e08f8ce16",
+        "translatedAt": "2026-06-29T09:39:29.090Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42365792",
+      "pmid": "42365792",
+      "doi": "10.1016/j.semarthrit.2026.153027",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-06-28",
+      "dateType": "PubMed收录日期",
+      "title": "Cardiovascular-Kidney-Metabolic syndrome predicts the development of cardiovascular events in patients with rheumatoid arthritis: a 10-years prospective analysis from the CARMA cohort.",
+      "abstract": "To analyze the prevalence of cardiovascular-kidney-metabolic (CKM) syndrome and the relationship with cardiovascular (CV) events in rheumatoid arthritis (RA) patients from the CARdiovascular in RheuMAtology (CARMA) project followed prospectively for 10 years. Between July 2010 and January 2012, patients with RA and a comparison cohort of individuals without inflammatory diseases (controls) were recruited from 67 hospitals across Spain. CKM stage at recruitment was classified according to the American Heart Association consensus definition. Cox proportional hazards models adjusted for age and sex were used to evaluate the association between CKM stage and the composite outcome of CV events or all-cause mortality at 10-year follow-up. The study comprised 704 patients with RA and 604 controls followed prospectively for 10 years. The distribution of CKM stages differed significantly between two groups. Controls were more frequently classified in CKM stages 0 and 1, whereas RA patients predominated in advanced stages, particularly CKM stages 3 and 4 (p < 0.001). The incidence of CV events or all-cause mortality increased markedly with advancing CKM stage in both RA patients and controls. CKM stage 4 was associated with a significantly increased risk of composite outcome compared with CKM stage 2 in RA patients (Hazard ratio [HR] 3.90; 95% confidence interval [CI] 2.29-6.64) and controls (HR 5.22; 95% CI 2.39-11.40). RA patients classified as CKM stage 2 experienced a significantly higher risk of adverse composite outcome compared with controls at the same CKM stage (HR 2.40; 95% CI 1.42-4.05, p < 00.1). CKM syndrome has a high prevalence and is a determinant of CV outcomes in patients with RA.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "狼疮肾炎",
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365792/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "心血管-肾脏-代谢综合征预测类风湿关节炎患者心血管事件的发生：来自CARMA队列的10年前瞻性分析",
+      "abstractZh": "分析来自CARdiovascular in RheuMAtology (CARMA)项目的前瞻性随访10年的类风湿关节炎(RA)患者中心血管-肾脏-代谢(CKM)综合征的患病率及其与心血管(CV)事件的关系。2010年7月至2012年1月期间，从西班牙67家医院招募RA患者和无炎症性疾病对照人群。根据美国心脏协会共识定义对入组时的CKM分期进行分类。采用经年龄和性别校正的Cox比例风险模型评估CKM分期与10年随访期间CV事件或全因死亡复合结局之间的关联。研究包括704例RA患者和604例对照，前瞻性随访10年。两组间CKM分期分布差异显著。对照组更常被分类为CKM 0期和1期，而RA患者以晚期为主，尤其是CKM 3期和4期(p < 0.001)。在RA患者和对照组中，CV事件或全因死亡的发生率随CKM分期进展而显著增加。与CKM 2期相比，RA患者中CKM 4期与复合结局风险显著增加相关(风险比[HR] 3.90; 95%置信区间[CI] 2.29-6.64)，对照组中亦然(HR 5.22; 95% CI 2.39-11.40)。与相同CKM分期的对照组相比，CKM 2期的RA患者发生不良复合结局的风险显著更高(HR 2.40; 95% CI 1.42-4.05, p < 00.1)。CKM综合征在RA患者中患病率高，且是CV结局的决定因素。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "f7effc96f6abd0f5462facec2ce587a9dbac6bbd95d356ce697976c36f5eaf0a",
+        "translatedAt": "2026-06-29T09:39:36.204Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 2
       }
     },
     {
@@ -117,7 +456,6 @@
       },
       "titleZh": "艾灸足三里（ST36）对类风湿关节炎大鼠滑膜炎症中beclin 1-溶质载体家族7成员11基因铁死亡相关蛋白的影响",
       "abstractZh": "探讨艾灸足三里（ST36）对类风湿关节炎（RA）大鼠滑膜炎症中铁死亡相关蛋白的影响，并通过细胞实验验证其机制。采用“病证结合”造模方法建立RA大鼠模型。将大鼠随机分为空白对照组（Control组）和模型复制组。成功复制RA模型的大鼠进一步分为模型对照组（RA组）和艾灸治疗组（RA+Mox组）。干预后，检测大鼠足肿胀度及小动物超声检查，并对滑膜组织进行病理学检查、脂质活性氧（ROS）检测、亚铁离子Fe2+双染及免疫组化分析。提取三组大鼠血清用于细胞实验，进行细胞计数试剂盒-8和Western blot验证。(a) 与Control组大鼠相比，RA大鼠足跖肿胀度显著增加（P<0.01），关节炎症水平显著升高（P<0.001）；与RA组相比，RA+Mox大鼠足跖肿胀度显著降低（P<0.05），关节炎症水平显著降低（P<0.01）。(b) RA大鼠滑膜组织中脂质ROS水平与Control组大鼠相比无差异（P>0.05），但RA+Mox大鼠滑膜组织中脂质ROS水平显著升高（P<0.01）。与Control组大鼠相比，RA大鼠Fe2+水平显著降低（P<0.05）；与RA大鼠相比，RA+Mox大鼠Fe2+水平显著升高（P<0.01）。RA大鼠滑膜组织中beclin 1（BECN1）表达与Control组大鼠相比无显著差异（P>0.05），但与RA大鼠相比，RA+Mox大鼠滑膜组织中BECN1表达显著升高（P<0.01）。与Control组大鼠相比，RA大鼠滑膜组织中溶质载体家族7成员11基因（SLC7A11）水平显著升高（P<0.05）；与RA大鼠相比，RA+Mox大鼠SLC7A11水平显著降低（P<0.05）。(c) 在脂多糖（10 ng/mL）模型中，50%浓度的RA大鼠血清促进人RA成纤维样滑膜细胞系（MH7A）增殖（48 h）（P<0.05），而50%浓度的RA+Mox大鼠血清抑制MH7A增殖（48、72 h）（P<0.001）。25%和50%浓度的RA+Mox大鼠血清均上调MH7A中BECN1表达并下调SLC7A11表达。艾灸足三里（ST36）提示具有缓解RA大鼠足跖肿胀和滑膜炎症、减轻滑膜组织增生和增厚的潜力。它可能诱导滑膜组织中脂质ROS积累，上调Fe2+水平，上调BECN1表达，下调RA大鼠SLC7A11表达。此外，艾灸后50%浓度的大鼠血清抑制了滑膜成纤维细胞的增殖并调节了铁死亡相关蛋白的表达。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -127,7 +465,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 2
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42365184",
@@ -204,9 +543,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:18.102Z",
+        "lastAttemptAt": "2026-06-29T09:39:17.620Z",
         "lastReason": "必须保留这些缩写：RNA-, IFN-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -330,9 +669,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:39.286Z",
+        "lastAttemptAt": "2026-06-29T09:37:38.552Z",
         "lastReason": "必须保留这些缩写：TCM",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -460,9 +799,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:23.003Z",
+        "lastAttemptAt": "2026-06-29T09:39:20.544Z",
         "lastReason": "必须保留这些缩写：PAD4-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -758,9 +1097,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:47.402Z",
+        "lastAttemptAt": "2026-06-29T09:37:46.747Z",
         "lastReason": "必须保留这些缩写：ACPA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1363,9 +1702,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:48.757Z",
+        "lastAttemptAt": "2026-06-29T09:37:50.337Z",
         "lastReason": "必须保留这些缩写：ANCA-, UK",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1445,9 +1784,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:42.904Z",
+        "lastAttemptAt": "2026-06-29T09:37:42.669Z",
         "lastReason": "必须保留这些缩写：BCMA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1526,9 +1865,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:53.224Z",
+        "lastAttemptAt": "2026-06-29T09:37:53.233Z",
         "lastReason": "必须保留这些缩写：EA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1610,9 +1949,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:56.588Z",
+        "lastAttemptAt": "2026-06-29T09:37:56.349Z",
         "lastReason": "必须保留这些缩写：ANCA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1694,9 +2033,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:59.232Z",
+        "lastAttemptAt": "2026-06-29T09:38:00.448Z",
         "lastReason": "必须保留这些缩写：ROS-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1989,9 +2328,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:03.615Z",
+        "lastAttemptAt": "2026-06-29T09:38:03.390Z",
         "lastReason": "必须保留这些缩写：LPS-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2417,9 +2756,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:10.558Z",
+        "lastAttemptAt": "2026-06-29T09:38:10.084Z",
         "lastReason": "必须保留这些缩写：NPSLE-, CBC-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2457,9 +2796,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:17.420Z",
+        "lastAttemptAt": "2026-06-29T09:38:18.089Z",
         "lastReason": "必须保留这些缩写：ANCA-, RBC, HB",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2494,9 +2833,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:18.815Z",
+        "lastAttemptAt": "2026-06-29T09:38:18.017Z",
         "lastReason": "必须保留这些缩写：SCORE2-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2578,9 +2917,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:24.192Z",
+        "lastAttemptAt": "2026-06-29T09:38:23.731Z",
         "lastReason": "必须保留这些缩写：IMID-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2660,9 +2999,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:29.339Z",
+        "lastAttemptAt": "2026-06-29T09:38:29.736Z",
         "lastReason": "必须保留这些缩写：EV-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2699,9 +3038,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:29.173Z",
+        "lastAttemptAt": "2026-06-29T09:38:28.638Z",
         "lastReason": "必须保留这些缩写：RA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2738,9 +3077,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:37.184Z",
+        "lastAttemptAt": "2026-06-29T09:38:36.709Z",
         "lastReason": "必须保留这些缩写：US",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2905,9 +3244,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:40.940Z",
+        "lastAttemptAt": "2026-06-29T09:38:40.145Z",
         "lastReason": "必须保留这些缩写：OCT-, HCQ-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3248,9 +3587,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:40.606Z",
+        "lastAttemptAt": "2026-06-29T09:38:40.990Z",
         "lastReason": "必须保留这些缩写：SLE-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3371,9 +3710,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:50.002Z",
+        "lastAttemptAt": "2026-06-29T09:38:48.980Z",
         "lastReason": "必须保留这些缩写：PCD-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3541,9 +3880,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:52.516Z",
+        "lastAttemptAt": "2026-06-29T09:38:51.663Z",
         "lastReason": "必须保留这些缩写：SLE-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3625,9 +3964,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:15:54.642Z",
+        "lastAttemptAt": "2026-06-29T09:38:54.953Z",
         "lastReason": "必须保留这些缩写：SLE-, HC",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3664,9 +4003,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:00.495Z",
+        "lastAttemptAt": "2026-06-29T09:38:59.240Z",
         "lastReason": "必须保留这些缩写：OMERACT-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3705,9 +4044,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:05.145Z",
+        "lastAttemptAt": "2026-06-29T09:39:04.357Z",
         "lastReason": "必须保留这些缩写：LPS-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3873,9 +4212,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:06.711Z",
+        "lastAttemptAt": "2026-06-29T09:39:06.355Z",
         "lastReason": "必须保留这些缩写：PTM-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3955,9 +4294,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:10.992Z",
+        "lastAttemptAt": "2026-06-29T09:39:09.156Z",
         "lastReason": "必须保留这些缩写：NVC-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4343,9 +4682,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:16:17.179Z",
-        "lastReason": "必须保留这些缩写：CT-, CE, CE-CT",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-06-29T09:39:15.713Z",
+        "lastReason": "必须保留这些缩写：CT-",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4513,9 +4852,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:35.878Z",
+        "lastAttemptAt": "2026-06-29T09:37:35.592Z",
         "lastReason": "必须保留这些缩写：ANCA-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4594,9 +4933,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:04.574Z",
+        "lastAttemptAt": "2026-06-29T09:37:04.710Z",
         "lastReason": "必须保留这些缩写：UK",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4674,9 +5013,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:05.229Z",
+        "lastAttemptAt": "2026-06-29T09:37:05.061Z",
         "lastReason": "必须保留这些缩写：UK",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4981,9 +5320,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:03.565Z",
+        "lastAttemptAt": "2026-06-29T09:37:03.960Z",
         "lastReason": "必须保留这些缩写：LPS-",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5108,9 +5447,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:13.970Z",
+        "lastAttemptAt": "2026-06-29T09:37:14.635Z",
         "lastReason": "必须保留这些缩写：ANCA-",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5147,9 +5486,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:15.092Z",
+        "lastAttemptAt": "2026-06-29T09:37:15.018Z",
         "lastReason": "必须保留这些数字：7",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5186,9 +5525,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:36.932Z",
+        "lastAttemptAt": "2026-06-29T09:37:38.525Z",
         "lastReason": "必须保留这些缩写：SYK-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5311,9 +5650,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:16.509Z",
+        "lastAttemptAt": "2026-06-29T09:37:16.463Z",
         "lastReason": "必须保留这些数字：100000",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5482,9 +5821,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:25.946Z",
+        "lastAttemptAt": "2026-06-29T09:37:26.001Z",
         "lastReason": "必须保留这些缩写：SLE-",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5777,9 +6116,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:28.831Z",
+        "lastAttemptAt": "2026-06-29T09:37:28.457Z",
         "lastReason": "必须保留这些缩写：HRCT-",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -5991,20 +6330,20 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-06-29T02:14:25.813Z",
+        "lastAttemptAt": "2026-06-29T09:37:28.221Z",
         "lastReason": "必须保留这些缩写：IL-1-",
-        "totalAttempts": 15,
+        "totalAttempts": 18,
         "retryPending": true
       },
       "relevanceFlag": "normal"
     }
   ],
   "translationStatus": {
-    "attemptedAt": "2026-06-29T02:16:31.445Z",
-    "candidates": 41,
-    "translated": 3,
-    "failed": 38,
-    "publishable": 104,
-    "pending": 38
+    "attemptedAt": "2026-06-29T09:39:36.204Z",
+    "candidates": 46,
+    "translated": 6,
+    "failed": 40,
+    "publishable": 110,
+    "pending": 40
   }
 }
