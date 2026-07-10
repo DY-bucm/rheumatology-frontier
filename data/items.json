@@ -1,6 +1,1299 @@
 {
-  "updatedAt": "2026-07-09T10:39:11.714Z",
+  "updatedAt": "2026-07-10T10:30:37.460Z",
   "items": [
+    {
+      "id": "pmid-42426413",
+      "pmid": "42426413",
+      "doi": "10.1007/s00228-026-04130-7",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Infection risks associated with b/tsDMARDs in rheumatoid arthritis: a systematic review and network meta-analysis.",
+      "abstract": "To evaluate infection risks in rheumatoid arthritis (RA) patients with biological or targeted synthetic disease-modifying antirheumatic drugs (b/tsDMARDs) as monotherapy or combined with conventional synthetic DMARDs (csDMARDs). A comprehensive literature search of MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials (CENTRAL), and ClinicalTrials.gov from their inception to 31 October 2024 was conducted to identify randomized controlled trials (RCTs) assessing infection risks in RA patients receiving b/tsDMARDs. Primary outcome was serious infection incidence; secondary outcomes included any infection and specific events such as respiratory tract infections, gastroenteritis and herpes zoster. A frequentist network meta-analysis was performed to calculate odds ratios (ORs). A total of 127 RCTs involving 55,749 patients were included. b/tsDMARD monotherapy showed a similar risk of serious infections versus csDMARDs. Combining csDMARDs with adalimumab, infliximab, tofacitinib, or upadacitinib (though not with other b/tsDMARDs) was associated with a significantly increased risk of serious infections (OR 1.51, 95% CI: 1.04-2.19; OR 1.75, 95% CI: 1.09-2.81; OR 2.52, 95% CI: 1.26-5.03; OR 2.31, 95% CI: 1.13-4.73). For any infection, b/tsDMARD monotherapy posed a similar risk to csDMARDs, except for etanercept. Certain tsDMARDs were associated with an increased incidence of herpes zoster versus csDMARDs, except for filgotinib and peficitinib. Compared to csDMARDs, b/tsDMARD monotherapy showed no elevated serious infection risk, whereas specific combinations increased the risk of serious infections in RA patients. A clinical reference pathway was developed to inform drug selection optimization for RA patients receiving b/tsDMARDs.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "随机对照/临床试验",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426413/",
+      "credibility": {
+        "studyStage": "临床研究",
+        "conclusionStrength": "clinical-evidence",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "类风湿关节炎中b/tsDMARDs相关的感染风险：系统评价和网络荟萃分析",
+      "abstractZh": "评估类风湿关节炎（RA）患者使用生物或靶向合成改善病情抗风湿药（b/tsDMARDs）单药治疗或联合传统合成改善病情抗风湿药（csDMARDs）的感染风险。对MEDLINE、EMBASE、Cochrane对照试验中心注册库（CENTRAL）和ClinicalTrials.gov从建库至2024年10月31日进行全面的文献检索，以识别评估RA患者接受b/tsDMARDs感染风险的随机对照试验（RCTs）。主要结局为严重感染发生率；次要结局包括任何感染以及特定事件如呼吸道感染、胃肠炎和带状疱疹。采用频率学派网络荟萃分析计算比值比（ORs）。共纳入127项RCTs，涉及55,749例患者。b/tsDMARD单药治疗与csDMARDs相比，严重感染风险相似。csDMARDs联合阿达木单抗、英夫利西单抗、托法替布或乌帕替尼（但与其他b/tsDMARDs联合时无此关联）与严重感染风险显著增加相关（OR 1.51, 95% CI: 1.04-2.19; OR 1.75, 95% CI: 1.09-2.81; OR 2.52, 95% CI: 1.26-5.03; OR 2.31, 95% CI: 1.13-4.73）。对于任何感染，除依那西普外，b/tsDMARD单药治疗的风险与csDMARDs相似。某些tsDMARDs与带状疱疹发生率增加相关，而菲戈替尼和培非替尼除外。与csDMARDs相比，b/tsDMARD单药治疗未增加严重感染风险，而特定联合用药增加了RA患者的严重感染风险。制定了临床参考路径，以指导接受b/tsDMARDs的RA患者的药物选择优化。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "fb45edb612fcd13edb61b70c308fccc72aa4b27eb498c2676037c3c880cb4766",
+        "translatedAt": "2026-07-10T10:32:24.631Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42426553",
+      "pmid": "42426553",
+      "doi": "10.1093/rheumatology/keag346",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Automated high-resolution computed tomography analysis outperforms visual assessment in predicting interstitial lung disease progression in systemic sclerosis.",
+      "abstract": "Progressive interstitial lung disease (ILD) is the leading cause of mortality in systemic sclerosis (SSc). Early recognition of progression is crucial to timely treatment, but reliable early markers are lacking. Automated quantitative analysis of chest high-resolution computed tomography (HRCT) may provide an objective tool to detect early progression. This study aims to compare automated and visual assessment in identifying early SSc-ILD progression and evaluate their predictive value for subsequent functional decline. In this retrospective longitudinal study, 33 patients with SSc-ILD underwent HRCT and pulmonary function tests (PFTs) at baseline (T1) and after one year (T2; IQR 0.75-2.5 years). PFTs were repeated 12 months after T2 (T3; IQR 9-14.5 months, T3). Two radiologists performed blinded semi-quantitative visual scoring of fibrosis and ground-glass opacity (GGO), while automated analysis was conducted using Thoracic VCAR (GE Healthcare). Associations with PFTs and prediction of functional progression (Erice/INBUILD criteria) and treatment escalation were analyzed. Both visual and automated analyses detected fibrosis progression (visual: 1.5 → 1.6, p= 0.0005; software: 0.34%→0.4%, p= 0.01). Only automated analyses identified increases in GGO (15.5%→15.8%, p= 0.04) and reduced normal lung tissue (75.6%→73%, p= 0.009). Software-derived parameters correlated strongly with PFT changes, whereas visual scores showed weaker correlations. Early (T1-T2) automatically-detected GGO increases predicted subsequent functional decline at T3 (p= 0.04), with changes > 50 mL (8.2%) yelding 81% sensitivity and 77% specificity. Automated quantitative HRCT analysis, but not visual evaluation, predicts long-term functional progression in SSc-ILD.",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc"
+      ],
+      "diseaseZh": "系统性硬化症",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426553/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "自动化高分辨率计算机断层扫描分析在预测系统性硬化症间质性肺病进展方面优于视觉评估",
+      "abstractZh": "进行性间质性肺病（ILD）是系统性硬化症（SSc）的主要死亡原因。早期识别进展对于及时治疗至关重要，但缺乏可靠的早期标志物。胸部高分辨率计算机断层扫描（HRCT）的自动化定量分析可能提供一种客观工具来检测早期进展。本研究旨在比较自动化和视觉评估在识别早期SSc-ILD进展中的作用，并评估它们对后续功能下降的预测价值。在这项回顾性纵向研究中，33例SSc-ILD患者在基线（T1）和一年后（T2；IQR 0.75-2.5年）接受了HRCT和肺功能检查（PFT）。PFT在T2后12个月（T3；IQR 9-14.5个月，T3）重复进行。两名放射科医生对纤维化和磨玻璃影（GGO）进行盲法半定量视觉评分，而自动化分析使用Thoracic VCAR（GE Healthcare）进行。分析了与PFT的关联以及对功能进展（Erice/INBUILD标准）和治疗升级的预测。视觉和自动化分析均检测到纤维化进展（视觉：1.5→1.6，p=0.0005；软件：0.34%→0.4%，p=0.01）。只有自动化分析识别出GGO增加（15.5%→15.8%，p=0.04）和正常肺组织减少（75.6%→73%，p=0.009）。软件衍生参数与PFT变化强相关，而视觉评分显示较弱的相关性。早期（T1-T2）自动化检测到的GGO增加预测了T3时的后续功能下降（p=0.04），变化>50 mL（8.2%）的敏感性为81%，特异性为77%。自动化定量HRCT分析（而非视觉评估）可预测SSc-ILD的长期功能进展。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "efe93551eee33a6d99745306f42b9899c2ec8e3a941e78291f886f0dc8de80e6",
+        "translatedAt": "2026-07-10T10:32:27.636Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42425800",
+      "pmid": "42425800",
+      "doi": "10.1016/j.ard.2026.05.033",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "A head-to-head comparison of abatacept and adalimumab in adults with early and dual seropositive rheumatoid arthritis plus HLA-DRB1 shared epitope: results from the randomised phase 3 AMPLIFIED trial.",
+      "abstract": "To determine if patients with early rheumatoid arthritis (RA), an inadequate response to methotrexate (MTX-IR), dual seropositivity for anticitrullinated protein antibodies (ACPAs) and rheumatoid factor (RF), plus shared epitope (SE) human leukocyte antigen risk allele would show a superior response to abatacept vs adalimumab. The AMPLIFIED trial (NCT04909801) was a global, phase 3, head-to-head, randomised, single-blind study designed to evaluate treatment response with abatacept vs adalimumab in patients with early RA and MTX-IR, with ACPA, RF, and SE positivity. The primary endpoint was a 50% improvement in the American College of Rheumatology criteria (ACR50) at week 24 in the SE-positive subgroup. Exploratory analyses included biomarkers, immune cell subsets, and patient-reported outcomes (PROs). In all, 338 patients were randomised. Most patients (96%) completed treatment. Baseline demographics, disease characteristics, and glucocorticoid use were balanced between arms. The primary endpoint was not met. ACR50 at week 24 was 59% with abatacept and 60% with adalimumab (adjusted odds ratio [95% CI]: 1.0 [0.6-1.6]). Levels of anti-cyclic citrullinated peptide 2, C-reactive protein, and RF decreased with both treatments. Abatacept and adalimumab had differential impacts on immune modulation, including B-cell homeostasis. Both treatments improved PROs, including pain. Abatacept and adalimumab demonstrated similar rates of adverse events (AEs; 58.0% vs 59.2%) and serious AEs (2.4% vs 3.6%). Patients responded well to both treatments, with no clear advantage of abatacept vs adalimumab. Most patients tolerated their assigned therapies.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "B细胞与浆细胞",
+        "生物标志物",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "随机对照/临床试验",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425800/",
+      "credibility": {
+        "studyStage": "临床研究",
+        "conclusionStrength": "clinical-evidence",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:32:38.848Z",
+        "lastReason": "必须保留这些缩写：SE-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42425799",
+      "pmid": "42425799",
+      "doi": "10.1016/j.ard.2026.06.006",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Phenotype-specific associations of mosaic chromosomal alterations in systemic sclerosis.",
+      "abstract": "Mosaic chromosomal alterations (mCAs) increase with age and are associated with many diseases, including autoimmune diseases. The associations between mCAs and systemic sclerosis (SSc) and its clinical subtypes have not been explored. We recruited study subjects from 2 independent datasets (set 1: 635 SSc, 4401 controls; set 2: 347 SSc, 2170 controls) and detected mCAs (loss, loss of heterozygosity [LOH], gain, and mosaic loss of the X chromosome [mLOX]) from their peripheral blood samples. Logistic regression analyses were conducted with covariates in each cohort, and the results were meta-analysed. We also conducted stratified analyses by age groups, the age at disease onset, clinical phenotypes based on the skin lesions, autoantibody profiles, and the presence of complications. We observed a trend of increased loss in SSc, especially in old age (P = .0063). The association of loss was strengthened in certain subtypes of SSc, including lcSSc (odds ratio [OR] = 2.22, P = .019) and SSc with vascular complications (digital ulcers, pulmonary hypertension, or renal crisis; OR = 3.30, P = .0054). The effect sizes of Loss increased in patients with high cell fractions (CFs). We also observed that mLOX was significantly associated with SSc, limited cutaneous systemic sclerosis (lcSSc), and anticentromere antibody-positive systemic sclerosis (ACA-SSc) only for subjects with high CFs. mLOX was significantly associated with lcSSc and ACA-SSc even compared with dcSSc and ATA-SSc, respectively. These associations were consistently observed in each of the 2 datasets. Finally, we identified majority of the associations of Loss were mainly driven by SSc with late age at onset. Loss and mLOX were significantly and differentially associated with SSc and its subtypes, underscoring potential phenotype-specific contributions of mCAs.",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc"
+      ],
+      "diseaseZh": "系统性硬化症",
+      "topics": [
+        "狼疮肾炎",
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425799/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "系统性硬化症中嵌合染色体改变的表型特异性关联",
+      "abstractZh": "嵌合染色体改变（mCAs）随年龄增长而增加，并与包括自身免疫性疾病在内的多种疾病相关。mCAs与系统性硬化症（SSc）及其临床亚型之间的关联尚未被探索。我们从两个独立数据集（数据集1：635例SSc，4401例对照；数据集2：347例SSc，2170例对照）中招募研究对象，并检测其外周血样本中的mCAs（缺失、杂合性缺失[LOH]、获得以及X染色体嵌合缺失[mLOX]）。在每个队列中，我们进行了包含协变量的逻辑回归分析，并对结果进行了荟萃分析。我们还按年龄组、发病年龄、基于皮肤病变的临床表型、自身抗体谱以及并发症的存在进行了分层分析。我们观察到SSc中缺失增加的趋势，尤其是在老年人群中（P = .0063）。在SSc的某些亚型中，缺失的关联性增强，包括局限性皮肤型SSc（lcSSc；比值比[OR] = 2.22，P = .019）以及伴有血管并发症（指端溃疡、肺动脉高压或肾危象）的SSc（OR = 3.30，P = .0054）。在高细胞分数（CFs）的患者中，缺失的效应量增加。我们还观察到，仅在高CFs的受试者中，mLOX与SSc、局限性皮肤型系统性硬化症（lcSSc）以及抗着丝粒抗体阳性系统性硬化症（ACA-SSc）显著相关。即使分别与弥漫性皮肤型SSc（dcSSc）和抗拓扑异构酶抗体阳性SSc（ATA-SSc）相比，mLOX也与lcSSc和ACA-SSc显著相关。这些关联在两个数据集中均一致观察到。最后，我们发现缺失的关联主要归因于晚发型SSc。缺失和mLOX与SSc及其亚型存在显著且差异性的关联，强调了mCAs潜在的表型特异性贡献。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "4a73b91917bc7680e1e60fb520c8f87cfb718a680ed61072d6a30848ebd34a20",
+        "translatedAt": "2026-07-10T10:32:32.098Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42425718",
+      "pmid": "42425718",
+      "doi": "10.1136/rmdopen-2026-006788",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Influence of the shared epitope on the effectiveness of biologic antirheumatic agents in European patients with rheumatoid arthritis.",
+      "abstract": "For rheumatoid arthritis (RA), the HLA-DRB1 'shared epitope' (SE) allele has been proposed as a predictive biomarker for the effectiveness of mainly abatacept and other biologic disease-modifying antirheumatic drugs (bDMARDs). To explore the relative impact of SE positivity on the effectiveness of different bDMARDs in European patients with RA. Nested cohort study in the Swiss (Swiss Clinical Quality Management) and Danish (DANBIO) rheumatology registries. Patients with RA who initiated bDMARD treatment and had available DNA samples to define SE were included. Four bDMARD groups were defined: abatacept, tumour necrosis factor inhibitors (TNFi), rituximab, tocilizumab. Patients were matched 1:1 using propensity scores and the effectiveness compared between patients being SE positive versus SE negative. For sensitivity, the number of SE alleles was included. Primary end point was treatment retention (crude by SE status, adjusted Cox regression analyses including relevant covariates). Secondary end points were low disease activity (LDA) and remission (1, 2 years). Of the 5248 treatment courses initially identified, 464 patients in each of the four bDMARD groups were matched (SE negative: 31%, one SE allele: 48%, two alleles: 21%). For all bDMARD groups, crude 1-year treatment retention was unaffected by SE status. Cox regression analyses showed non-significant HRs for SE-positive versus SE-negative patients: abatacept 0.99 (95% CI 0.71 to 1.38), TNFi 1.01 (0.66 to 1.54), rituximab 1.14 (0.71 to 1.84), tocilizumab 1.48 (0.92 to 2.40). LDA and remission rates were unaffected by SE status for all four bDMARDs. Sensitivity analyses showed similar results. In the current study, the SE was not associated with bDMARD effectiveness in patients with RA of mainly European ancestry.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "生物标志物",
+        "真实世界研究",
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425718/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:32:41.228Z",
+        "lastReason": "必须保留这些缩写：SE-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42425607",
+      "pmid": "42425607",
+      "doi": "10.1136/bcr-2026-272497",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Patient with class V lupus nephritis (LN) treated with intravenous immunoglobulin (IVIG) achieving a favourable outcome.",
+      "abstract": "This case highlights the use of intravenous immunoglobulin (IVIG) in a patient with refractory pure class V lupus nephritis (LN), a challenging subtype of LN. A woman in her 30s with systemic lupus erythematosus developed severe proteinuria and could not tolerate standard immunosuppressants due to life-threatening infections. IVIG, though not a guideline-recommended therapy for class V LN, was initiated as an alternative. Over a 6-month period, the urinary protein-to-creatinine ratio decreased significantly, resulting in sustained renal remission. IVIG's mechanism involves modulating immunity, neutralising autoantibodies and reducing inflammation with a favourable safety profile compared with glucocorticoids and mycophenolate. While the current literature lacks robust trials, case reports and limited studies suggest that IVIG has the potential to treat difficult-to-treat LN. This case highlights the potential role of IVIG in LN and advocates for further research to establish its efficacy in managing class V LN, particularly in patients unable to tolerate conventional therapies.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "系统评价/指南",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425607/",
+      "credibility": {
+        "studyStage": "证据综合",
+        "conclusionStrength": "review",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "接受静脉注射免疫球蛋白（IVIG）治疗的V型狼疮性肾炎（LN）患者获得良好结局",
+      "abstractZh": "本病例强调了静脉注射免疫球蛋白（IVIG）在一例难治性纯V型狼疮性肾炎（LN）患者中的应用，LN是一种具有挑战性的亚型。一名患有系统性红斑狼疮的30多岁女性出现严重蛋白尿，且因危及生命的感染无法耐受标准免疫抑制剂。IVIG虽非V型LN的指南推荐疗法，但作为替代方案被启用。在6个月期间，尿蛋白与肌酐比值显著下降，实现了持续的肾脏缓解。IVIG的作用机制包括调节免疫、中和自身抗体及减轻炎症，且与糖皮质激素和霉酚酸酯相比具有更优的安全性。尽管当前文献缺乏强有力的试验，但病例报告和有限研究表明IVIG具有治疗难治性LN的潜力。本病例强调了IVIG在LN中的潜在作用，并倡导进一步研究以确立其在管理V型LN中的疗效，尤其是对于无法耐受常规治疗的患者。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "b83b8848595788cfba7aa0b91cba65fc53a09d0c289ee73008b1c6c3b7e7aa62",
+        "translatedAt": "2026-07-10T10:32:35.351Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42425323",
+      "pmid": "42425323",
+      "doi": "10.1016/j.jaad.2026.07.017",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Assessing Skin Cancer Risk in Systemic Sclerosis Patients with Organ Transplantation: A Cohort Study.",
+      "abstract": "",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc"
+      ],
+      "diseaseZh": "系统性硬化症",
+      "topics": [
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425323/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "评估器官移植系统性硬化症患者的皮肤癌风险：一项队列研究。",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "026a39865093a46192f9dccd68bed98ccb94e2c62c302c60c6beaf10306bdf0c",
+        "translatedAt": "2026-07-10T10:32:36.454Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42425124",
+      "pmid": "42425124",
+      "doi": "10.1016/S2213-2600(26)00220-1",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "COPA syndrome: a monogenic mimic of rheumatoid arthritis-associated ILD that warrants inclusion in future consensus statements.",
+      "abstract": "",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Letter",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425124/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "COPA综合征：类风湿关节炎相关ILD的单基因模拟病，值得纳入未来共识声明。",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "488cd24b7573b4af3f5228fad9dc93e66ec6ebc5c158c685cc54166bd5899caa",
+        "translatedAt": "2026-07-10T10:32:37.567Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42423822",
+      "pmid": "42423822",
+      "doi": "10.1007/s10067-026-08288-4",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Sacral nerve stimulation modulates disease activity and autonomic function in active rheumatoid arthritis: a randomized pilot study.",
+      "abstract": "To evaluate the feasibility and safety as well as potential effects of percutaneous sacral nerve stimulation (SNS) via acupuncture needles in patients with active rheumatoid arthritis (RA). Twenty-one patients with active RA were allocated to receive either active SNS (n = 11) or sham stimulation (n = 10) for 60 min daily over 14 days. Primary outcomes were changes in disease activity, assessed by the Disease Activity Score in 28 joints (DAS-28), tender joint count (TJC), swollen joint count (SJC), pain intensity on a visual analogue scale (VAS), erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP). Secondary outcomes included the following: (1) patient-reported outcomes for joint function, fatigue, anxiety, and depression; (2) serum levels of inflammatory cytokines; and (3) heart rate variability (HRV) parameters as a measure of autonomic function. In this pilot study, the SNS group showed significant within-group improvements in TJC, VAS, DAS28-ESR, and DAS28-CRP. However, an analysis of covariance (ANCOVA) adjusting for baseline values revealed no significant between-group differences in clinical and inflammatory parameters. The SNS group showed a significant increase in rMSSD (parasympathetic marker), with the between-group difference sustained after baseline adjustment. No significant differences were observed in functional and psychological scores or serum cytokine levels between the two groups. This first-in-human study indicates that percutaneous SNS is feasible and safe, with a possible modulatory effect on autonomic function in active RA. Further large‑scale, adequately powered trials are warranted to confirm the clinical efficacy and mechanisms of SNS in RA. This study was registered at ClinicalTrials.gov on March 25, 2021 under the identifier NCT04821050 (Protocol ID: 202002053). Key Points • First-in-human pilot study of percutaneous sacral nerve stimulation (SNS) in active RA. • SNS was associated with significant within-group improvements in tender joint count, pain VAS, and DAS28, but between-group differences did not reach statistical significance after baseline adjustment. • SNS significantly enhances parasympathetic activity (rMSSD) compared with sham stimulation, an effect that remained significant after adjusting for baseline differences. • Percutaneous SNS was safe and well-tolerated, with no serious adverse events reported.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423822/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "骶神经刺激调节活动性类风湿关节炎的疾病活动和自主神经功能：一项随机初步研究。",
+      "abstractZh": "评估通过针灸针进行经皮骶神经刺激（SNS）在活动性类风湿关节炎（RA）患者中的可行性、安全性及潜在效果。21例活动性RA患者被分配接受活性SNS（n=11）或假刺激（n=10），每天60分钟，持续14天。主要结局是疾病活动的变化，通过28关节疾病活动评分（DAS-28）、压痛关节计数（TJC）、肿胀关节计数（SJC）、视觉模拟量表（VAS）疼痛强度、红细胞沉降率（ESR）和C反应蛋白（CRP）评估。次要结局包括：（1）患者报告的关节功能、疲劳、焦虑和抑郁结局；（2）血清炎症细胞因子水平；（3）心率变异性（HRV）参数作为自主神经功能的测量。在这项初步研究中，SNS组在TJC、VAS、DAS28-ESR和DAS28-CRP方面显示出显著的组内改善。然而，调整基线值的协方差分析（ANCOVA）显示临床和炎症参数无显著组间差异。SNS组显示rMSSD（副交感神经标志物）显著增加，且基线调整后组间差异持续存在。两组在功能和心理评分或血清细胞因子水平方面未观察到显著差异。这项首次人体研究表明，经皮SNS可行且安全，对活动性RA的自主神经功能可能有调节作用。需要进一步大规模、充分把握度的试验来确认SNS在RA中的临床疗效和机制。本研究于2021年3月25日在ClinicalTrials.gov注册，标识符为NCT04821050（方案ID：202002053）。关键点• 首次在活动性RA中进行经皮骶神经刺激（SNS）的人体初步研究。• SNS与压痛关节计数、疼痛VAS和DAS28的显著组内改善相关，但基线调整后组间差异未达到统计学显著性。• 与假刺激相比，SNS显著增强副交感神经活动（rMSSD），该效应在调整基线差异后仍显著。• 经皮SNS安全且耐受良好，未报告严重不良事件。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "6bf0e0c82483e6461362b178efc0d5d8853b57cd8e51cd5389a8357da43a6933",
+        "translatedAt": "2026-07-10T10:32:42.436Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42423821",
+      "pmid": "42423821",
+      "doi": "10.1007/s10067-026-08269-7",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Identification of ferroptosis hub gene cDKN1A relating to immune microenvironment in rheumatoid arthritis via bioinformatic analysis and experimental verification.",
+      "abstract": "Rheumatoid arthritis (RA) is a chronic immune-mediated inflammatory disease in which ferroptosis appears to be implicated. This study aimed to identify ferroptosis-related therapeutic targets for RA via a series of bioinformatic analyses and experimental verification. In the present study, the GSE12021 and GSE55235 datasets were enrolled for subsequent analysis. Ferroptosis-related differentially expressed genes (FRDEGs) in RA were first identified, followed by random forest (RF), support vector machine (SVM), and Weighted Gene Co-Expression Network Analysis (WGCNA). Immune infiltration was analyzed, the hub genes expression was verified via in vitro experiments. Subsequently, the roles of hub genes in ferroptosis and macrophage polarization were determined through cell function experiments. A total of 24 FRDEGs were screened in RA, and the hub gene CDKN1A was identified. CDKN1A was associated with a variety of immune cells, such as Macrophage. In the synovial tissues and cells of RA patients, CDKN1A was downregulated, concomitant with ferroptosis activation. In normal synovial fibroblasts, knockdown of CDKN1A activated ferroptosis and induced macrophage M1 polarization, which was alleviated by ferroptosis inhibitor Fer-1. Conversely, in MH7A cells (a rheumatoid arthritis synovial fibroblast cell line), overexpression of CDKN1A significantly attenuated ferroptosis, accompanied by decreased M1 polarization. The ferroptosis-induced by CDKN1A low expression in synovial cells mediates the activation of macrophages. CDKN1A represents a novel potential molecular marker for RA immunotherapy. Key Points • Ferroptosis is a key phenotype of rheumatoid synovial cells. • CDKN1A-mediated ferroptosis is closely related to the synovial immune microenvironment in rheumatoid arthritis.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "动物/细胞研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423821/",
+      "credibility": {
+        "studyStage": "临床前研究",
+        "conclusionStrength": "preclinical",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "动物或细胞结果不能直接外推至患者。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:32:49.815Z",
+        "lastReason": "必须保留这些缩写：CDKN1A-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42421604",
+      "pmid": "42421604",
+      "doi": "10.1002/art.70272",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Non-melanoma skin cancer risk with Janus kinase inhibitors compared to interleukin-6 receptor inhibitors in rheumatoid arthritis: results from a national cohort study.",
+      "abstract": "Non-melanoma skin cancer (NMSC) is one of the most common malignancies in rheumatoid arthritis (RA). This analysis assessed NMSC risk with Janus kinase inhibitors (JAKi) compared to interleukin-6 receptor inhibitors (IL-6Ri). This study used data from the British Society for Rheumatology Rheumatoid Arthritis Register (BSRBR-RA) linked to National Cancer Registration and Analysis Service (NCRAS). People with RA initiating first JAKi or IL-6Ri without prior exposure to the comparator class were included. The primary analysis was ever-exposed model with first 90 days after treatment initiation excluded. Cox proportional hazards models estimated hazard ratios (HRs) with inverse probability of treatment weighting (IPTW) to adjust for confounding. Secondary analysis was on-treatment analysis. A total of 3,985 people with RA were included in primary analysis, with 116 first-ever NMSC recoded. The IPTW HR for JAKi vs IL-6Ri was 1.64 (95% CI: 0.85, 3.17). The IPTW-weighted absolute rate difference was 3.3 events per 1,000 person-years with JAKi versus IL-6Ri, which is around one additional NMSC event for every 307 patients who initiated JAKi rather than IL-6Ri and followed for 1 year. In on-treatment analysis, 32 and 19 NMSC events occurred among patients actively receiving IL-6Ri and JAKi, with IPTW HR of 1.82 (95% CI: 0.84, 3.96). Initiation of JAKi was associated with a clinically small, plausibly higher NMSC risk than IL-6Ri, although not statistically significant over 3.3 years. Rheumatologists and patients should weigh the potential risk of NMSC against the benefits of disease control when considering treatment choices.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421604/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:32:52.772Z",
+        "lastReason": "必须保留这些缩写：IPTW-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42421133",
+      "pmid": "42421133",
+      "doi": "10.1186/s13741-026-00721-1",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Anesthesia in systemic lupus erythematosus: a review of key considerations and surgical challenges.",
+      "abstract": "Systemic Lupus Erythematosus (SLE) presents complex challenges in the perioperative setting due to its multisystem involvement, immune-mediated pathology, and heterogeneous presentation. This narrative review explores the pathogenesis of SLE and its surgical implications, emphasizing how immune dysregulation, vascular endothelial dysfunction, and immunosuppressive therapy influence anesthetic management. It discusses the importance of comprehensive preoperative assessment, focusing on cardiovascular, pulmonary, renal, neurological, and hematological systems, to guide individualized anesthetic planning. Special attention is given to pharmacotherapy management, perioperative monitoring, and strategies to prevent disease flares. The role of spinal, epidural, and general anesthesia in surgical procedures and obstetric care for SLE patients is analyzed, highlighting benefits, risks, and precautions. By synthesizing multidisciplinary strategies and tailoring anesthetic approaches to SLE's variability, this review provides a framework to guide clinicians in optimizing perioperative safety for SLE patients. Future research should focus on standardized protocols and novel monitoring technologies to enhance outcomes.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421133/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "系统性红斑狼疮的麻醉：关键考虑因素与手术挑战综述",
+      "abstractZh": "系统性红斑狼疮（SLE）因其多系统受累、免疫介导的病理机制及异质性表现，在围手术期管理中带来复杂挑战。本叙述性综述探讨了SLE的发病机制及其手术影响，强调免疫失调、血管内皮功能障碍及免疫抑制治疗如何影响麻醉管理。本文讨论了全面术前评估的重要性，重点关注心血管、肺、肾、神经及血液系统，以指导个体化麻醉方案制定。特别关注药物治疗管理、围手术期监测及预防疾病发作的策略。分析了脊髓麻醉、硬膜外麻醉及全身麻醉在SLE患者手术及产科护理中的作用，强调了获益、风险及注意事项。通过综合多学科策略并根据SLE的变异性调整麻醉方法，本综述为临床医生优化SLE患者围手术期安全提供了框架。未来研究应聚焦于标准化方案及新型监测技术以改善预后。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "45807bd0101e2b0481aedc394273ac5efdb36a3328b236a79ecd6658eb22bf45",
+        "translatedAt": "2026-07-10T10:32:45.308Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421189",
+      "pmid": "42421189",
+      "doi": "10.1177/09612033261469032",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Anifrolumab induces a fast improvement in ultrasound-detected synovitis in systemic lupus erythematosus: Results from a 6-months follow-up ultrasound study.",
+      "abstract": "ObjectiveAnifrolumab (ANF) has been approved to treat extra-renal manifestations in Systemic Lupus Erythematosus (SLE) patients. Real-life data underline the excellent efficacy in skin involvement, but very little is known on other manifestations. We conducted a prospective longitudinal analysis to assess ANF efficacy in SLE-related joint involvement by using ultrasound.MethodsWe enrolled patients receiving ANF for musculoskeletal manifestations. All the patients were evaluated at baseline (T0) and after 1 (T1) 3 (T3) and 6 (T6) months of treatment.US assessment was performed at level of bilateral hands MCP and PIP joints. According to the OMERACT, we evaluated the presence of US inflammatory features (synovial effusion/hypertrophy, Power Doppler - pD), measured by semiquantitative score (0-3), resulting in a total US inflammatory score (0-180) and total PD score (0-60).ResultsOur cohort comprised 13 female patients. During the follow-up period, we found a significant reduction of US scores already after 1 month of treatment, with a further significant reduction after 3 and 6 months. Interestingly, after 6 months, 90% of patients showed negativization of pD signal in all the joints. Parallelly, we found a significant improvement in global disease activity indices and in DAS28crp values at all the time-points.ConclusionsOur analysis, made in a real-life scenario, underlines the fast efficacy of ANF on joint synovitis as shown by the reduction in US scores in the early stages of treatment. The rapid effect on pD signal suggest the ability of this drug to prevent the development of erosive damage.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "I型干扰素",
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421189/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:32:56.615Z",
+        "lastReason": "必须保留这些缩写：SLE-, US",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42421166",
+      "pmid": "42421166",
+      "doi": "10.1177/09612033261469027",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Hydroxychloroquine-induced retinopathy in Puerto Ricans with systemic lupus erythematosus: Associated factors and early-onset risk.",
+      "abstract": "ObjectiveTo determine factors associated with hydroxychloroquine (HCQ)-induced retinopathy in Puerto Ricans with systemic lupus erythematosus (SLE) and to evaluate determinants of early HCQ-induced retinopathy.MethodsWe conducted a retrospective study of adult Puerto Ricans with SLE. Patients with ophthalmologist-confirmed HCQ-induced retinopathy were compared with those without retinopathy. A subgroup analysis comparing patients with early-onset (≤5 years) versus late-onset (>5 years) retinopathy was also performed. Demographic factors, clinical manifestations, and pharmacologic treatments were analyzed using bivariate methods and logistic regression models adjusted for SLE duration.ResultsA total of 279 patients were included; 41 had HCQ-induced retinopathy, while 238 did not. Among patients with HCQ-induced retinopathy, the mean age (SD) was 45.2 (13.2) years, and 90.2% were women. The mean (SD) SLE duration and HCQ treatment duration were 10.3 (7.7) years and 9.1 (5.8) years, respectively. Patients with HCQ-induced retinopathy were more likely to have higher daily and weight-adjusted HCQ doses and greater damage accrual, but were less likely to have proteinuria, lymphopenia, anti-dsDNA positivity, low complement levels or exposure to mycophenolate mofetil. Among patients with HCQ-induced retinopathy, 13 (31.7%) discontinued HCQ within 5 years of treatment initiation. In multivariable analysis, early-onset toxicity was associated with corticosteroid exposure.ConclusionsIn this cohort of Puerto Rican Hispanics with SLE, HCQ-induced retinopathy occurred in 14.7% of patients, and nearly 32% of those affected developed early-onset retinopathy. Retinopathy was primarily associated with higher daily and weight-adjusted HCQ doses, while early-onset retinopathy was associated with corticosteroid exposure. These findings provide population-specific data that may help optimize HCQ dosing and underscore the importance of regular ophthalmologic screening, even during the early years of therapy.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421166/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:01.866Z",
+        "lastReason": "必须保留这些缩写：HCQ-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42421078",
+      "pmid": "42421078",
+      "doi": "10.1186/s13075-026-03858-y",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "DAS28-ESR may underestimate disease activity in rheumatoid arthritis patients with nonalcoholic fatty liver disease: a retrospective cohort study.",
+      "abstract": "Although approximately one-third of patients with rheumatoid arthritis (RA) have comorbid nonalcoholic fatty liver disease (NAFLD), the clinical characteristics of these patients remain unclear. The aim of this study was to clarify the clinical characteristics of RA patients classified as having NAFLD based on imaging, with a focus on composite disease activity assessment. This retrospective cohort study analysed data from 349 RA patients enrolled in the Nagahama Riumachi Cohort between March 2017 and August 2023. Patients with liver diseases other than NAFLD were excluded. NAFLD was classified based on findings from abdominal computed tomography and/or ultrasonography performed during the cohort period. Disease activity was assessed using the Clinical Disease Activity Index (CDAI), Simplified Disease Activity Index (SDAI), Disease Activity Score in 28 joints using C-reactive protein (DAS28-CRP), and Disease Activity Score in 28 joints using erythrocyte sedimentation rate (DAS28-ESR). Functional status was evaluated using the Health Assessment Questionnaire Disability Index (HAQ-DI). Factors associated with NAFLD were examined by logistic regression, and repeated measurements during follow-up were analysed using linear mixed-effects models. Seventy-three patients (20.9%) were classified as having NAFLD and 276 (79.1%) as not having NAFLD. Patients in the NAFLD group were younger, had a higher proportion of men, and had a higher prevalence of body mass index (BMI) ≥ 25 kg/m². There were no significant differences between the groups in disease activity assessed by CDAI, SDAI, or DAS28-CRP. However, the NAFLD group had significantly lower DAS28-ESR and erythrocyte sedimentation rate (ESR) values despite similar C-reactive protein (CRP) levels. HAQ-DI was lower in the NAFLD group, especially in the lower-limb domain. In multivariable analysis, younger age and higher (BMI) were independently associated with NAFLD, but ESR and HAQ-DI were not significantly associated. In linear mixed-effects models, NAFLD classification was not significantly associated with ESR, although ESR tended to be lower in the NAFLD group. Among patients with RA classified as having NAFLD, DAS28-ESR may underestimate disease activity compared with CRP-based or clinical indices. In these patients, DAS28-CRP, CDAI, and SDAI may provide complementary information.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421078/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:05.268Z",
+        "lastReason": "必须保留这些缩写：CRP-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42420832",
+      "pmid": "42420832",
+      "doi": "10.1177/09612033261469025",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Navigating the therapeutic landscape: Biologics and immunosuppressive therapy in lupus nephritis during pregnancy.",
+      "abstract": "BackgroundLupus nephritis (LN) predominantly affects women of reproductive age and carries substantial risks during pregnancy, including disease flare, preeclampsia, acute kidney injury, and adverse fetal outcomes. The therapeutic armamentarium for LN has expanded considerably with the approval of voclosporin, belimumab, and obinutuzumab, yet pregnancy safety data for these agents remain conspicuously absent. Concurrently, the 2024 EULAR recommendations for antirheumatic drugs in reproduction, the 2025 EULAR lupus nephritis update, and the 2024 KDIGO guidelines have reset the landscape of management guidance. This review critically appraises the evidence on the safety and clinical use of all current LN-relevant immunosuppressive and biologic therapies during pregnancy, lactation, and the periconceptional period.MethodsA comprehensive narrative review of literature published between January 2000 and May 2025 was conducted using PubMed, MEDLINE, EMBASE, and Cochrane databases. Key guidelines, pregnancy registries, and landmark clinical trial data were incorporated.ResultsHydroxychloroquine and azathioprine remain the cornerstones of pregnancy-compatible LN management. Tacrolimus is an acceptable calcineurin inhibitor with appropriate therapeutic drug monitoring. Low-dose aspirin is recommended universally to reduce preeclampsia risk. Mycophenolate mofetil is teratogenic and absolutely contraindicated in the first trimester. Voclosporin and obinutuzumab lack any pregnancy safety data and should be avoided. Belimumab data from the pregnancy registry have not raised major signals; selective use may be considered in refractory cases. Rituximab may be used cautiously for life-threatening disease, avoiding the third trimester due to neonatal B-cell depletion. Anifrolumab has no pregnancy data and should be reserved for situations where no compatible alternative exists.ConclusionThe growing number of effective LN therapies creates both opportunities and new dilemmas in pregnancy management. A structured, phase-based approach to drug selection - anchored in preconception counselling, timely medication switches, and multidisciplinary surveillance - is essential to optimise maternal and fetal outcomes. Dedicated pregnancy registries for novel biologics are urgently needed.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "B细胞与浆细胞",
+        "I型干扰素",
+        "妊娠与女性健康",
+        "真实世界研究"
+      ],
+      "evidenceLevel": "系统评价/指南",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420832/",
+      "credibility": {
+        "studyStage": "证据综合",
+        "conclusionStrength": "review",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:10.486Z",
+        "lastReason": "必须保留这些缩写：LN-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42420799",
+      "pmid": "42420799",
+      "doi": "10.1177/08971900261468840",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Evaluation of a Specialized Pharmacist-Managed Gout Clinic in a Veteran Population.",
+      "abstract": "Background: Gout is the most common inflammatory arthritis, and the underlying cause of gout, chronic elevation of serum uric acid (sUA), is well understood. Despite this, only a minority of patients receive optimal therapy as it requires adherence to frequent lab monitoring and urate lowering therapy (ULT) titration to achieve target goals. Objective: To evaluate the effectiveness of the pharmacist-managed gout clinic at VA San Diego Healthcare System (VASDHS) in lowering sUA. Methods: This was a single center, retrospective chart review of all Veterans enrolled in the pharmacy gout clinic from January 1, 2017, to December 31, 2021, comparing baseline and final sUA. The primary outcome was reduction of sUA from baseline. Results: There was statistically significant reduction of sUA from baseline at months 3, 6, 9, and 12, with average sUA levels of 6.8 ± 1.7 mg/dL, 6.4 ± 1.5 mg/dL, 6.0 ± 1.6 mg/dL, and 6.1 ± 2.2 mg/dL, respectively ( P < 0.001 for all values). Conclusion: This study suggests that the pharmacist-managed gout clinic can effectively lower and maintain sUA levels through the treat-to-target approach. Though the results of this study showed statistically significant sUA reduction, most patients did not reach their sUA goals by the end of the study. However, this finding may not be clinically relevant as patients can be above their sUA goal and still be gout flare free or have low frequency of flares.",
+      "diseaseId": "crystal",
+      "diseaseIds": [
+        "crystal"
+      ],
+      "diseaseZh": "晶体性关节炎",
+      "topics": [
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420799/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "退伍军人群体中专科药师管理的痛风门诊评估",
+      "abstractZh": "背景：痛风是最常见的炎症性关节炎，其根本原因——血清尿酸（sUA）的慢性升高——已得到充分认识。尽管如此，只有少数患者接受了最佳治疗，因为这需要坚持频繁的实验室监测和降尿酸治疗（ULT）的剂量调整以达到目标。目的：评估圣地亚哥退伍军人医疗系统（VASDHS）药师管理的痛风门诊在降低sUA方面的有效性。方法：这是一项单中心回顾性病历研究，纳入2017年1月1日至2021年12月31日期间所有加入药学痛风门诊的退伍军人，比较基线和最终sUA。主要结局是sUA从基线的降低。结果：在第3、6、9和12个月，sUA从基线显著降低，平均sUA水平分别为6.8±1.7 mg/dL、6.4±1.5 mg/dL、6.0±1.6 mg/dL和6.1±2.2 mg/dL（所有P值<0.001）。结论：本研究表明，药师管理的痛风门诊可以通过达标治疗策略有效降低并维持sUA水平。尽管本研究结果显示sUA降低具有统计学意义，但大多数患者在研究结束时未达到sUA目标。然而，这一发现可能不具有临床相关性，因为患者可能高于sUA目标但仍无痛风发作或发作频率较低。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "f1d533613361854a60a10be634c5c3fb2154a9d2800f8740723b1d4b71359fbe",
+        "translatedAt": "2026-07-10T10:33:05.071Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42426522",
+      "pmid": "42426522",
+      "doi": "10.1007/s15006-026-6094-5",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "[Osteoarthritis or rheumatoid arthritis?].",
+      "abstract": "",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426522/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "[骨关节炎还是类风湿关节炎？].",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "fdcf18d106df14fe90541666988baa8cd13e926d3e51ee771319d5acc17406a5",
+        "translatedAt": "2026-07-10T10:33:06.358Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42423408",
+      "pmid": "42423408",
+      "doi": "10.1167/iovs.67.8.30",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Epstein-Barr Virus-Induced Upregulation of GPR183: A Potential Upstream Mechanism in IgG4-Related Ophthalmic Disease.",
+      "abstract": "Immunoglobulin G4-related ophthalmic disease (IgG4-ROD) is the most common subtype of IgG4-related disease (IgG4-RD), yet its pathogenic mechanisms remain poorly understood. Ectopic germinal centers are a hallmark histopathological feature of IgG4-ROD, but the molecular drivers underlying their formation remain unclear. This study aimed to identify potential upstream triggers of IgG4-ROD and novel therapeutic targets. Fourteen patients with IgG4-ROD and 13 controls (9 with lacrimal gland prolapse and 4 with chronic dacryoadenitis) were enrolled. Lacrimal gland specimens were analyzed using bulk RNA sequencing (RNA-seq), multiplex immunofluorescence, flow cytometry, and quantitative real-time PCR (qPCR). Public bulk and single-cell RNA-seq datasets were further analyzed. GPR183 was the only gene consistently upregulated across lacrimal gland, salivary gland, peripheral blood, and retroperitoneal fibrosis tissues from patients with IgG4-RD. GPR183 was broadly expressed across multiple immune cell populations in lacrimal glands. Multiplex immunofluorescence demonstrated prominent GPR183 expression within ectopic germinal centers, particularly in B-lymphocyte-rich regions. The qPCR revealed a significantly higher Epstein-Barr virus (EBV) positivity rate in IgG4-ROD lacrimal glands than in controls (85.7% vs. 15.4%, P < 0.001). EBV DNA copy number positively correlated with serum IgG4 levels (adjusted R² = 0.79, P < 0.01). EBV markers EBNA1 and LMP1 were co-expressed with GPR183. Single-cell RNA-seq showed that early EBV infection induced GPR183 expression in T and B lymphocytes and was associated with B-lymphocyte differentiation. Our findings suggest that EBV-induced GPR183 upregulation potentially promotes ectopic germinal center formation and contributes to the pathogenesis of IgG4-ROD.",
+      "diseaseId": "igg4",
+      "diseaseIds": [
+        "igg4"
+      ],
+      "diseaseZh": "IgG4相关病",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423408/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:16.474Z",
+        "lastReason": "必须保留这些缩写：EBV-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42422989",
+      "pmid": "42422989",
+      "doi": "10.1177/00368504261466110",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Association between dietary index for gut microbiota and all-cause and cardiovascular disease mortality in patients with gout and hyperuricemia: A prospective cohort study.",
+      "abstract": "ObjectiveGout and hyperuricemia (HUA) are common metabolic disorders associated with increased all-cause and cardiovascular disease (CVD) mortality, and gut microbiota-modulating diets may influence prognosis. We aimed to evaluate whether the Dietary Index for Gut Microbiota (DI-GM) is associated with all-cause and CVD mortality among adults with gout or HUA.MethodsIn this prospective cohort study, we analyzed data from 5,325 adults with gout or hyperuricemia enrolled in the 2007-2018 National Health and Nutrition Examination Survey (NHANES). DI-GM scores were calculated using 24-hour dietary recall data, incorporating 14 predefined food components (10 beneficial and 4 harmful to gut microbiota). Mortality status was ascertained through linkage to the National Death Index up to December 31, 2019. Cox proportional hazards models were applied to estimate hazard ratios and 95% confidence intervals, adjusting for demographic, lifestyle, and clinical factors. Sensitivity analyses, interaction tests, and stratified analyses were conducted to assess robustness.ResultsDuring a median follow-up of 6.5 years (35,625 person-years), 603 deaths occurred, including 197 from CVD. Higher DI-GM scores were associated with significantly lower mortality risk. Participants with DI-GM scores ≥6 had a 33% reduced risk of all-cause mortality and a 45% reduced risk of CVD mortality compared to those with scores ≤ 4. Each one-point increase in DI-GM score was associated with an 8% decrease in all-cause mortality and a 13% decrease in CVD mortality. Results were consistent across all sensitivity analyses.ConclusionsIn individuals with gout or hyperuricemia, higher DI-GM scores were independently associated with reduced all-cause and CVD mortality. These findings suggest that gut microbiota-friendly dietary patterns may provide prognostic value and offer a potential target for dietary interventions in this high-risk population.",
+      "diseaseId": "crystal",
+      "diseaseIds": [
+        "crystal"
+      ],
+      "diseaseZh": "晶体性关节炎",
+      "topics": [
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422989/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "肠道微生物群膳食指数与痛风及高尿酸血症患者全因和心血管疾病死亡率的关系：一项前瞻性队列研究",
+      "abstractZh": "目的：痛风和高尿酸血症（HUA）是常见的代谢性疾病，与全因和心血管疾病（CVD）死亡率增加相关，而调节肠道微生物群的饮食可能影响预后。我们旨在评估肠道微生物群膳食指数（DI-GM）是否与痛风或HUA成年人的全因和CVD死亡率相关。方法：在这项前瞻性队列研究中，我们分析了2007-2018年国家健康与营养调查（NHANES）中5,325名痛风或高尿酸血症成年人的数据。DI-GM评分通过24小时膳食回顾数据计算，包含14种预定义的食物成分（10种对肠道微生物群有益，4种有害）。死亡率状态通过与截至2019年12月31日的国家死亡指数关联确定。应用Cox比例风险模型估计风险比和95%置信区间，并调整人口统计学、生活方式和临床因素。进行了敏感性分析、交互作用检验和分层分析以评估稳健性。结果：在中位6.5年（35,625人年）的随访期间，发生603例死亡，其中197例死于CVD。较高的DI-GM评分与显著较低的死亡风险相关。与评分≤4的参与者相比，DI-GM评分≥6的参与者全因死亡风险降低33%，CVD死亡风险降低45%。DI-GM评分每增加1分，全因死亡风险降低8%，CVD死亡风险降低13%。所有敏感性分析结果一致。结论：在痛风或高尿酸血症患者中，较高的DI-GM评分与降低的全因和CVD死亡率独立相关。这些发现表明，肠道微生物群友好型膳食模式可能提供预后价值，并为这一高风险人群的饮食干预提供潜在靶点。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "73c545f5aef5080000cf8417c05c295aaadf559c88978d8971143bddd4690c71",
+        "translatedAt": "2026-07-10T10:33:10.164Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421610",
+      "pmid": "42421610",
+      "doi": "10.1111/1756-185x.70767",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Therapeutic Potential of Spermidine in Rheumatoid Arthritis: Comment on Chen Et al.",
+      "abstract": "",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Letter",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421610/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "亚精胺在类风湿关节炎中的治疗潜力：对Chen等人的评论",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "3727ecff6086e4976eba01f037cfa3738811eee8bb348277ca26dea52597e153",
+        "translatedAt": "2026-07-10T10:33:11.372Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421454",
+      "pmid": "42421454",
+      "doi": "10.1111/1756-185x.70768",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Case Report: Coexisting Hereditary Spherocytosis, Limited Cutaneous Systemic Sclerosis, and Antiphospholipid Syndrome: A Rare Autoimmune-Hemolytic Association.",
+      "abstract": "",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc",
+        "aps"
+      ],
+      "diseaseZh": "系统性硬化症 · 抗磷脂综合征",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Letter",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421454/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "病例报告：遗传性球形红细胞增多症、局限性皮肤系统性硬化症和抗磷脂综合征共存：一种罕见的自身免疫性溶血关联。",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "24d850866f3a7a22923129534b43bdc5f78add27e66f3799ef9894735d3b7d7b",
+        "translatedAt": "2026-07-10T10:33:11.556Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421261",
+      "pmid": "42421261",
+      "doi": "10.1093/mrcr/rxag051",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Early postoperative onset of immune thrombocytopenia in rheumatoid arthritis with concomitant systemic lupus erythematosus: a case report.",
+      "abstract": "Immune thrombocytopenia (ITP) is often already recognised as a pre-existing comorbidity before surgery and managed with interventions to maintain platelet counts at levels considered adequate for surgery. Acute postoperative onset of ITP is extremely rare. We report a case of a 61-year-old woman with rheumatoid arthritis (RA) who developed acute ITP after total hip arthroplasty (THA). Treatment with intravenous immunoglobulin (IVIg) and corticosteroids rapidly improved her platelet count. Further investigation, including antibody testing such as antinuclear antibody (ANA) and anti-Smith antibodies, revealed comorbid systemic lupus erythematosus (SLE), suggesting the thrombocytopenia was SLE-associated. This case highlights the importance of considering acute ITP and latent autoimmune conditions like SLE in RA patients who experience postoperative thrombocytopenia. Therefore, when markedly elevated ANA titres are identified in patients with rheumatoid arthritis, additional assessment for coexisting SLE may be considered, including further immunological testing and closer perioperative monitoring.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra",
+        "sle"
+      ],
+      "diseaseZh": "类风湿关节炎 · 系统性红斑狼疮",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421261/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:19.304Z",
+        "lastReason": "必须保留这些缩写：SLE-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42422440",
+      "pmid": "42422440",
+      "doi": "10.3389/fped.2026.1833576",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Exploratory analysis of neutrophil extracellular traps in synovial fluid and plasma from children with juvenile idiopathic arthritis.",
+      "abstract": "The innate immune system is increasingly recognised as a key driver in the pathogenesis of juvenile idiopathic arthritis (JIA). Extracellular vesicles (EVs) have emerged as important mediators of inflammation, potentially reflecting cellular activation and disease processes in vivo . The aim of this exploratory pilot study was to investigate the presence of neutrophil- and platelet-derived EVs in the plasma and synovial fluid of children with JIA and compare these with plasma levels in healthy controls. Seven children with active, untreated JIA and ten healthy controls were included. Citrate plasma and synovial fluid were analysed for neutrophil- and platelet-derived EVs using flow cytometry. Disease activity was assessed using the Juvenile Arthritis Disease Activity Score (JADAS27) and functional impairment via the Childhood Health Assessment Questionnaire (CHAQ). Non-parametric tests were used in analyses. Neutrophil- and platelet-associated EVs were detectable not only in plasma but also in synovial fluid in all children with JIA. Plasma levels of CD41+ EVs and MPO+ EVs were significantly higher in the JIA group compared with controls. Activated platelet EVs (CD41+ and CD41 + CD62P) were detected predominantly in plasma and only at low levels in synovial fluid. MPO+ and H3Cit+ EVs were present in both compartments, indicating neutrophil activation and NET-related components. No correlations between EV levels and clinical or laboratory variables were found. This exploratory pilot study is the first to assess platelet- and neutrophil/NET-associated EV phenotypes in both plasma and synovial fluid in children with JIA. The results indicate systemic platelet activation and NET-related activity in both circulation and the inflamed joint compartment.",
+      "diseaseId": "pediatric",
+      "diseaseIds": [
+        "pediatric"
+      ],
+      "diseaseZh": "儿童风湿病",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422440/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:22.261Z",
+        "lastReason": "必须保留这些缩写：NET-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42422434",
+      "pmid": "42422434",
+      "doi": "10.3389/fendo.2026.1857217",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Prevalence and risk factors of hyperuricemia and gout in patients with type 2 diabetes mellitus: a systematic review and meta-analysis.",
+      "abstract": "Type 2 diabetes mellitus (T2DM) is one of the most common metabolic diseases worldwide. hyperuricemia (HUA) and gout are common comorbidities in T2DM patients. This systematic review and meta-analysis aimed to estimate the global prevalence of HUA and gout in patients with T2DM and to identify associated risk factors. A systematic search was conducted in PubMed, Embase, Web of Science, and the Cochrane Library to identify observational studies on HUA/gout in patients with T2DM. Two researchers independently performed literature screening, data extraction, and quality assessment. The quality of included studies was assessed using the Newcastle-Ottawa Scale and the AHRQ Scale. Statistical analyses were performed using Stata 12.0 software. A random-effects model was used to pool prevalence estimates, with subgroup and sensitivity analyses to explore heterogeneity. Publication bias was assessed using Egger's test. Eighty-seven studies comprising 977,573 T2DM patients were included. The pooled prevalence of HUA was 22.0% (95% CI: 20.1-24.0%, 95% PI: 4.9-39.2%), and that of gout was 6.0% (95% CI: 4.4-7.5%). Meta-regression identified geographic region as a significant source of heterogeneity, with the highest HUA prevalence in Africa and North America, and lowest in South America. Risk factors for HUA included impaired renal function, obesity, dyslipidemia, hypertension, metabolic syndrome, and alcohol consumption, while elevated HbA1c was inversely associated with HUA. Male sex was a significant risk factor for gout. The prevalence of HUA and gout is significantly higher in patients with T2DM than in the general population. Impaired renal function, obesity, dyslipidemia, hypertension, MetS, and alcohol consumption are the primary risk factors. Routine serum uric acid monitoring and early screening for high-risk individuals should be incorporated into the clinical management of T2DM. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261359583, identifier CRD420261359583.",
+      "diseaseId": "crystal",
+      "diseaseIds": [
+        "crystal"
+      ],
+      "diseaseZh": "晶体性关节炎",
+      "topics": [
+        "狼疮肾炎",
+        "真实世界研究"
+      ],
+      "evidenceLevel": "系统评价/指南",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422434/",
+      "credibility": {
+        "studyStage": "证据综合",
+        "conclusionStrength": "review",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "2型糖尿病患者高尿酸血症和痛风的患病率及危险因素：系统评价和荟萃分析",
+      "abstractZh": "2型糖尿病（T2DM）是全球最常见的代谢性疾病之一。高尿酸血症（HUA）和痛风是T2DM患者常见的合并症。本系统评价和荟萃分析旨在估计全球T2DM患者中HUA和痛风的患病率，并确定相关危险因素。在PubMed、Embase、Web of Science和Cochrane图书馆进行了系统检索，以识别关于T2DM患者中HUA/痛风的观察性研究。两名研究者独立进行文献筛选、数据提取和质量评估。采用纽卡斯尔-渥太华量表和AHRQ量表评估纳入研究的质量。使用Stata 12.0软件进行统计分析。采用随机效应模型合并患病率估计值，并通过亚组分析和敏感性分析探索异质性。使用Egger检验评估发表偏倚。共纳入87项研究，包含977,573名T2DM患者。HUA的合并患病率为22.0%（95% CI: 20.1-24.0%，95% PI: 4.9-39.2%），痛风的合并患病率为6.0%（95% CI: 4.4-7.5%）。荟萃回归分析确定地理区域是异质性的重要来源，非洲和北美洲的HUA患病率最高，南美洲最低。HUA的危险因素包括肾功能受损、肥胖、血脂异常、高血压、代谢综合征和饮酒，而HbA1c升高与HUA呈负相关。男性是痛风的重要危险因素。T2DM患者中HUA和痛风的患病率显著高于一般人群。肾功能受损、肥胖、血脂异常、高血压、代谢综合征和饮酒是主要危险因素。应将常规血清尿酸监测和高危人群的早期筛查纳入T2DM的临床管理中。https://www.crd.york.ac.uk/PROSPERO/view/CRD420261359583，标识符CRD420261359583。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "a8cec6fee603c723c7973b454a8f7ff9eaf569f2ccccad60a1063f82ffcb7ab9",
+        "translatedAt": "2026-07-10T10:33:20.225Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421967",
+      "pmid": "42421967",
+      "doi": "10.3389/fimmu.2026.1857248",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Case report: Pediatric vascular Behçet's disease with prominent arterial involvement: a case series of five patients.",
+      "abstract": "Vascular Behçet's disease (VBD) rare and severe subtype of Behçet disease characterized by vascular inflammation. Its prevalence in the pediatric population is extremely low. This case series aims to delineate the clinical features and long-term outcomes of pediatric VBD to enhance clinical recognition and optimize management strategies. We retrospectively reviewed five pediatric patients with VBD, all of whom were female. Arterial involvement was universal, with a subset of patients exhibiting concurrent venous disease. All patients showed a favorable response to glucocorticoids combined with immunosuppressants or biologic agents. Clinical manifestations were dominated by mucocutaneous and systemic features, including erythema nodosum, oral ulcers, genital ulcers, persistent fever, and abdominal pain. Laboratory evaluation revealed elevated inflammatory markers (C-reactive protein and/or erythrocyte sedimentation rate) in all cases. Vascular imaging confirmed the presence of vascular wall thickening and luminal stenosis. Colonoscopy at diagnosis identified multiple intestinal ulcers with surrounding mucosal hyperemia and edema in all five patients. \"Clinical improvement\" was defined as resolution of symptoms and normalized inflammatory markers; \"resolution\" meant complete disappearance of vascular lesions; \"amelioration\" meant ≥50% reduction in wall thickening or stenosis. During follow-up, all patients exhibited significant clinical improvement, with vascular lesions demonstrating resolution or significant amelioration on repeat imaging; intestinal ulcers healed in the four patients who underwent follow-up colonoscopy. This pediatric case series highlights that VBD can affect vessels of various sizes and typically presents with a constellation of characteristic mucocutaneous and systemic symptoms. Early diagnosis and proactive vascular screening followed by combination immunosuppressive therapy were associated with favorable clinical and radiological outcomes. Causal conclusions cannot be drawn due to the lack of a control group. Increased awareness of this rare vasculopathy is critical for prompt intervention and improved patient prognosis.",
+      "diseaseId": "vasculitis",
+      "diseaseIds": [
+        "vasculitis"
+      ],
+      "diseaseZh": "系统性血管炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Case Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421967/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "病例报告：儿童血管型白塞病伴显著动脉受累：五例患者病例系列",
+      "abstractZh": "血管型白塞病（VBD）是白塞病的一种罕见且严重的亚型，以血管炎症为特征。其在儿童人群中的患病率极低。本病例系列旨在描述儿童VBD的临床特征和长期结局，以提高临床认识并优化管理策略。我们回顾性分析了五例儿童VBD患者，均为女性。动脉受累普遍存在，部分患者同时伴有静脉疾病。所有患者对糖皮质激素联合免疫抑制剂或生物制剂反应良好。临床表现以黏膜皮肤和全身性特征为主，包括结节性红斑、口腔溃疡、生殖器溃疡、持续发热和腹痛。实验室检查显示所有病例炎症标志物（C反应蛋白和/或红细胞沉降率）升高。血管影像学检查证实存在血管壁增厚和管腔狭窄。诊断时结肠镜检查发现所有五例患者均有多发性肠道溃疡伴周围黏膜充血水肿。“临床改善”定义为症状消退和炎症标志物正常化；“消退”指血管病变完全消失；“好转”指血管壁增厚或狭窄减少≥50%。随访期间，所有患者均表现出显著的临床改善，重复影像学检查显示血管病变消退或显著好转；四例接受随访结肠镜检查的患者肠道溃疡愈合。本儿童病例系列强调，VBD可累及不同大小的血管，并通常表现为一系列特征性黏膜皮肤和全身症状。早期诊断和积极的血管筛查，随后联合免疫抑制治疗，与良好的临床和影像学结局相关。由于缺乏对照组，无法得出因果结论。提高对这种罕见血管病变的认识对于及时干预和改善患者预后至关重要。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "80f3e48a6e823b26f5c2f311a8fdf852651b20b42712abc31172759c394775e9",
+        "translatedAt": "2026-07-10T10:33:22.922Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421966",
+      "pmid": "42421966",
+      "doi": "10.3389/fimmu.2026.1804485",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Integrating genetic, epigenetic, and clinical signatures via machine learning for robust prediction of leflunomide response in rheumatoid arthritis: a multi-center validation study.",
+      "abstract": "To develop and validate a machine learning(ML)-based integrated predictive model combining genetic, epigenetic, and clinical factors for predicting leflunomide (LEF) treatment response in rheumatoid arthritis (RA) patients. A total of 357 RA patients (231 in the model development cohort [MDC], 126 in the external validation cohort [EVC]) were recruited from multiple centers in China. Whole-exome sequencing(WES), genome-wide DNA methylation profiling, and comprehensive clinical data were integrated for model development. Feature selection was performed via univariate analysis, Least Absolute Shrinkage and Selection Operator(LASSO) regression, and clinical feasibility filtering. Ten ML algorithms were tested, with SHapley Additive exPlanations (SHAP) for interpretability, and external validation to assess generalizability. The final integrated model included 3 single nucleotide polymorphisms (SNPs: ESR1- rs2813563, ABCC2 -rs4148396, LMO4 -rs983332), 7 differentially methylated positions (DMPs: cg13568171- MECR , cg07694252- ANGPT1 , cg13401893- RNF39 , cg19814518- UHMK1 , cg26370237- HSF5 , cg11136343- intergenic , cg15961042- intergenic ), and 3 clinical variables (IgG, course of disease, baseline Disease Activity Score 28(DAS28)). The Random Forest (RF) algorithm achieved the highest performance among the ten ML algorithms, with an area under the curve (AUC) of 0.84 (95% CI : 0.73-0.94) in the MDC and 0.70 (95% CI : 0.60-0.80) in the EVC-outperforming SNPs-only (AUC: 0.77/0.70) and DMPs-only (AUC:0.80/0.70) models. SHAP analysis identified cg13568171- MECR as the most important predictive feature, and its hypermethylation was associated with an improved response to LEF. Functional enrichment revealed three interconnected biological modules (lipid metabolism, drug transport, endocrine signaling) regulating LEF efficacy. A covariate-adjusted interaction between cg07694252- ANGPT1 and ESR1 -rs2813563 was observed in the MDC ( P  = 0.02). The integrated clinical-genetic/epigenetic RF model enables reliable prediction of LEF response in RA. Multi-omics integration showed superior performance in the MDC, while maintaining robust and non-inferior performance in EVC. The methylation-dependent interaction between cg07694252- ANGPT1 and ESR1 -rs2813563 implies a novel context-dependent transcriptional crosstalk mechanism, highlighting the value of multi-omics integration in advancing precision rheumatology.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "生物标志物",
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421966/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:36.388Z",
+        "lastReason": "必须保留这些缩写：EVC-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42421947",
+      "pmid": "42421947",
+      "doi": "10.3389/fimmu.2026.1845143",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Integrative single-cell transcriptomics and mendelian randomization identifies BTN3A2 as a shared protective factor in Behçet's disease and inflammatory bowel disease.",
+      "abstract": "Behçet's disease (BD) and inflammatory bowel disease (IBD) are immune-mediated chronic inflammatory disorders. Although they exhibit significant overlap in clinical manifestations and immunological features, whether they share molecular targets and pathogenic links remains unclear. This study aimed to explore the possible linking and shared treatment target between these two diseases. We analyzed scRNA-seq data from the peripheral blood of BD and IBD patients to delineate the immune cell landscape and identify key subsets via differential proportion analysis. Combining expression quantitative trait loci (eQTL) and genome-wide association study (GWAS) data, Mendelian Randomization (MR) analysis was performed to infer causal relationships between the key gene expressions in BD and IBD. Finally, validation was performed using the experimental autoimmune uveitis (EAU) mouse model, external datasets, and blood samples from BD uveitis patients. scRNA-seq analysis revealed a significant decrease in the proportion of CD4 + TEM_TH1-like cells in both BD and IBD. We identified 45 key signature genes within this subpopulation, among which the BTN3A2 gene was identified as a protective one in both BD and IBD. Co-localization analysis indicated spatial consistency between the BTN3A2 eQTL and BD GWAS signals. At the cellular functional level, BTN3A2 + and BTN3A2 - CD4 + TEM_TH1-like cells exhibited distinct cell-cell communication networks and pathway enrichment characteristics. The interactions between BTN3A2 + and BTN3A2 - cells were mediated by distinct signaling pathways in IBD and BD respectively. The EAU mouse model, which recapitulates BD-like ocular inflammation, was found for the first time to display IBD-like colonic pathological, including inflammatory infiltration, crypt dilation, goblet cell loss, and barrier disruption, accompanied by elevated IL-1β expression. Transcriptomic analysis using EAU mouse retina further revealed that the IBD pathway was one of the most significantly enriched disease-related pathways. Independent external datasets showed a significant downregulation of BTN3A2 at mRNA level in IBD, whereas downregulation of BTN3A2 at mRNA and protein levels was found in BD patients with uveitis. This study identifies BTN3A2 as a shared protective factor in BD and IBD and provides experimental evidence linking BD-associated ocular inflammation to intestinal pathology, establishing a new basis for comorbidity-targeted therapeutic strategies.",
+      "diseaseId": "vasculitis",
+      "diseaseIds": [
+        "vasculitis"
+      ],
+      "diseaseZh": "系统性血管炎",
+      "topics": [
+        "生物标志物",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "动物/细胞研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421947/",
+      "credibility": {
+        "studyStage": "临床前研究",
+        "conclusionStrength": "preclinical",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "动物或细胞结果不能直接外推至患者。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-07-10T10:33:36.241Z",
+        "lastReason": "必须保留这些缩写：BD-, IBD-",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42422649",
+      "pmid": "42422649",
+      "doi": "10.7759/cureus.110431",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Prescription Patterns in Rheumatoid Arthritis Patients at a Tertiary Care Hospital: A Prospective Cross-Sectional Study.",
+      "abstract": " Rheumatoid arthritis (RA) is a chronic, debilitating, systemic inflammatory condition seen worldwide. Prescribing medications is one of the most common interventions in RA treatment. Therefore, we aimed to study the prescription pattern for RA patients at our tertiary care center.  Methods: This was a prospective, cross-sectional, descriptive study of 95 RA patients. Data on demographic profile and drug prescriptions were collected from the prescriptions given by consultants and then analyzed.  Results: Most patients were aged 41-60 years (66.3%), and females predominated (61.1%). Common comorbidities included hypertension (21.1%), diabetes (16.8%), and anemia (12.6%). Disease duration was mainly three to five years (55.8%). Nearly half had an education below graduation (49.5%); common occupations were housewives (37.9%) and professionals (32.6%). Disease‑modifying anti‑rheumatic drugs (DMARDs) were the most prescribed class (90.5%), followed by nonsteroidal anti‑inflammatory drugs (NSAIDs; 64.2%) and corticosteroids (51.6%); biologics were limited (8.4%). Three‑drug prescriptions were most common (35.8%). Methotrexate was the predominant DMARD (75.8%), while diclofenac (20.0%) and deflazacort (18.9%) were the most frequently used NSAID and corticosteroid, respectively.  Conclusion: RA predominantly affects middle‑aged females with moderate disease duration and a notable comorbidity burden. Treatment patterns show strong reliance on conventional DMARDs, particularly methotrexate, with adjunct use of NSAIDs and corticosteroids, while biologics remain underused.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422649/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "三级医院类风湿关节炎患者的处方模式：一项前瞻性横断面研究",
+      "abstractZh": "类风湿关节炎（RA）是一种全球范围内常见的慢性、致残性、全身性炎症性疾病。药物治疗是RA治疗中最常见的干预措施之一。因此，我们旨在研究我院三级医疗中心RA患者的处方模式。方法：这是一项针对95例RA患者的前瞻性、横断面、描述性研究。从顾问医生开具的处方中收集人口学特征和药物处方数据，并进行分析。结果：大多数患者年龄在41-60岁（66.3%），女性占多数（61.1%）。常见合并症包括高血压（21.1%）、糖尿病（16.8%）和贫血（12.6%）。病程主要为3至5年（55.8%）。近半数患者教育程度低于本科（49.5%）；常见职业为家庭主妇（37.9%）和专业人士（32.6%）。改善病情抗风湿药（DMARDs）是最常处方的药物类别（90.5%），其次是非甾体抗炎药（NSAIDs；64.2%）和糖皮质激素（51.6%）；生物制剂使用有限（8.4%）。三种药物处方最常见（35.8%）。甲氨蝶呤是主要的DMARD（75.8%），而双氯芬酸（20.0%）和地夫可特（18.9%）分别是最常用的NSAID和糖皮质激素。结论：RA主要影响中年女性，病程中等，合并症负担显著。治疗模式显示对传统DMARDs（尤其是甲氨蝶呤）的强烈依赖，辅以NSAIDs和糖皮质激素，而生物制剂使用不足。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "d62cade4ee1341a828fd24336238b215882c8bfe0471a89b43fd2c4980620419",
+        "translatedAt": "2026-07-10T10:33:26.558Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42422623",
+      "pmid": "42422623",
+      "doi": "10.7759/cureus.110457",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Patient-Reported Flare Symptoms Following COVID-19 Vaccination in Systemic Lupus Erythematosus.",
+      "abstract": "Disease flare after COVID-19 vaccination is a major concern among patients with systemic lupus erythematosus (SLE) and may contribute to vaccine hesitancy. We evaluated patient-reported flare symptoms, associated factors, and adverse events following COVID-19 vaccination in patients with SLE. We conducted a cross-sectional study of adult patients with SLE who received at least one COVID-19 vaccine dose. Demographic data, disease activity, treatments, and patient-reported flare symptoms occurring within four weeks after vaccination were collected. A total of 324 patients were included; 94.4% were women with a mean age of 40.8 ± 11.7 years. Most patients received at least two vaccine doses (92.0%), and 66.0% received three doses. Patient-reported flare symptoms occurred in 17.0% of patients. The most common manifestations were joint pain, fatigue, hair loss, and myalgia. Most patient-reported flares were mild, though 9% required hospitalization. Current prednisolone use was associated with patient-reported flare symptoms (p = 0.049), though this borderline association should be interpreted cautiously. Vaccine type and baseline disease activity were not associated with patient-reported flare. Patient-reported flare symptoms following COVID-19 vaccination were generally mild in this SLE cohort. Vaccine type was not associated with patient-reported flare symptoms, supporting the overall tolerability of repeated COVID-19 vaccination in patients with SLE.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422623/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "系统性红斑狼疮患者接种COVID-19疫苗后自我报告的疾病发作症状",
+      "abstractZh": "COVID-19疫苗接种后疾病发作是系统性红斑狼疮（SLE）患者的主要担忧，可能导致疫苗犹豫。我们评估了SLE患者接种COVID-19疫苗后自我报告的发作症状、相关因素及不良事件。我们对至少接种一剂COVID-19疫苗的成年SLE患者进行了一项横断面研究。收集了人口学数据、疾病活动度、治疗情况以及接种后四周内患者自我报告的发作症状。共纳入324例患者；94.4%为女性，平均年龄40.8±11.7岁。大多数患者接种了至少两剂疫苗（92.0%），66.0%接种了三剂。17.0%的患者出现自我报告的发作症状。最常见的表现为关节痛、疲劳、脱发和肌痛。大多数自我报告的发作症状为轻度，但9%需要住院治疗。当前使用泼尼松龙与自我报告的发作症状相关（p=0.049），但这一边缘性关联应谨慎解读。疫苗类型和基线疾病活动度与自我报告的发作无关。在该SLE队列中，COVID-19疫苗接种后自我报告的发作症状通常为轻度。疫苗类型与自我报告的发作症状无关，支持SLE患者重复接种COVID-19疫苗的整体耐受性。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "02bf5b87a31c50f257e560e46eca6d1830212a7172f763bc17c0a1cb59b5df29",
+        "translatedAt": "2026-07-10T10:33:29.874Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 1
+      }
+    },
+    {
+      "id": "pmid-42421390",
+      "pmid": "42421390",
+      "doi": "",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-09",
+      "dateType": "PubMed收录日期",
+      "title": "Effect of Listening to Quran Recitation on the Quality of Life of Systemic Lupus Erythematosus Patients: A Quasi-Experimental Study.",
+      "abstract": "Quality of life (QoL) is not sufficiently considered in current systemic lupus erythematosus (SLE) treatment targets, even though it's significantly impaired. Studies have shown that higher religiousness is associated with a higher QoL. This study aimed to determine the effect of listening to Quran recitations on the QoL of SLE patients. A quasi-experimental study with a pretest-posttest study design was conducted at Cipto Mangunkusumo Hospital, Jakarta. Participants were females aged 18 years or older with SLE, Muslim, and not experiencing hearing loss. Those who didn't regularly listen to the Quran were assigned to the control group. The intervention group consisted of patients who had previously listened to the Quran on a more regular basis, as well as those who had not. The intervention group listened to a Quran (QS. Ar-Rahman) for a minimum duration of 15 minutes, twice daily, for 40 days. A comparison of the effects of listening to the Quran within the group was conducted using a paired T-test, with a Wilcoxon test applied when necessary. p-values of less than 0.05 were considered statistically significant. A total of 65 participants were included in the study, with 32 in the intervention group and 33 in the control group. The results indicated a significant increase in QoL in the intervention group (p=0.023). Additionally, there was a reduction in anxiety levels within the intervention group (p=0.030). Listening to Quran recitation can enhance QoL, while also decreasing anxiety in patients with SLE.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421390/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "聆听《古兰经》诵读对系统性红斑狼疮患者生活质量的影响：一项准实验研究",
+      "abstractZh": "生活质量（QoL）在当前系统性红斑狼疮（SLE）治疗目标中未得到充分重视，尽管其显著受损。研究表明，较高的宗教信仰与较高的生活质量相关。本研究旨在确定聆听《古兰经》诵读对SLE患者生活质量的影响。在雅加达Cipto Mangunkusumo医院进行了一项前后测设计的准实验研究。参与者为18岁及以上女性SLE患者，穆斯林，且无听力损失。未定期聆听《古兰经》者被分配至对照组。干预组包括既往较规律聆听《古兰经》的患者以及未规律聆听者。干预组每日两次聆听《古兰经》（QS. Ar-Rahman），每次至少15分钟，持续40天。采用配对t检验比较组内聆听《古兰经》的效果，必要时使用Wilcoxon检验。p值小于0.05视为具有统计学显著性。共纳入65名参与者，其中干预组32人，对照组33人。结果显示干预组生活质量显著提高（p=0.023）。此外，干预组焦虑水平降低（p=0.030）。聆听《古兰经》诵读可提高SLE患者的生活质量，同时降低其焦虑水平。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "617ba373073fbf5e4d9d2ca3091ac11514fa454cc60c8771ef7b433ac8491871",
+        "translatedAt": "2026-07-10T10:33:36.069Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 2
+      }
+    },
     {
       "id": "pmid-42420776",
       "pmid": "42420776",
@@ -30,7 +1323,6 @@
       },
       "titleZh": "对“EULAR/美国风湿病学会关节痛风险阶段类风湿关节炎发生风险分层标准”的更正。",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -40,6 +1332,48 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
+      },
+      "relevanceFlag": "normal"
+    },
+    {
+      "id": "pmid-42420687",
+      "pmid": "42420687",
+      "doi": "10.1007/s00296-026-06205-1",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-07-08",
+      "dateType": "PubMed收录日期",
+      "title": "Assessment of CDASI scoring by a multimodal large language model: a comparative study with expert assessors.",
+      "abstract": "Large language models (LLMs) with multimodal capabilities may support automated assessment of cutaneous disease activity in dermatomyositis (DM). We evaluated the performance of Claude v3.5 Sonnet in scoring the Cutaneous Dermatomyositis Disease Area and Severity Index (CDASI) compared with expert rheumatologists. Thirty published DM cases with available clinical images were retrospectively analyzed. Two expert rheumatologists independently scored CDASI activity and damage domains. Claude v3.5 Sonnet assessed the same images using structured prompting based on CDASI definitions. Agreement was evaluated using intraclass correlation coefficients (ICCs) with a two-way random-effects model for absolute agreement. The LLM demonstrated better agreement for activity than for damage assessment. Global CDASI activity showed good agreement with expert raters (ICC 0.71, 95% CI 0.45-0.86), whereas damage reliability was lower (ICC 0.41, 95% CI 0.25-0.67). Agreement was moderate for activity-related domains including erythema (ICC 0.61), scaling (ICC 0.57), and erosions (ICC 0.57), while lower concordance was observed for chronic damage-related features such as poikiloderma (ICC 0.47, 95% CI 0.10-0.73). Hand assessments demonstrated the strongest performance, particularly for periungual changes (ICC 1.0, 95% CI 1.0-1.0) and global hand scores (ICC 0.95, 95% CI 0.91-0.97). The model also markedly reduced evaluation time compared with clinicians (42 s vs. 8.4 min per case), corresponding to an approximately 92% reduction in scoring time. Multimodal LLMs demonstrated promising agreement with expert raters for CDASI activity assessment and markedly improved efficiency, although lower reliability in damage domains reinforces the continued need for physician oversight.",
+      "diseaseId": "myositis",
+      "diseaseIds": [
+        "myositis"
+      ],
+      "diseaseZh": "特发性炎性肌病",
+      "topics": [],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420687/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "多模态大语言模型进行CDASI评分的评估：与专家评估者的比较研究",
+      "abstractZh": "具有多模态能力的大语言模型（LLMs）可能支持皮肌炎（DM）皮肤疾病活动的自动化评估。我们评估了Claude v3.5 Sonnet在皮肤皮肌炎疾病面积和严重程度指数（CDASI）评分中与风湿病专家相比的表现。回顾性分析了30例已发表的DM病例，这些病例具有可用的临床图像。两位风湿病专家独立对CDASI活动和损伤领域进行评分。Claude v3.5 Sonnet使用基于CDASI定义的结构化提示评估相同图像。使用组内相关系数（ICCs）和双向随机效应模型评估绝对一致性。LLM在活动评估方面的一致性优于损伤评估。全球CDASI活动与专家评分者显示出良好的一致性（ICC 0.71，95% CI 0.45-0.86），而损伤可靠性较低（ICC 0.41，95% CI 0.25-0.67）。活动相关领域（包括红斑（ICC 0.61）、鳞屑（ICC 0.57）和糜烂（ICC 0.57））的一致性为中等，而慢性损伤相关特征（如皮肤异色症（ICC 0.47，95% CI 0.10-0.73））的一致性较低。手部评估表现最强，尤其是甲周变化（ICC 1.0，95% CI 1.0-1.0）和全球手部评分（ICC 0.95，95% CI 0.91-0.97）。与临床医生相比，该模型还显著减少了评估时间（每例42秒 vs. 8.4分钟），相当于评分时间减少约92%。多模态LLMs在CDASI活动评估中显示出与专家评分者有希望的一致性，并显著提高了效率，但损伤领域的较低可靠性强调了仍需医生监督。",
+      "relevanceFlag": "normal",
+      "translationMeta": {
+        "provider": "DeepSeek",
+        "model": "deepseek-chat",
+        "type": "faithful-translation",
+        "sourceHash": "708cf8b7f7d7f974d53cc5eb90c2d42fe2756aba413fdd139aba90e0f41d14aa",
+        "translatedAt": "2026-07-10T10:33:44.982Z",
+        "validationPassed": true,
+        "validationMethod": "numbers-and-medical-abbreviations-preserved",
+        "attempts": 2
       }
     },
     {
@@ -74,7 +1408,6 @@
       },
       "titleZh": "与难治性和治疗抵抗性中轴型脊柱关节炎相关的疾病相关及心理社会因素：来自希腊AxSpA注册研究的见解。",
       "abstractZh": "患有难治性（D2M）或治疗抵抗性（TR）疾病的中轴型脊柱关节炎（AxSpA）患者代表了未满足的临床需求，但真实世界数据仍然有限。为了在真实世界环境中确定D2M和TR AxSpA患者的频率、人口统计学、临床和心理社会特征，我们分析了希腊AxSpA注册研究的数据。D2M疾病定义为：尽管使用≥2种不同作用机制的生物（b）或靶向合成（ts）疾病改善抗风湿药物（DMARDs）治疗失败，但强直性脊柱炎疾病活动评分（ASDAS）≥2.1。TR定义为：D2M状态加上排除感染原因后C反应蛋白（CRP）≥0.5 mg/dL。比较了D2M、TR和非D2M组，并使用多变量回归分析探讨了与D2M状态相关的因素。在395名AxSpA患者中，40名（10.1%）患者被归类为D2M，22名（5.6%）为TR。在单变量分析中，诊断时较高的BASDAI、脊柱外表现（关节炎、指炎、附着点炎和银屑病）、BMI≥25 kg/m²、当前吸烟、抑郁、合并症数量以及失业与D2M状态相关。在多变量分析中，失业（OR 6.08，95% CI 1.90-19.46）、诊断时BASDAI（OR 1.62，95% CI 1.17-2.24）和抑郁（OR 2.97，95% CI 1.04-8.50）仍与D2M状态独立相关。TR AxSpA患者的特点是诊断时BASDAI更高、更多的韧带骨赘和多种合并症。D2M AxSpA从发病开始及整个病程中表现为更具侵袭性的疾病、更高的合并症频率（尤其是抑郁）以及与失业的独立关联。这些发现支持针对炎症负担、可改变的生活方式因素和心理社会脆弱性的多学科管理。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -84,7 +1417,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42420674",
@@ -117,7 +1451,6 @@
       },
       "titleZh": "系统性硬化症患者血液、唾液和尿液中色氨酸及其犬尿氨酸通路代谢物水平的相关性",
       "abstractZh": "系统性硬化症（SSc）是一种进行性自身免疫性结缔组织病，导致残疾并常缩短预期寿命。大量报告表明，犬尿氨酸通路（KP）在系统性硬化症（SSc）中失调。因此，本探索性初步研究旨在评估色氨酸（TRP）及其KP中选定代谢物水平在不同体液间是否相关。41名SSc患者参与了研究。收集了血液、唾液和晨尿样本。测量了TRP、犬尿氨酸（KYN）、3-羟基犬尿氨酸（3-HK）、喹啉酸（QUIN）和犬尿喹啉酸（KYNA）的浓度。此外，计算了反映KP酶活性的前体/产物比值。在包括男性和女性的患者队列中，观察到SSc患者血浆与尿液中KYN水平显著相关（ρ = 0.531, P < 0.001），以及KYN/TRP（ρ = 0.774, P < 0.001）、3-HK/TRP（ρ = 0.549, P = 0.001）、QUIN/TRP（ρ = 0.467, P = 0.002）和KYNA/TRP（ρ = 0.412, P < 0.008）比值显著相关。血浆与唾液的相关性仅限于女性SSc患者的KYNA（ρ = 0.526, P < 0.007），这表明唾液在评估SSc患者KP活性方面诊断价值有限。相比之下，基于尿液的测量具有前景，并支持进一步开发基于尿液KP代谢物的诊断方法。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -127,7 +1460,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42420624",
@@ -161,13 +1495,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:53.752Z",
+        "lastAttemptAt": "2026-07-10T10:31:51.987Z",
         "lastReason": "必须保留这些缩写：UK, UK-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42420572",
@@ -198,7 +1532,6 @@
       },
       "titleZh": "1990-2023年亚洲骨关节炎和类风湿关节炎的性别特异性负担：2023年全球疾病负担研究",
       "abstractZh": "尽管骨关节炎（OA）和类风湿关节炎（RA）的负担在亚洲各地区差异很大，且存在显著的性别差异，但针对该地区内OA和RA的性别比较分析仍然很少。因此，本研究旨在考察亚洲OA和RA的负担，特别关注性别相关差异。利用2023年全球疾病负担研究的数据，我们估算了1990年至2023年亚洲34个国家OA和RA的负担。OA定义为有症状、经放射学确诊的骨关节炎，RA根据1987年美国风湿病学会分类标准定义。疾病负担通过年龄标准化患病率和每100,000人口的伤残损失健康寿命年（YLD）率来衡量，包括总体OA、特定部位OA（髋、膝、手及其他OA）和RA，并附有相应的95%不确定性区间（UI）。分析主要关注性别特异性差异，并额外按年龄组分层。2023年，OA的年龄标准化患病率（ASPR）最高出现在高收入亚太地区（男性：每100,000人口6691.36 [95% UI, 6041.98-7417.59]；女性：每100,000人口10,314.70 [9299.49-11,436.61]），最显著的性别差异出现在中亚。RA的ASPR最高出现在东亚男性中（每100,000人口161.70 [141.02-188.40]）和高收入亚太地区女性中（每100,000人口360.95 [317.88-410.81]），最大的性别差异出现在高收入亚太地区。1990年至2023年间，所有亚洲地区的OA负担略有增加，而RA负担在大多数地区增加，但高收入亚太地区的女性除外（总变化百分比，-0.14%）。在所有年龄组中，女性OA和RA的负担始终高于男性，但髋部OA除外，其在大多数地区男性中更常见。分解分析确定人口老龄化是负担增加的主要贡献因素，人口增长和流行病学变化具有地区特异性贡献；值得注意的是，与RA相关的流行病学变化仅在高收入亚太地区女性中下降了63.05%。本研究强调了亚洲OA和RA负担的显著地区和性别特异性差异。虽然人口老龄化仍然是负担增加的主要驱动因素，但地理上多样化的流行病学模式凸显了需要针对性别和国家定制的政策方法。关键点：•2023年亚洲OA和RA负担显示出强烈的地区和性别差异。•东亚病例数最高，而高收入亚太地区患病率最高。•所有年龄组中女性负担始终高于男性。•人口老龄化是主要驱动因素，存在地区差异，且高收入亚太地区女性的RA负担显著改善。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -208,7 +1541,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 3
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42420531",
@@ -241,13 +1575,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:54.218Z",
+        "lastAttemptAt": "2026-07-10T10:31:57.558Z",
         "lastReason": "必须保留这些缩写：TCZ-, PSL",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42420061",
@@ -278,7 +1612,6 @@
       },
       "titleZh": "通过集中临床和影像评估提高中轴型脊柱关节炎的诊断准确性：一项前瞻性多中心项目的结果",
       "abstractZh": "本研究的目的是评估集中临床和影像病例评估对疑似中轴型脊柱关节炎（axSpA）患者诊断评估的影响。我们建立了一个中央远程医疗平台，用于收集因疑似axSpA就诊于风湿科和骨科医生的患者的临床和影像信息。收集的信息包括疑似诊断、人口统计学、临床、实验室和影像数据，这些数据与诊断相关。远程中央专家评估包括对提交的临床和影像数据进行详细审查，随后由专家就axSpA的存在与否做出诊断结论。共评估了969例疑似axSpA病例。根据当地评估，969例患者中有264例（27.2%）被诊断为axSpA。经中央审查后，总体上有238例（24.6%）被认为存在axSpA。在当地诊断为axSpA的患者中，142例（53.8%）也被中央评估认定为axSpA；然而，在89例（33.7%）中，更可能被认为是背痛的其他原因——最常见的是退行性或机械性疾患。相比之下，在当地评估为无axSpA的319例患者中，265例（83.1%）被中央审查者认为无axSpA。当地与中央诊断评估不一致的主要驱动因素之一是对影像学发现是否提示axSpA的解释。由具有axSpA专业知识的评估者对临床和影像信息进行远程评估，可能有助于疑似axSpA患者的诊断过程，并有助于降低误诊风险。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -288,7 +1621,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42419787",
@@ -323,7 +1657,6 @@
       },
       "titleZh": "类风湿关节炎患者与普通人群妊娠结局的比较：一项法国全国前瞻性匹配研究的结果",
       "abstractZh": "本研究旨在评估类风湿关节炎（RA）女性不良妊娠结局的当代发生率，并识别相关因素。这项法国前瞻性多中心队列纳入了2015年至2021年间患有RA的孕妇。分析了产妇特征、疾病活动度、治疗和妊娠结局。在单变量分析中，将RA女性妊娠结局与来自2016年和2021年法国围产期调查（评估孕产妇和新生儿健康）的匹配普通人群女性进行比较。采用多变量逻辑回归分析以识别与不良结局相关的因素。共分析了90名RA女性的100次妊娠。平均产妇年龄为33.7±5.0岁，57.6%为未产妇。妊娠期间，46%接受了糖皮质激素治疗，39%接受了生物制剂改善病情抗风湿药。与359名普通人群对照相比，RA妊娠的早产（OR 2.08，95% CI 1.04至4.09）和小于胎龄儿（SGA）（OR SGA第10百分位2.11，95% CI 1.12至3.94；OR SGA第3百分位3.21，95% CI 1.13至9.44）发生率更高。SGA与未产相关（校正后OR（aOR）4.38，95% CI 1.12至9.78），而早产与产妇年龄（aOR 1.14，95% CI 1.01至1.30）和妊娠期间暴露于剂量≥10 mg/天的糖皮质激素（aOR 4.91，95% CI 1.30至10.59）相关。在这个主要在三级医疗中心随访的当代队列中，RA女性的妊娠仍面临早产和SGA风险增加。暴露于剂量≥10 mg/天的全身性糖皮质激素成为早产的风险因素，尽管不能完全排除母体疾病活动度的贡献。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -333,7 +1666,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42419786",
@@ -367,7 +1701,6 @@
       },
       "titleZh": "整合基础和储备唾液功能定义干燥综合征中临床锚定的功能表型并情境化唾液终点",
       "abstractZh": "干燥综合征（SjD）的唾液腺功能障碍在临床上具有异质性。非刺激全唾液流率（UWSF）反映基础分泌，而刺激试验（如Saxon试验）评估分泌储备。整合这些互补领域是否能定义有临床意义的腺体功能状态尚不清楚。我们对193名抗干燥综合征抗原A（抗SSA）阳性的SjD患者进行了回顾性队列研究。利用UWSF和Saxon试验的既定临床阈值，我们定义了三种功能表型：基础和储备功能保留（PP）、部分受损（PL/LP）和联合低功能（LL）。评估了临床特征、患者报告结局、下颌下腺（SMG）腺体比率和纵向唾液变化。干燥和吞咽困难在不同表型间存在显著差异。与PP相比，LL表型在多变量调整后表现出更高的欧洲风湿病联盟（EULAR）干燥综合征患者报告指数干燥评分（β=1.67，95% CI 0.64至2.70）和增加的吞咽困难风险（OR 6.19，95% CI 2.71至14.9）。组织学分析显示LL中SMG保存显著减少。纵向来看，PP的UWSF和Saxon试验出现可测量的下降，而PL/LP保持相对稳定。LL的UWSF纵向变化极小，Saxon斜率方向为正，这最好解释为地板效应限制的终点行为，而非生物学恢复。基线至末次随访的转换分析显示显著的表型内保留，且大多数可纵向评估的LL患者在随访期间始终低于受损的Saxon阈值。整合基础-储备功能表型定义了SjD中临床和结构锚定的唾液腺功能状态。该框架可支持针对腺体结局的研究中的临床分层和纵向唾液终点的状态依赖性解释。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -377,7 +1710,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42419149",
@@ -411,13 +1745,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:13.006Z",
+        "lastAttemptAt": "2026-07-10T10:32:04.185Z",
         "lastReason": "必须保留这些缩写：IFN-1-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42418559",
@@ -451,7 +1785,6 @@
       },
       "titleZh": "细胞因子介导的肾脏浸润CD8+ T细胞激活使其能够促进人类狼疮肾炎的炎症",
       "abstractZh": "增殖性狼疮肾炎（LN）由自身抗体在肾小球沉积触发，并伴有富含T细胞的肾脏浸润。尽管这些T细胞被认为与组织损伤的传播有关，但尚不清楚它们如何被激活，以及T细胞自身反应性是否驱动局部炎症。肾脏浸润T细胞也可在尿液中观察到，且与间质T细胞高度相似。因此，尿液T细胞可作为研究组织发病机制的替代指标。在此，我们分析了尿液T细胞，以阐明肾脏特异性T细胞自身免疫反应是否参与LN的肾小管间质炎症。通过单细胞RNA测序，我们比较了活动性LN患者血液和尿液中T细胞的转录组和克隆型，并显示尿液T细胞主要是从循环CX3CR1+亚群募集的活化CD8效应记忆细胞。多个尿液CD8 T细胞克隆发生扩增。然而，在体外测试其T细胞受体时，我们未观察到针对自体肾小管上皮细胞的自身反应性。相反，约20%的扩增克隆型是EB病毒特异性或巨细胞病毒特异性的，但在肾活检或尿液中未检测到相应的病毒抗原。另一方面，肾脏浸润T细胞可接触白细胞介素-15和干扰素-β（IFN-β），且这些细胞因子的刺激足以触发脱颗粒以及肿瘤坏死因子、IFN-γ和颗粒酶K的产生。总之，这些结果表明，在LN中，CD8+ CX3CR1+ T细胞被招募到肾脏，并在那里被细胞因子激活，从而使其能够促进局部炎症。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -461,7 +1794,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42418310",
@@ -494,7 +1828,6 @@
       },
       "titleZh": "半乳糖凝集素-3在系统性红斑狼疮中的关联：系统评价与荟萃分析",
       "abstractZh": "背景系统性红斑狼疮（SLE）是一种自身免疫性疾病，表现为持续的炎症及器官和免疫系统损伤。在众多此类自身免疫性疾病的生物标志物中，半乳糖凝集素-3（Gal-3）是一种β-半乳糖苷结合凝集素，负责调节免疫反应、炎症和纤维化，已引起研究人员的兴趣，将其作为潜在生物标志物进行进一步研究。然而，关于循环半乳糖凝集素-3水平与SLE的相关性已有研究，但结果仍不一致。因此，本系统评价与荟萃分析评估了循环半乳糖凝集素-3水平与SLE之间的关联。材料与方法广泛使用PubMed、Scopus、ScienceDirect、Web of Science和Embase数据库进行文献检索。最后一次数据库检索于2025年9月6日进行。符合条件的研究包括报告SLE患者和健康对照者循环半乳糖凝集素-3水平的病例对照研究。两名独立评审员进行研究筛选和数据提取。使用纽卡斯尔-渥太华量表评估研究质量。使用综合荟萃分析软件进行统计分析。合并效应量以均数差及95%置信区间表示。使用Cochrane Q检验和I²统计量评估异质性，并使用Begg漏斗图和Egger回归分析评估发表偏倚。结果荟萃分析纳入七项符合条件的研究。合并结果显示，SLE患者的循环半乳糖凝集素-3水平显著高于健康对照者（均数差=8.48；95% CI: 3.84-13.12；p < 0.0001）。研究间存在显著异质性（Tau平方=32.57，Q=196.03；p < 0.0001，I²=96.93%）。敏感性分析证实了总体结果的稳定性。Begg漏斗图和Egger回归分析表明研究间无发表偏倚。亚组分析支持总体分析的结果。结论本荟萃分析表明，由于系统性红斑狼疮患者循环半乳糖凝集素-3水平显著升高，半乳糖凝集素-3可能作为与SLE发病机制和炎症活动相关的生物标志物。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -504,7 +1837,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42418113",
@@ -535,7 +1869,6 @@
       },
       "titleZh": "运动对类风湿关节炎成人身体功能和疼痛的影响：随机对照试验的退出荟萃分析",
       "abstractZh": "最新的美国风湿病学会指南基于荟萃分析得出结论，来自随机对照试验（RCT）的中等确定性证据表明，与不运动相比，运动可改善类风湿关节炎（RA）成人的身体功能并减轻疼痛。然而，效应量的稳定性尚未得到定量确定。为填补这一空白，本研究旨在使用定量方法判断是否需要进一步的RCT和荟萃分析，或是否已达到稳定。利用这些指南中的荟萃分析数据，采用一种新开发的创新方法——Doi-Abdulmajeed试验稳定性（DAts）指数，来确定运动对RA成人身体功能和疼痛的效应量稳定性，即退出状态。DAts < 0 = 退出，0-0.05 = 可能退出，> 0.05 = 未退出。在所有运动类型中，身体功能的DAts指数为0.0095（20项研究，1487名参与者），疼痛的DAts指数为0.0018（14项研究，998名参与者），提示可能退出状态。这些发现补充了美国风湿病学会指南的“中等”证据强度评级，表明在达到真正的稳定性/退出状态之前，需要更多关于运动对RA成人身体功能和疼痛影响的RCT及后续荟萃分析。关键点 • 采用一种新的定量方法检验运动对类风湿关节炎（RA）成人身体功能和疼痛的稳定性，即退出状态。 • 运动对RA成人身体功能和疼痛的影响仅发现“可能退出”状态。 • 在确定稳定性之前，需要更多关于运动对RA成人身体功能和疼痛影响的研究。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -545,7 +1878,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 2
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42417802",
@@ -578,7 +1912,6 @@
       },
       "titleZh": "保留距舟关节和距下关节的柔性摇椅足畸形重建术治疗类风湿关节炎：一例报告",
       "abstractZh": "一名患有类风湿关节炎和柔性摇椅足畸形的患者接受了手术，包括趾长屈肌腱转位、弹簧韧带重建以及使用跟骰关节撑开融合术进行外侧柱延长，同时保留了距舟关节和距下关节。通过恢复内侧纵弓实现了矫正，最终随访（术后1年）时临床评分有所改善。本病例提示，即使在表现为摇椅足畸形的炎性关节病患者中，当药物疗法充分控制疾病活动且距舟关节和距下关节未遭破坏时，保留这些关节的重建术可被视为一种治疗选择，如本例所示。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -588,7 +1921,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42417783",
@@ -622,13 +1956,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:24.761Z",
+        "lastAttemptAt": "2026-07-10T10:32:04.972Z",
         "lastReason": "必须保留这些数字：005, 561, 456, 655, 532, 855, 435, 132, 0001, 452, 166, 1227, 0003, 381, 109, 1334, 1143, 281, 4652, 113",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42415877",
@@ -661,7 +1995,6 @@
       },
       "titleZh": "基于生物材料的痛风治疗策略：最新进展、当前挑战与未来展望——综述",
       "abstractZh": "痛风是一种由单钠尿酸盐（MSU）晶体沉积引起的复杂进行性炎症性疾病。近年来，生物材料在痛风治疗中的应用研究显示出巨大潜力。生物材料凭借其独特的生物相容性、控释特性和靶向递送能力，在提高药物溶解度和生物利用度、减少全身不良反应以及实现更精准和阶段特异性治疗干预方面具有显著优势。在本综述中，我们系统分类了过去五年应用于痛风治疗的各种生物材料，包括纳米药物递送系统、微针药物递送系统以及基于生物材料的新型痛风治疗药物。我们重点阐述了每种生物材料的设计原则、构建策略和作用机制。通过比较分析不同生物材料平台的功能，本综述进一步总结了它们在痛风管理中的潜在治疗作用、相对优势和当前局限性。此外，我们讨论了目前使用的痛风相关动物模型及其与临床前评估的相关性，并综合了可能指导未来生物材料设计的新兴治疗靶点。总体而言，本综述强调了基于生物材料的痛风治疗策略的机遇和转化挑战，为开发更具靶向性、有效性和临床相关性的治疗方法提供了见解。1. 本综述描述了痛风研究中使用的主要动物模型，并比较了不同方法的优缺点。2. 总结了正在研究用于痛风治疗的主要生物材料类型及其设计原理。3. 解释了这些生物材料的制备方法、在体内的作用机制以及在实验研究中显示的治疗效果。4. 还强调了潜在的治疗靶点和生物材料在痛风治疗中应用的未来方向。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -671,7 +2004,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42417589",
@@ -705,13 +2039,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:25.000Z",
+        "lastAttemptAt": "2026-07-10T10:32:09.298Z",
         "lastReason": "必须保留这些缩写：RA-, OSM-, NLRP3-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42416073",
@@ -746,7 +2080,6 @@
       },
       "titleZh": "细胞游离DNA在狼疮中的新兴临床相关性：从机制洞察到治疗机遇",
       "abstractZh": "系统性红斑狼疮（SLE）是一种复杂的自身免疫性疾病，通常以对自身DNA的免疫反应失调为特征。新出现的证据强调了细胞游离DNA（cfDNA）在促进SLE免疫激活中的作用。细胞游离DNA主要在细胞死亡过程中释放，并由DNASE1L3等核酸酶清除。本综述探讨了cfDNA的分子特征，如片段长度、末端基序、锯齿状程度和表观遗传修饰，如何作为疾病活动的生物标志物，并可能参与发病机制。随后，综述解释了DNASE1L3的缺陷如何改变cfDNA片段化、增加免疫原性潜力，并通过浆细胞样树突状细胞增强I型干扰素信号传导，驱动B细胞分化和抗双链DNA（抗dsDNA）抗体产生。我们还讨论了自身抗体如何交叉反应以中和DNASE1L3，阻碍DNA清除并加剧炎症。最后，我们强调了这些发现如何支持cfDNA作为疾病介质和诊断工具的双重作用，并支持正在开发的IFN-I和pDC靶向疗法，这些疗法显示出有希望的临床相关性。此外，我们讨论了大规模验证和标准化对于将这些分子洞察转化为针对不同SLE人群的精准医学至关重要。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -756,7 +2089,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42416066",
@@ -789,7 +2123,6 @@
       },
       "titleZh": "CD74、PGLYRP1和TXN作为类风湿关节炎潜在生物标志物的鉴定与实验验证：一项整合性批量与单细胞RNA测序研究",
       "abstractZh": "慢性关节炎症是类风湿关节炎（RA）的标志性特征，这是一种自身免疫性疾病，常导致进行性关节损伤和功能障碍。尽管已有多种临床生物标志物可用于RA的诊断和预测，但其特异性和敏感性仍显不足。因此，本研究旨在发现与RA相关的生物标志物并阐明其功能机制。本研究利用了公开的RA转录组数据集。通过机器学习算法与表达验证相结合，鉴定出相关生物标志物。为阐明其在RA中的功能作用，我们进行了富集分析、免疫微环境分析、化合物-蛋白结合亲和力的计算筛选、分子对接和分子动力学模拟。同时，采用单细胞RNA测序（scRNA-seq）来定位关键细胞亚群并追踪生物标志物表达的变化。最后，通过逆转录定量PCR（RT-qPCR）、蛋白质印迹（WB）和免疫组织化学（IHC）染色在临床样本中验证了生物标志物水平。CD74、PGLYRP1和TXN被鉴定为潜在生物标志物。它们在免疫应答、炎症和氧化还原过程相关通路中的富集提示了其在RA中的可能作用。此外，CD56dim自然杀伤细胞与CD74呈显著正相关（cor = 0.66，P < 0.001），与TXN呈最强负相关（cor = -0.75，P < 0.001）。香柠檬素和二苯环丙烯酮分别对CD74和TXN表现出高结合亲和力。分子动力学模拟证实了这些复合物的稳定性。在初步分析中，scRNA-seq提示髓系细胞为潜在的关键细胞群体。在髓系细胞分化过程中，CD74和TXN表达水平先升高后降低。RT-qPCR、WB和IHC分析一致显示，与对照组相比，RA临床样本中CD74表达显著下调，而PGLYRP1和TXN显著上调，证实了生物信息学预测的可靠性，并支持其作为RA生物标志物的潜在作用。通过整合批量RNA测序与scRNA-seq，CD74、PGLYRP1和TXN被鉴定为生物标志物，髓系细胞被提示为潜在的关键细胞类型，为RA诊断提供了新见解，并值得进一步研究其功能作用。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -799,7 +2132,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42416060",
@@ -832,7 +2166,6 @@
       },
       "titleZh": "活动性强直性脊柱炎对阿达木单抗或其生物类似药治疗反应轨迹的早期分化：一项随机对照试验的共识聚类分析",
       "abstractZh": "活动性强直性脊柱炎（AS）患者对肿瘤坏死因子α抑制剂（TNFi）的临床反应存在显著异质性。共识聚类是一种无监督的聚类发现方法，可能识别出对广泛使用的TNFi阿达木单抗（ADA）具有更均一治疗反应模式的AS亚组。我们基于438名活动性AS患者（纳入一项为期24周的ADA或其生物类似药IBI303的III期随机对照试验）的8次重复测量中的10个核心反应变量进行了纵向共识聚类。比较了识别出的聚类之间的基线特征和重要终点——包括基于国际脊柱关节炎评估协会（ASAS）和强直性脊柱炎疾病活动评分非活动性疾病（ASDAS）的反应标准。基于第2周后数据重建的聚类成员预测模型被开发并内部验证，以基于基线和第2周数据促进聚类的早期前瞻性识别。特征化了两个纵向聚类：一个有利反应聚类（C1，n=246，56.2%）和一个较不利反应聚类（C2，n=192，43.8%）。与C1相比，C2的特征是年龄较大、病程较长以及既往TNFi暴露更频繁，尽管基线C反应蛋白（CRP）和红细胞沉降率（ESR）相当。对于除CRP和BASMI外的大多数临床终点，显著差异早在第2周出现并持续至第24周。例如，C1在第2周（0.21 [95% CI 0.16, 0.26] vs. 0.01 [95% CI 0.00, 0.02]；风险差[RD]：-0.21 [95% CI -0.26, -0.15]，p < 0.001）和第24周（0.63 [95% CI 0.57, 0.69] vs. 0.14 [95% CI 0.09, 0.18]；RD：-0.49 [95% CI -0.57, -0.42]，p < 0.001）达到ASDAS非活动性疾病（ASDAS-ID）的比率显著高于C2。一个包含一个基线变量和八个第2周变量的多变量模型在正确识别C2方面具有经乐观校正的C统计量为0.880 [95% CI 0.859, 0.915]。这些观察到的反应轨迹表现出不同的基线特征和第2周的早期反应差异。虽然这些发现为早期患者分层提供了一个假设生成的框架，但其在前瞻性临床患者分诊中的效用需要进一步独立验证。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -842,7 +2175,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42415996",
@@ -875,7 +2209,6 @@
       },
       "titleZh": "类风湿关节炎中白细胞介素-6阻断后的脂质变化：超越胆固醇升高，走向肝脏炎症-脂蛋白重塑",
       "abstractZh": "类风湿关节炎与过高的心血管发病率和死亡率相关，尽管在活动期疾病中常存在相对较低的循环脂质水平，这一现象通常被称为脂质悖论。白细胞介素-6是该悖论的核心，因为它将滑膜炎症与肝脏急性期反应、脂蛋白重塑、血栓炎症通路和血管损伤联系起来。在这篇叙述性综述中，我们探讨了IL-6阻断如何重塑对类风湿关节炎中脂质变化的解释，以及治疗后胆固醇升高应被视为孤立的代谢损害还是肝脏炎症-脂蛋白重塑这一更广泛过程的一部分。机制和转化证据提示，但尚未证明，活动性类风湿关节炎不仅以脂质浓度降低为特征，还伴有高密度脂蛋白功能异常、氧化脂蛋白修饰、血清淀粉样蛋白A负荷增加和血管炎症。在IL-6通路抑制后，特别是使用托珠单抗和萨瑞鲁单抗时，总胆固醇和低密度脂蛋白胆固醇常早期升高；然而，这些变化可能伴随着C反应蛋白、血清淀粉样蛋白A、脂蛋白(a)、纤维蛋白原和D-二聚体的降低，以及脂蛋白功能的某些改善。目前的硬性心血管结局数据通常支持心血管中性，而非主要不良心血管事件的明确增加，尽管在特定结局、血管区域和患者亚组中仍存在不确定性。总体而言，IL-6阻断后的脂质升高应促使进行背景下的心血管风险细化，而非反射性地解释为孤立的胆固醇介导的损害。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -885,7 +2218,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42415795",
@@ -918,7 +2252,6 @@
       },
       "titleZh": "TNF-α-308G/A和TNF-α-238G/A多态性与系统性红斑狼疮易感性的关联：一项更新的荟萃分析",
       "abstractZh": "为进行一项更新的荟萃分析，探讨TNF-α-308G/A和TNF-α-238G/A多态性与系统性红斑狼疮（SLE）易感性的关联，并纳入贝叶斯假发现概率（BFDP）和95%预测区间（PI）评估以控制假阳性结果。通过数据库检索截至2025年10月16日的病例对照或队列研究。在五种遗传模型下计算合并比值比（OR）及其95%置信区间（CI）。评估异质性，并应用BFDP和95% PI评估显著关联。共纳入53项关于TNF-α-308G/A多态性的研究和18项关于TNF-α-238G/A多态性与SLE易感性的研究。总体而言，TNF-α-308G/A多态性与总体人群、亚洲人、高加索人、印度人和混合人群的SLE易感性增加相关。未发现TNF-α-238G/A多态性与SLE易感性有显著关联。然而，在进一步的敏感性分析中，我们观察到TNF-α-238G/A多态性与总体分析和混合人群的SLE易感性增加相关。遗憾的是，在这些显著关联中，仅有两个的95% PI排除了零值。然而，其中四个显著关联的BFDP值大于0.80。因此，本研究中所有显著关联均被视为低可信度的阳性结果。本研究表明，TNF-α-308G/A和TNF-α-238G/A多态性可能与SLE易感性增加无关。与SLE易感性的统计学显著关联极有可能是假阳性结果。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -928,7 +2261,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42416966",
@@ -961,7 +2295,6 @@
       },
       "titleZh": "双重麻烦：一例系统性红斑狼疮患者眼部弓形虫病的罕见病例",
       "abstractZh": "系统性红斑狼疮（SLE）是一种以免疫失调和使用免疫抑制治疗为特征的慢性自身免疫性疾病，使患者易患机会性感染。尽管感染是SLE发病和死亡的主要原因，但眼部弓形虫病在这些患者中鲜有报道，且因其可能模仿其他炎症性或感染性眼部疾病而构成诊断挑战。早期识别对于及时管理和改善视力预后至关重要。本文报告一例21岁女性，已知SLE病例，正在接受维持性免疫调节治疗，因右眼视力模糊15天就诊。眼部检查显示玻璃体炎伴活动性坏死性视网膜脉络膜炎病灶。多模态影像学检查，包括超广角眼底照相、眼底自发荧光和频域光学相干断层扫描，支持眼部弓形虫病的临床诊断。血清学评估显示弓形虫免疫球蛋白G（IgG）阳性，IgM阴性。患者接受口服复方新诺明和皮质类固醇治疗，临床逐渐改善，病灶消退并形成瘢痕。随访期间，患者还出现SLE发作和带状疱疹感染，凸显了尽管临床表面稳定，此类患者持续免疫失调的复杂性。虽然罕见，但眼部弓形虫病应纳入SLE患者后葡萄膜炎的鉴别诊断。临床检查辅以多模态影像学对于诊断至关重要，尤其是在血清学检查不确定时。及时诊断和适当治疗可带来良好的视力预后，并预防可能危及生命的全身并发症。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -971,7 +2304,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 2
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42416958",
@@ -1005,13 +2339,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:40.370Z",
+        "lastAttemptAt": "2026-07-10T10:32:15.144Z",
         "lastReason": "必须保留这些缩写：ANCA-, UC-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42418674",
@@ -1046,13 +2380,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:45.685Z",
+        "lastAttemptAt": "2026-07-10T10:32:20.190Z",
         "lastReason": "必须保留这些缩写：TYK2-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42419993",
@@ -1085,7 +2419,6 @@
       },
       "titleZh": "抗磷脂综合征的最新进展",
       "abstractZh": "抗磷脂综合征（APS）的特征是与持续性抗磷脂抗体（aPL）相关的复发性动静脉血栓形成和妊娠并发症。2023年ACR/EULAR分类标准引入了包含微血管疾病、心脏瓣膜病和血小板减少症的评分系统。然而，这些标准旨在用于研究分类而非临床诊断。在实验室检测中，自动化免疫测定法的广泛应用需要跨测定标准化。风险分层整合了定量aPL评估（包括三阳性、aPL评分和全球APS评分（GAPSS））与传统心血管危险因素。对于血栓性APS，高危患者应避免使用直接口服抗凝药。疾病活动性评估随着EAPSDAS和单核细胞与HDL胆固醇比率的开发而取得进展。这些进展有望促进APS管理向精准医学的范式转变。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -1095,7 +2428,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 2
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42411120",
@@ -1343,9 +2677,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:12.740Z",
+        "lastAttemptAt": "2026-07-10T10:31:21.152Z",
         "lastReason": "必须保留这些缩写：SLE-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1464,9 +2798,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:15.930Z",
+        "lastAttemptAt": "2026-07-10T10:31:25.452Z",
         "lastReason": "必须保留这些缩写：FRAX-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1674,7 +3008,6 @@
       },
       "titleZh": "乌帕替尼增强部分健康个体和系统性红斑狼疮患者的血小板促凝血反应：一项初步研究",
       "abstractZh": "Janus激酶抑制剂（JAKis）是系统性红斑狼疮（SLE）的新兴疗法，但关于血栓栓塞风险的担忧仍然存在。SLE的临床试验并未一致显示血栓事件风险增加，且JAK抑制对血小板功能的影响尚不完全清楚。本研究旨在探讨JAK1抑制剂乌帕替尼是否在体外调节血小板促凝血膜动力学（PMD），并探索相关的细胞因子特征。将SLE患者（n=10）和健康对照（n=10）的全血与乌帕替尼（0、60和300 ng/mL）预孵育。使用共聚焦显微镜和Volocity软件（Quorum Technology）分析富含血小板的血浆，以量化PMD标志物。我们使用Alexa Fluor 488 CD62p检测脱颗粒，Alexa Fluor 568 Annexin-V检测磷脂酰丝氨酸暴露，以及Alexa Fluor 647 PAC-1检测整合素αIIbβ3激活。根据JAK抑制后PMD标志物是否增强或不受影响，将参与者分为JAKi激活型或JAKi无效型。然后使用Luminex xMAP技术量化96种人血浆细胞因子、趋化因子和生长因子。血小板反应具有异质性。两组中约30%的个体表现出血小板活化和促凝血反应增强（'JAKi激活型'），而其余个体未受影响。SLE患者的血小板表现出基线激活升高，特征为预激活或自身激活。JAKi激活型表型与JAK抑制后血浆白细胞介素（IL）-4和肿瘤坏死因子-β（TNF-β）水平升高相关。在体外，我们显示重组IL-4和TNF-β直接激活血小板或使血小板对促凝血激动剂产生预激活反应，支持了在我们JAKi激活型亚群中观察到的促凝血增强的潜在间接机制。乌帕替尼在体外与部分SLE患者和健康对照个体的血小板活化和促凝血反应增强相关。这些发现是初步的且具有假设生成性质。需要进一步研究以确定临床相关性并验证分层方法。",
-      "relevanceFlag": "normal",
       "translationMeta": {
         "provider": "DeepSeek",
         "model": "deepseek-chat",
@@ -1684,7 +3017,8 @@
         "validationPassed": true,
         "validationMethod": "numbers-and-medical-abbreviations-preserved",
         "attempts": 1
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42414039",
@@ -1718,13 +3052,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:55.677Z",
+        "lastAttemptAt": "2026-07-10T10:32:23.391Z",
         "lastReason": "必须保留这些缩写：SLE-, USA",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42414038",
@@ -1761,9 +3095,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:23.772Z",
+        "lastAttemptAt": "2026-07-10T10:31:32.825Z",
         "lastReason": "必须保留这些缩写：GC-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1799,13 +3133,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:41:57.274Z",
+        "lastAttemptAt": "2026-07-10T10:32:27.138Z",
         "lastReason": "必须保留这些缩写：AOSD-",
-        "totalAttempts": 3,
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42413709",
@@ -1840,9 +3174,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:25.534Z",
+        "lastAttemptAt": "2026-07-10T10:31:33.140Z",
         "lastReason": "必须保留这些缩写：SLE-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2008,9 +3342,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:29.043Z",
+        "lastAttemptAt": "2026-07-10T10:31:38.053Z",
         "lastReason": "必须保留这些缩写：BACKGROUND, CASE, REPORT, CONCLUSIONS",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2265,9 +3599,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:42.811Z",
+        "lastAttemptAt": "2026-07-10T10:31:51.753Z",
         "lastReason": "必须保留这些缩写：JIA-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2348,9 +3682,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:40.344Z",
+        "lastAttemptAt": "2026-07-10T10:31:47.232Z",
         "lastReason": "必须保留这些缩写：ANA-",
-        "totalAttempts": 6,
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2854,9 +4188,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:56.034Z",
+        "lastAttemptAt": "2026-07-10T10:31:06.770Z",
         "lastReason": "必须保留这些缩写：COSMIN-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2980,9 +4314,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:02.402Z",
+        "lastAttemptAt": "2026-07-10T10:31:11.216Z",
         "lastReason": "必须保留这些缩写：AI-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3406,9 +4740,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:02.323Z",
+        "lastAttemptAt": "2026-07-10T10:31:13.030Z",
         "lastReason": "必须保留这些缩写：GC-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3573,9 +4907,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:40:09.741Z",
+        "lastAttemptAt": "2026-07-10T10:31:19.623Z",
         "lastReason": "必须保留这些缩写：LRBA-",
-        "totalAttempts": 9,
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3824,9 +5158,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:26.087Z",
+        "lastAttemptAt": "2026-07-10T10:30:50.862Z",
         "lastReason": "必须保留这些数字：230",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -3905,9 +5239,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:18.907Z",
+        "lastAttemptAt": "2026-07-10T10:30:44.178Z",
         "lastReason": "必须保留这些缩写：NRH-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4324,9 +5658,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:23.768Z",
+        "lastAttemptAt": "2026-07-10T10:30:49.091Z",
         "lastReason": "必须保留这些缩写：ANCA-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4404,9 +5738,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:33.373Z",
+        "lastAttemptAt": "2026-07-10T10:30:57.984Z",
         "lastReason": "必须保留这些缩写：CT-, MDA5-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4529,9 +5863,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:32.986Z",
+        "lastAttemptAt": "2026-07-10T10:30:57.303Z",
         "lastReason": "必须保留这些缩写：CCN3-, RA-",
-        "totalAttempts": 12,
+        "totalAttempts": 15,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -4578,428 +5912,14 @@
         "attempts": 1
       },
       "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402485",
-      "pmid": "42402485",
-      "doi": "10.1515/dx-2026-0062",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Intraloop neoangiogenesis in an AI-classified scleroderma pattern: recognizing a morphological clue to suspected dermatomyositis.",
-      "abstract": "To describe a diagnostic near miss in AI-assisted nailfold capillaroscopy, illustrating how a correct AI-based classification as an early scleroderma pattern may still lead to diagnostic error if not integrated with additional morphological findings, such as intraloop neoangiogenesis, which should prompt consideration of dermatomyositis. A 50-year-old woman with episodic acrocyanosis underwent nailfold videocapillaroscopy (NVC). AI-assisted analysis classified the pattern as \"early scleroderma\". Expert review identified branching neoangiogenesis within the same capillary loop as a giant capillary. This composite finding is not typical of systemic sclerosis microangiopathy and lies outside the scope of current algorithms, which are trained on scleroderma-based patterns and are not designed to recognize alternative microangiopathic processes. Accordingly, the system did not flag this feature as diagnostically relevant. This prompted immunological testing, which showed anti-Mi-2 positivity on repeat testing, with negative systemic sclerosis-specific autoantibodies, raising suspicion for dermatomyositis. AI-assisted capillaroscopy provides accurate pattern classification within its training framework but does not replace integrative morphological reasoning. When dominant features such as giant capillaries drive classification, clinicians must assess internal consistency and consider additional findings beyond pattern assignment. Neoangiogenesis is a diagnostically relevant feature that, in the appropriate context, should prompt consideration of dermatomyositis. Diagnostic error reflects not algorithm failure but limits of training scope and over-reliance on pattern-based outputs. Expert interpretation remains essential.",
-      "diseaseId": "ssc",
-      "diseaseIds": [
-        "ssc",
-        "myositis"
-      ],
-      "diseaseZh": "系统性硬化症 · 特发性炎性肌病",
-      "topics": [],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402485/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:38.727Z",
-        "lastReason": "必须保留这些缩写：AI-, NVC",
-        "totalAttempts": 12,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402554",
-      "pmid": "42402554",
-      "doi": "10.1186/s12014-026-09618-z",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Proteomic and glycosylation biomarkers in rheumatoid arthritis: advancing early diagnosis and precision therapy.",
-      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by progressive joint inflammation and damage. Early clinical diagnosis is crucial for effective intervention but presents significant challenges due to an initial asymptomatic inflammatory phase. Anti-citrullinated-protein antibodies (ACPA) and rheumatoid factor (RF) detection have been useful in early RA diagnosis, but their reliability is debatable as they are often non-specific. This has prompted a quest for alternative, more robust biomarkers. Researchers have turned to advanced proteomic and glycosylation analyses of biological fluids (e.g., synovial fluid, plasma and serum) and tissues using techniques such as MALDI-MS, Q-TOF, and SELDI-TOF. These approaches may offer a comprehensive approach to scrutinize a range of biomolecules as potential RA biomarkers, from citrullinated-proteins and peptides to novel potential protein biomarkers such as thymosin, macrophage-capping protein, calgranulins, and serum amyloid-A. Further, proteomics-based approaches have the ability to specifically monitor changes in the RA proteome (e.g., glycosylated VCAM1/SEMA4D proteins and GFAP/A1BG auto-antibodies) to unearth potential diagnostic and prognostic candidates. Disease monitoring in response to anti-rheumatic drugs using treatment-responsive markers, such as S100A8/A9 heterocomplex and leucine-rich alpha-2 glycoprotein, is another application of proteomics-based technologies. In view of the significance of prediction, early diagnosis and monitoring of RA symptomatology, this review discusses the potential utilities of proteinaceous species as proteomics-based biomarkers that may provide insights into disease mechanisms and offer potential avenues for personalized therapeutic interventions to revolutionize RA management.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "生物标志物",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402554/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "类风湿关节炎中的蛋白质组学和糖基化生物标志物：推进早期诊断和精准治疗",
-      "abstractZh": "类风湿关节炎（RA）是一种以进行性关节炎症和损伤为特征的慢性自身免疫性疾病。早期临床诊断对于有效干预至关重要，但由于初始无症状炎症阶段的存在，诊断面临重大挑战。抗环瓜氨酸蛋白抗体（ACPA）和类风湿因子（RF）检测在RA早期诊断中有所应用，但其可靠性存在争议，因为它们通常是非特异性的。这促使人们寻找替代的、更可靠的生物标志物。研究人员已转向使用MALDI-MS、Q-TOF和SELDI-TOF等技术对生物液体（如滑液、血浆和血清）和组织进行先进的蛋白质组学和糖基化分析。这些方法可能提供一种全面的途径来审视一系列作为潜在RA生物标志物的生物分子，从瓜氨酸化蛋白和肽到新的潜在蛋白生物标志物，如胸腺素、巨噬细胞加帽蛋白、钙卫蛋白和血清淀粉样蛋白A。此外，基于蛋白质组学的方法能够特异性监测RA蛋白质组的变化（例如，糖基化的VCAM1/SEMA4D蛋白和GFAP/A1BG自身抗体），以揭示潜在的诊断和预后候选物。使用治疗反应性标志物（如S100A8/A9异源复合物和富含亮氨酸的α-2糖蛋白）监测抗风湿药物的疾病反应，是基于蛋白质组学技术的另一应用。鉴于预测、早期诊断和监测RA症状的重要性，本综述讨论了蛋白质种类作为基于蛋白质组学的生物标志物的潜在用途，这些标志物可能提供对疾病机制的见解，并为个性化治疗干预提供潜在途径，从而革新RA管理。",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "e4c79d17e6c396b1dd5eb36b8ad0c31760d1765655f87d278e9c39fb108ee459",
-        "translatedAt": "2026-07-06T12:33:23.124Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402403",
-      "pmid": "42402403",
-      "doi": "10.2169/internalmedicine.7487-26",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Severe Cardiomyopathy Following Takotsubo Syndrome in a Patient Suffering from Eosinophilic Granulomatosis With Polyangiitis: A Case Report.",
-      "abstract": "Cardiac involvement in eosinophilic granulomatosis with polyangiitis (EGPA) strongly influences the prognosis. Takotsubo syndrome (TTS) is a reversible stress-induced cardiomyopathy that has rarely been reported in patients with EGPA. A 39-year-old woman was diagnosed with EGPA based on marked eosinophilia, systemic manifestations, and the histopathological eosinophilic infiltration of multiple organs. After remission with corticosteroids, immunosuppressants, and intravenous immunoglobulin, she suddenly developed chest pain with an ST elevation and severe left ventricular dysfunction, but normal coronary angiography findings. TTS was diagnosed. Her cardiac function recovered. However, an endomyocardial biopsy revealed advanced myocardial injury without eosinophilic infiltration. Therapy (corticosteroids, immunosuppressants, intravenous immunoglobulin, and mepolizumab) achieved long-term survival despite severe cardiac involvement.",
-      "diseaseId": "vasculitis",
-      "diseaseIds": [
-        "vasculitis"
-      ],
-      "diseaseZh": "系统性血管炎",
-      "topics": [
-        "缓解与达标治疗",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402403/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "嗜酸性肉芽肿性多血管炎患者发生Takotsubo综合征后出现严重心肌病：一例病例报告",
-      "abstractZh": "嗜酸性肉芽肿性多血管炎（EGPA）的心脏受累对预后有显著影响。Takotsubo综合征（TTS）是一种可逆的应激性心肌病，在EGPA患者中鲜有报道。一名39岁女性因显著嗜酸性粒细胞增多、全身性表现及多器官组织病理学嗜酸性粒细胞浸润被诊断为EGPA。在使用糖皮质激素、免疫抑制剂和静脉注射免疫球蛋白达到缓解后，她突然出现胸痛伴ST段抬高和严重左心室功能障碍，但冠状动脉造影正常。诊断为TTS。其心功能恢复。然而，心内膜心肌活检显示无嗜酸性粒细胞浸润的晚期心肌损伤。尽管存在严重心脏受累，但通过治疗（糖皮质激素、免疫抑制剂、静脉注射免疫球蛋白和mepolizumab）实现了长期生存。",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "a1f9265f28fc25af938f95b82dce79680f8cfa578ce24c3fefcd88773de3c475",
-        "translatedAt": "2026-07-06T12:33:23.421Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402156",
-      "pmid": "42402156",
-      "doi": "10.1111/1756-185x.70628",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Case Report: Antisynthetase Syndrome With Severe Interstitial Lung Disease During Pregnancy.",
-      "abstract": "",
-      "diseaseId": "myositis",
-      "diseaseIds": [
-        "myositis"
-      ],
-      "diseaseZh": "特发性炎性肌病",
-      "topics": [
-        "妊娠与女性健康"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Letter",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402156/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "病例报告：妊娠期合并严重间质性肺病的抗合成酶综合征",
-      "abstractZh": "",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "115e350da4fec1087f7d56e1d6a5b3c31740d4cff656a41761a6d9fe214c50d9",
-        "translatedAt": "2026-07-06T12:33:24.271Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402063",
-      "pmid": "42402063",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Correspondence on: Real-world safety data of first-line drugs for rheumatoid arthritis: insights from the Portuguese Reuma.pt database.",
-      "abstract": "",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "真实世界研究"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402063/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "关于：类风湿关节炎一线药物的真实世界安全性数据：来自葡萄牙Reuma.pt数据库的见解",
-      "abstractZh": "",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "4221543e089a963f103459fe55eb6fa25e0776f7e69bf1d3aa6b42feb7d729ac",
-        "translatedAt": "2026-07-06T12:33:24.584Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402059",
-      "pmid": "42402059",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Disease activity in systemic lupus erythematosus in relation to direct Coombs test positivity without haemolytic anaemia: a single-centre cross-sectional study.",
-      "abstract": "The prevalence of Direct Coombs test (DCT) positivity in systemic lupus erythematosus (SLE) ranges from 12.8% to 65.2%. Approximately 5-11% of people with SLE have autoimmune haemolytic anaemia (AIHA), characterised by autoantibodies against erythrocytes that cause haemolysis. In about half of the SLE patients, DCT positivity occurs even in the absence of AIHA, likely due to immune complexes binding to red blood cells via complement receptor 1 (CR1), suggesting a higher immune complex load. To determine the DCT positive rate in SLE patients without AIHA and its association with disease activity, as measured by the SLE Disease Activity Index 2000 (SLEDAI-2K) score. This descriptive cross-sectional study was conducted at a tertiary care centre in South India from March 2023 to March 2025. SLE patients who met the 2019 ACR/EULAR classification criteria without AIHA were included. Disease activity was measured using the SLEDAI-2K. The DCT was performed using the standard antihuman globulin, and a reaction grade of 1+ or higher was considered positive. The study compared DCT-positive and DCT-negative groups using statistical analysis. The study included 92 SLE patients, most of whom were female (97.8%), with a mean age of 35.1 ± 9.49 years, and a mean disease duration of 4.56 ± 4.36 years. DCT positivity without AIHA was found in 33.6% of the patients. DCT-positive patients had a higher median SLEDAI-2K score than DCT-negative patients (8 [IQR 3.5-10.5] vs 0 [IQR 0-5]; p < 0.001). DCT positivity was also strongly associated with arthritis (p < 0.001) and with higher anti-double-stranded DNA antibody levels (p = 0.008). In individuals with SLE, DCT positivity without AIHA was common and was associated with higher contemporaneous disease activity, arthritis, and elevated anti-double-stranded DNA antibody levels. These findings suggest that DCT positivity may reflect increased immune activity at a single point in time. However, its utility in predicting future flares or monitoring longitudinal disease activity remains uncertain and requires prospective validation.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402059/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:47.006Z",
-        "lastReason": "必须保留这些缩写：DCT-",
-        "totalAttempts": 12,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402058",
-      "pmid": "42402058",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Large vessel vasculitis: syphilitic aortitis as a reversible mimicker.",
-      "abstract": "Large vessel vasculitis (LVV) in the elderly often prompts consideration of giant cell arteritis; however, mimickers must be carefully excluded. We report the case of a 70-year-old woman with constitutional symptoms, elevated inflammatory markers, and FDG-PET findings suggestive of LVV. Spontaneous clinical and laboratory improvement in the absence of immunosuppression raised suspicion for an alternative diagnosis. Further evaluation revealed positive treponemal serology, and syphilitic aortitis was confirmed. Treatment with penicillin led to complete resolution of vascular inflammation. This case highlights the importance of considering infectious mimics, such as syphilis, in atypical or self-resolving presentations of LVV, particularly in elderly patients.",
-      "diseaseId": "vasculitis",
-      "diseaseIds": [
-        "vasculitis"
-      ],
-      "diseaseZh": "系统性血管炎",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402058/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "大血管血管炎：梅毒性主动脉炎作为一种可逆的模仿者。",
-      "abstractZh": "老年人中的大血管血管炎（LVV）常提示巨细胞动脉炎，但必须仔细排除模仿者。我们报告一例70岁女性患者，出现全身症状、炎症标志物升高，以及FDG-PET提示LVV的表现。在未使用免疫抑制剂的情况下，临床和实验室指标自发改善，提示可能存在其他诊断。进一步检查发现梅毒血清学阳性，确诊为梅毒性主动脉炎。青霉素治疗后血管炎症完全消退。本病例强调了在非典型或自限性LVV表现中考虑感染性模仿者（如梅毒）的重要性，尤其是在老年患者中。",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "3c20d0415ff656ccc36f88de20b5a950ddf7f90cdec9df1b0d7adccda58ef214",
-        "translatedAt": "2026-07-06T12:33:29.599Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 2
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402054",
-      "pmid": "42402054",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Validation of systemic lupus erythematosus disease activity score (SLE-DAS) in a Russian cohort of patients.",
-      "abstract": "Systemic lupus erythematosus (SLE) is a heterogeneous autoimmune disease characterized by fluctuating activity affecting multiple organ systems. Timely and accurate assessment of disease activity is critical for guiding clinical decisions and implementing treat-to-target strategies. The Systemic Lupus Erythematosus Disease Activity Score (SLE-DAS) is a recently developed, continuous, and weighted index for disease activity, though it has not yet been validated in Russian patients. To validate SLE-DAS in a Russian cohort of patients with SLE. We prospectively enrolled 200 SLE patients followed for ≥12 months at the V.A. Nasonova Research Institute of Rheumatology. The median age was 35.0 [26.0-43.0] years; 84.5% were female. Median disease duration was 63.0 [22.0-158.0] months. Clinical and laboratory data were analyzed to asses SLE-DAS performance. Internal consistency of SLE-DAS was assessed using Cronbach's alpha. Convergent validity was evaluated via correlation with the Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K) and Physician Global Assessment (PGA). To compare the ability of SLE-DAS and SLEDAI-2K to identify active SLE, we performed a receiver operating characteristic (ROC) analysis with determination of the area under the curve (AUC), sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and Cohen's kappa. Responsiveness was analyzed using the Wilcoxon test, SRM, and Cohen's d. At baseline, the median SLEDAI-2K was 8.0, PGA 0.99, and SLE-DAS 8.38. SLE-DAS showed excellent convergent validity (ρ = 0.878 with both SLEDAI-2K and PGA). Internal consistency was moderate for binary components (α = 0.663), while quantitative variables showed low agreement. According to DORIS remission framework, 90.5% of patients had active SLE. ROC analysis showed high diagnostic accuracy: AUC = 0.899 for SLE-DAS and 0.870 for SLEDAI-2K. After reclassifying 23 patients on glucocorticoids >5 mg/day without clinical activity as inactive, SLE-DAS showed superior performance: AUC = 0.973, sensitivity 96.2%, specificity 97.6%, PPV 99.3%, NPV 82.4%, κ = 0.86. Responsiveness at 6 and 12 months was also confirmed (SRM = -0.78 and -0.66, both p < 0.0001). SLE-DAS is a valid, responsive, and accurate tool for assessing SLE activity in Russian patients and may improve clinical monitoring in routine practice.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [
-        "真实世界研究",
-        "缓解与达标治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402054/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "系统性红斑狼疮疾病活动评分（SLE-DAS）在俄罗斯患者队列中的验证",
-      "abstractZh": "系统性红斑狼疮（SLE）是一种异质性自身免疫性疾病，其特征为活动性波动，累及多个器官系统。及时准确地评估疾病活动度对于指导临床决策和实施达标治疗策略至关重要。系统性红斑狼疮疾病活动评分（SLE-DAS）是近期开发的一种连续、加权的疾病活动度指数，但尚未在俄罗斯患者中得到验证。本研究旨在验证SLE-DAS在俄罗斯SLE患者队列中的有效性。我们前瞻性纳入了200例在V.A. Nasonova风湿病研究所随访≥12个月的SLE患者。中位年龄为35.0 [26.0-43.0]岁；84.5%为女性。中位病程为63.0 [22.0-158.0]个月。分析临床和实验室数据以评估SLE-DAS的性能。使用Cronbach's alpha评估SLE-DAS的内部一致性。通过与系统性红斑狼疮疾病活动指数2000（SLEDAI-2K）和医生整体评估（PGA）的相关性评估收敛效度。为比较SLE-DAS和SLEDAI-2K识别活动性SLE的能力，我们进行了受试者工作特征（ROC）分析，确定曲线下面积（AUC）、敏感性、特异性、阳性预测值（PPV）、阴性预测值（NPV）和Cohen's kappa。使用Wilcoxon检验、SRM和Cohen's d分析反应性。基线时，中位SLEDAI-2K为8.0，PGA为0.99，SLE-DAS为8.38。SLE-DAS显示出极好的收敛效度（与SLEDAI-2K和PGA的ρ = 0.878）。二元组分的内部一致性中等（α = 0.663），而定量变量的一致性较低。根据DORIS缓解框架，90.5%的患者有活动性SLE。ROC分析显示高诊断准确性：SLE-DAS的AUC = 0.899，SLEDAI-2K的AUC = 0.870。将23例使用糖皮质激素>5 mg/天但无临床活动的患者重新分类为不活动后，SLE-DAS表现出更优的性能：AUC = 0.973，敏感性96.2%，特异性97.6%，PPV 99.3%，NPV 82.4%，κ = 0.86。6个月和12个月的反应性也得到确认（SRM = -0.78和-0.66，均p < 0.0001）。SLE-DAS是评估俄罗斯患者SLE活动度的有效、反应灵敏且准确的工具，可能改善常规实践中的临床监测。",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "9ee5d03b110b9c959c60fdc956f8900d19493e2564cd8e1ab5b9d4dc26235631",
-        "translatedAt": "2026-07-06T12:33:34.063Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402053",
-      "pmid": "42402053",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Diagnostic performance of lung ultrasound for the detection of interstitial lung disease in patients with rheumatoid arthritis: comparison with risk scoring systems.",
-      "abstract": "Interstitial lung disease (ILD) is a frequent and severe complication of rheumatoid arthritis (RA), often remaining subclinical and associated with substantial morbidity and mortality. Given the limitations of high-resolution computed tomography (HRCT) for widespread screening, alternative tools for early detection are needed. The objective of this study was to assess the diagnostic performance of lung ultrasound (LUS) for the detection of ILD in patients with RA, compared with HRCT and established clinical risk scores, stratified by symptom status. A diagnostic test study was conducted in RA patients fulfilling the ACR 2010 criteria who had undergone HRCT within the previous six months. LUS was performed using a 14-point protocol, with abnormal findings defined as >5 B-lines or pleural irregularities in ≥2 windows. Two validated RA-ILD risk scores were applied. LUS findings were compared with HRCT, and logistic regression was used to identify clinical and imaging predictors of ILD. A total of 147 patients were included (23.8% male; mean age 62.3 years; mean disease duration 12.3 years), of whom 68 had HRCT-confirmed ILD. Abnormal LUS findings were present in 58.5% of patients. Factors associated with RA-ILD included male sex (OR 2.8), dyspnea (OR 2.5), and velcro crackles (OR 47.5). Abnormal LUS (OR 59.8), >5 B-lines (OR 37.6), and pleural irregularities (OR 29.5) were strongly associated with ILD. In asymptomatic patients, LUS showed high sensitivity (95.4%) and specificity (77.7%), with a +LR of 4.3 and a -LR of 0.06. Risk scores showed limited diagnostic value (Spanish consensus ≥5: +LR 0.97; Pierre ≥25: +LR 1.45). Combining LUS with risk scores increased sensitivity to 100%. LUS outperforms clinical risk scores for the detection of RA-associated ILD, including in asymptomatic patients. Its integration with risk scores may optimize screening strategies for the early identification of RA-ILD.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402053/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-07-09T10:39:46.803Z",
-        "lastReason": "必须保留这些缩写：HRCT-",
-        "totalAttempts": 12,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42402052",
-      "pmid": "42402052",
-      "doi": "",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-07-05",
-      "dateType": "PubMed收录日期",
-      "title": "Serum caspase-1 is correlated with vasculitis activity at diagnosis and associated with all-cause mortality in patients with antineutrophil cytoplasmic antibody-associated vasculitis.",
-      "abstract": "Caspase-1, a key protein involved in the inflammasome activation pathway, induces pyroptosis and inflammasome-mediated cytokine activation and release. In this study, we investigated whether serum caspase-1 could guess cross-sectional vasculitis activity and predict future all-cause mortality in patients with antineutrophil cytoplasmic antibody-associated vasculitis (AAV). This study included 73 patients with AAV. Their clinical data at AAV diagnosis and during follow-up were collected and recorded. Disease activity was assessed using the Birmingham vasculitis activity score (BVAS). Serum caspase-1 was measured from the stored sera collected at AAV diagnosis. The end-point of a poor outcome in this study was set as all-cause mortality. The median age of the 73 patients was 64.0 years, and 30 and 43 patients were male and female, respectively. The median BVAS was 5.0, and the median levels of serum caspase-1 were 124.2 pg/mL. During follow-up, the rate of all-cause mortality was identified as 8.2%. Serum caspase-1 was positively correlated with BVAS (r = 0.241, P = 0.040). In multivariable Cox proportional analysis, serum caspase-1 (hazard ratio [HR] 1.003, 95% confidence interval [CI] 1.000, 1.006) along with dyslipidaemia (HR 36.610, 95% CI 2.050, 653.701) at AAV diagnosis were significantly and independently associated with all-cause mortality during follow-up in patients with AAV. This study demonstrated that serum caspase-1 at AAV diagnosis could guess cross-sectional AAV activity, as represented by BVAS and further predict future all-cause mortality during follow-up in patients with AAV.",
-      "diseaseId": "vasculitis",
-      "diseaseIds": [
-        "vasculitis"
-      ],
-      "diseaseZh": "系统性血管炎",
-      "topics": [],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402052/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "血清caspase-1与抗中性粒细胞胞质抗体相关性血管炎诊断时的活动性相关，并与全因死亡率相关",
-      "abstractZh": "Caspase-1是参与炎症小体激活通路的关键蛋白，可诱导细胞焦亡及炎症小体介导的细胞因子激活和释放。本研究探讨了血清caspase-1是否能评估抗中性粒细胞胞质抗体相关性血管炎（AAV）患者的横断面血管炎活动性，并预测未来的全因死亡率。本研究纳入73例AAV患者，收集并记录其AAV诊断时及随访期间的临床数据。疾病活动性采用伯明翰血管炎活动性评分（BVAS）评估。血清caspase-1从AAV诊断时储存的血清中检测。本研究的不良结局终点设为全因死亡率。73例患者的中位年龄为64.0岁，男性和女性分别为30例和43例。中位BVAS为5.0，血清caspase-1中位水平为124.2 pg/mL。随访期间，全因死亡率为8.2%。血清caspase-1与BVAS呈正相关（r = 0.241，P = 0.040）。在多变量Cox比例分析中，AAV诊断时的血清caspase-1（风险比[HR] 1.003，95%置信区间[CI] 1.000, 1.006）和血脂异常（HR 36.610，95% CI 2.050, 653.701）与AAV患者随访期间的全因死亡率显著独立相关。本研究表明，AAV诊断时的血清caspase-1可评估以BVAS为代表的横断面AAV活动性，并进一步预测AAV患者随访期间未来的全因死亡率。",
-      "translationMeta": {
-        "provider": "DeepSeek",
-        "model": "deepseek-chat",
-        "type": "faithful-translation",
-        "sourceHash": "85c142eb7460c7b8a8747660f12238382a141799d9a1dffdfda718cd7b7ac061",
-        "translatedAt": "2026-07-06T12:33:37.858Z",
-        "validationPassed": true,
-        "validationMethod": "numbers-and-medical-abbreviations-preserved",
-        "attempts": 1
-      },
-      "relevanceFlag": "normal"
     }
   ],
   "translationStatus": {
-    "attemptedAt": "2026-07-09T10:41:57.274Z",
-    "candidates": 48,
-    "translated": 20,
-    "failed": 28,
-    "publishable": 91,
-    "pending": 28
+    "attemptedAt": "2026-07-10T10:33:44.983Z",
+    "candidates": 57,
+    "translated": 19,
+    "failed": 38,
+    "publishable": 103,
+    "pending": 38
   }
 }
