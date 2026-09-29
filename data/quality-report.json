@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-09-28T00:39:47.773Z",
-  "total": 171,
+  "generatedAt": "2026-09-29T01:53:30.841Z",
+  "total": 136,
   "translated": 0,
   "publishable": 0,
-  "unpublishedTranslationFailures": 171,
-  "retryPending": 171,
-  "withoutAbstract": 17,
-  "crossDisease": 9,
+  "unpublishedTranslationFailures": 136,
+  "retryPending": 136,
+  "withoutAbstract": 15,
+  "crossDisease": 5,
   "errors": [],
   "warnings": [
+    "pmid-42803896: PubMed 未提供摘要",
+    "pmid-42803699: PubMed 未提供摘要",
     "pmid-42800558: PubMed 未提供摘要",
     "pmid-42786674: PubMed 未提供摘要",
     "pmid-42786672: PubMed 未提供摘要",
@@ -21,10 +23,6 @@
     "pmid-42788816: PubMed 未提供摘要",
     "pmid-42788326: PubMed 未提供摘要",
     "pmid-42786707: PubMed 未提供摘要",
-    "pmid-42790201: PubMed 未提供摘要",
-    "pmid-42785196: PubMed 未提供摘要",
-    "pmid-42782555: PubMed 未提供摘要",
-    "pmid-42781582: PubMed 未提供摘要",
-    "pmid-42779573: PubMed 未提供摘要"
+    "pmid-42790201: PubMed 未提供摘要"
   ]
 }
