@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T01:16:21.626Z",
-  "total": 114,
+  "generatedAt": "2026-10-02T01:39:37.344Z",
+  "total": 128,
   "translated": 0,
   "publishable": 0,
-  "unpublishedTranslationFailures": 114,
-  "retryPending": 114,
+  "unpublishedTranslationFailures": 128,
+  "retryPending": 128,
   "withoutAbstract": 14,
-  "crossDisease": 12,
+  "crossDisease": 13,
   "errors": [],
   "warnings": [
     "pmid-42811889: PubMed 未提供摘要",
