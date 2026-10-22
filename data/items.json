@@ -1,6 +1,165 @@
 {
-  "updatedAt": "2026-10-21T00:34:38.250Z",
+  "updatedAt": "2026-10-22T00:38:48.934Z",
   "items": [
+    {
+      "id": "pmid-42902573",
+      "pmid": "42902573",
+      "doi": "10.1177/09612033261501200",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-21",
+      "dateType": "PubMed收录日期",
+      "title": "Lupus nephritis: Pilot study expanding induction treatment options relying on oral dexamethasone as an alternative to parenteral pulse steroids.",
+      "abstract": "BackgroundLupus nephritis (LN) affects over 60% of patients with systemic lupus erythematosus and is a risk factor for progression to end stage kidney disease. Guidelines recommend high dose parenteral methylprednisolone \"pulses\" for induction, although intravenous pulse therapy has not been rigorously compared to oral therapy. In this observational study, we report the outcomes of 17 patients who initiated therapy for LN with high dose oral dexamethasone.MethodsLN patients treated with oral dexamethasone between December 2021, and January 2025, were identified and baseline characteristics were recorded. Patients were assessed for a complete renal response (CRR, uPCR < 500, eGFR > 80%), satisfactory renal response (SRR, uPCR < 700, eGFR > 80%), or partial renal response (PRR, uPCR ≤ half of baseline uPCR, eGFR > 80%) at 1 year after receipt of dexamethasone. Responses were compared to outcomes in the BLISS-LN, AURORA and REGENCY trials.ResultsSeventeen patients with LN treated with induction dexamethasone were identified. The average age was 40 years old, and 15 patients were female. Six patients were of African ancestry, four Hispanic ethnicity, and three were White. Fourteen patients had proliferative LN. 47% of patients achieved a CRR, 59% obtained a SRR, and 53% obtained a PRR. Renal outcomes compared favorably to outcomes in the active arms of the BLISS-LN, AURORA 1, and REGENCY studies. Biomarkers including C3, C4, and dsDNA antibodies improved throughout the period. Proteinuria declined in 14 of 17 patients.ConclusionPatients with LN initially treated with oral dexamethasone in place of intravenous pulse methylprednisolone achieved responses similar to outcomes in recent LN trials. Dexamethasone is a promising potential oral option to initiate treatment for LN obviating need for parenteral therapy.",
+      "diseaseId": "sle",
+      "diseaseIds": [
+        "sle"
+      ],
+      "diseaseZh": "系统性红斑狼疮",
+      "topics": [
+        "狼疮肾炎",
+        "生物标志物",
+        "真实世界研究",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "系统评价/指南",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902573/",
+      "credibility": {
+        "studyStage": "证据综合",
+        "conclusionStrength": "review",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:36.912Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 99985051-40e4-42cd-b497-73f836f51ca7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42902554",
+      "pmid": "42902554",
+      "doi": "10.1080/17520363.2026.2750231",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-21",
+      "dateType": "PubMed收录日期",
+      "title": "Association between IRAK1 gene rs1059703 polymorphism and rheumatoid arthritis risk.",
+      "abstract": "This meta-analysis aimed to investigate the relationship between interleukin-1 receptor-associated kinase ( IRAK1 ) gene rs1059703 and rheumatoid arthritis (RA) risk. The pooled odds ratio (OR) and 95% confidence interval (95% CI) were calculated. Funnel plot with trim-and-fill analysis was used for publication bias investigation. IRAK1 gene rs1059703 was not significantly associated with RA risk under dominant genetic model (OR = 1.47, 95%CI = 0.96-2.24, p  = 0.071), recessive genetic model (OR = 1.14, 95%CI = 0.92-1.40, p  = 0.2258), allele genetic model (OR = 1.29, 95%CI = 0.95-1.75, p  = 0.0878), and codominant genetic model (OR = 1.33, 95%CI = 0.82-2.15, p  = 0.2125). Subgroup analysis also suggested that IRAK1 gene rs1059703 polymorphism was correlated with RA risk under dominant genetic model (I 2  = 80.9%, P Q  < 0.0001, OR = 1.77, 95%CI = 1.12-2.79, p  = 0.014) and allele model (I 2  = 79.6%, P Q  = 0.0002, OR = 1.45, 95%CI = 1.05-2.00, p  = 0.026) in Caucasian. Sensitivity analysis indicated that there was no significant change in the combined OR. No publication bias was observed. A statistically significant association between IRAK1 rs1059703 and RA risk was observed in Caucasian populations, but not in Asian populations with the available power under the current sample size. The apparent Caucasian association observed in the full dataset was not sustained after restricting analyses to HWE-compliant studies, where only a single Caucasian study remained.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [],
+      "evidenceLevel": "系统评价/指南",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902554/",
+      "credibility": {
+        "studyStage": "证据综合",
+        "conclusionStrength": "review",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:37.160Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ec6c5eb8-3472-4c14-a80f-8c51041b80ff)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42902254",
+      "pmid": "42902254",
+      "doi": "10.1186/s12969-026-01285-6",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-21",
+      "dateType": "PubMed收录日期",
+      "title": "Outcome measures and monitoring framework in juvenile systemic sclerosis: bridging routine care and clinical trials.",
+      "abstract": "Juvenile systemic sclerosis (jSSc) is an orphan multisystem autoimmune disease that can cause significant morbidity during childhood and can lead to significant worsening of quality of life. The pathophysiological features are identical with adult-onset systemic sclerosis (SSc), jSSc exhibits a distinct clinical phenotype characterized by a significantly higher prevalence of diffuse cutaneous involvement, frequent overlap syndromes, distinct autoantibody profiles, and different long-term survival trajectories. Historically, the evaluation of jSSc has relied heavily on the extrapolation of adult outcome measures, which fail to account for developmental physiology, somatic growth, and pediatric-specific feasibility constraints. This review provides a comprehensive overview of indicators of disease activity and severity which might be used in daily clinical practice and adapted as outcome measures in future clinical trials. It includes global outcome measures, organ-specific outcomes (including skin, pulmonary, cardiac, gastrointestinal, musculoskeletal, renal, and vascular involvement), patient-reported outcome measures (PROMs), and clinician-reported outcomes (ClinROs). The performance of adult indices within pediatric cohorts are evaluated, if applicable. Additionally, we analyze severity scores like the Juvenile Systemic Sclerosis Severity Score (J4S) alongside modern consensus metrics derived from the international Hamburg symposia. We emphasize the integration of pediatric-adapted clinical assessments, quantitative imaging, and patient and physician related outcomes. The development of outcome measure in jSSc requires a paradigm shift from static severity scores to dynamic, multi-dimensional indicators capable of differentiating reversible inflammatory activity from potential permanent damage accrual. Validating pediatric-specific thresholds for physiological and cutaneous change remains an urgent priority. Over the next decade, the integration of artificial intelligence (AI)-driven quantitative imaging, decentralized home-based digital health tools, and molecular biomarkers probably will gain an essential role to optimize clinical trial readiness and personalize therapeutic strategies for children with systemic sclerosis. Not applicable.",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc"
+      ],
+      "diseaseZh": "系统性硬化症",
+      "topics": [
+        "狼疮肾炎",
+        "生物标志物",
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902254/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:38.246Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fac24ac3-b74d-4fb4-b8dc-ccf1100e59bf)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42902419",
+      "pmid": "42902419",
+      "doi": "10.1186/s13256-026-06355-7",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-21",
+      "dateType": "PubMed收录日期",
+      "title": "Superior sagittal sinus thrombosis with intracranial hemorrhage in a patient on infliximab: a case report.",
+      "abstract": "Superior sagittal sinus thrombosis (SSST) is a rare but life-threatening form of cerebral venous thrombosis. Although several prothrombotic and autoimmune conditions are recognized risk factors, SSST occurring in patients with rheumatoid arthritis (RA) receiving tumor necrosis factor-alpha (TNF-α) inhibitor therapy remains exceptionally rare and poorly described in the literature. We present a 59-year-old Caucasian female with RA treated with infliximab who developed extensive superior sagittal sinus thrombosis with concurrent intracranial and subarachnoid hemorrhage. The patient was managed with anticoagulation, blood pressure control, and seizure prophylaxis, with subsequent clinical and radiologic improvement at one-month follow-up. Hypercoagulability evaluation was overall unrevealing, and no other clear provoking etiology was identified. Given the rarity of this presentation, we report this case to raise awareness of a possible association between cerebral venous thrombosis and TNF-α inhibitor therapy in patients with rheumatoid arthritis. This is especially important given the increasing and widespread use of biologic agents in the treatment of autoimmune diseases.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Case Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902419/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:38.801Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c9a8f3e8-066c-4b2c-ab3b-54f98d90d002)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
     {
       "id": "pmid-42898461",
       "pmid": "42898461",
@@ -33,10 +192,366 @@
       },
       "titleZh": "",
       "abstractZh": "",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:10.362Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c1938947-23fc-436d-bf58-845c90512ec1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
+        "retryPending": true
+      },
+      "relevanceFlag": "normal"
+    },
+    {
+      "id": "pmid-42902068",
+      "pmid": "42902068",
+      "doi": "10.1007/s13760-026-03223-5",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Progressive hemifacial atrophy, AQP4-positive NMOSD and suspected Sjögren's syndrome: five-year relapse-free follow-up during rituximab therapy.",
+      "abstract": "",
+      "diseaseId": "sjogren",
+      "diseaseIds": [
+        "sjogren"
+      ],
+      "diseaseZh": "干燥综合征",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Letter",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902068/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
       "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:15.415Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: a80f62b9-004b-4477-91f8-3b0f993448d4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "lastAttemptAt": "2026-10-22T00:39:39.021Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 28dfea96-a98f-4c33-b6a3-2a4862eca8d6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42902066",
+      "pmid": "42902066",
+      "doi": "10.1007/s41669-026-00689-0",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Hospital Burden and Care Pathways of ANCA-Associated Vasculitis in Italy: A Focus on Clinical, Economic, and Geographic Dimensions.",
+      "abstract": "Antineutrophil cytoplasmic antibody (ANCA)-associated vasculitides (AAVs) are rare autoimmune diseases characterized by heterogeneous clinical presentation and substantial morbidity. Evidence suggests high healthcare utilization and economic burden of ANCA-associated vasculitis (AAV), particularly owing to hospitalization as well as geographic variation in the organization of specialized care. However, national-level analyses examining outcomes, resource use, and geographic differences in care pathways remain limited. The study aimed to identify hospitalized patients with granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA) using administrative data, characterize their hospital burden and geographic care pathways in Italy, and investigate determinants of hospital costs and in-hospital mortality. Nationwide Italian hospital discharge records (2010-2019) were used to identify patients with GPA and MPA using International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM)-based algorithms. Hospital resource use, costs, in-hospital mortality, inter-regional mobility, and continuity of specialized care were estimated. Determinants of hospital costs were analyzed using generalized linear models (gamma distribution and log link), and in-hospital mortality was analyzed using the Cox proportional hazards model. We identified 3763 patients with GPA and 1206 patients with MPA, with a mean of 6.9 and 8.6 admissions per patient, respectively, over 10 years. In-hospital mortality was 20.3% (GPA) and 21.4% (MPA), with over 70% of deaths occurring within 2 years of the first observed key diagnosis in hospital records. Mean cumulative observed hospital costs during 2010-2019 were substantial (€28,275 for GPA and €36,462 for MPA per patient), with around 60% of costs concentrated in the year of the first observed key diagnosis and adjacent years. Marked regional variation in care pathways was observed, with patients residing in southern regions frequently receiving AAV-related care in northern hospitals. Lower hospital loyalty (seeking AAV-related care in numerous hospitals) was more commonly observed in several southern regions. In regression analyses, infections were the strongest predictors of both higher costs and in-hospital mortality, while lower hospital loyalty was associated with substantially higher costs but not in-hospital mortality. Our analysis showed that hospitalized patients with AAV in Italy experienced substantial inpatient burden, frequent admissions, and high in-hospital mortality. Infections and renal involvement were strongly associated with both costs and in-hospital mortality. The observed regional differences in mobility patterns and continuity of specialized care suggest important geographic variation in AAV care pathways within the Italian hospital system. These findings may help inform efforts to improve the coordination and continuity of specialized AAV care.",
+      "diseaseId": "vasculitis",
+      "diseaseIds": [
+        "vasculitis"
+      ],
+      "diseaseZh": "系统性血管炎",
+      "topics": [
+        "狼疮肾炎"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902066/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:40.187Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 58739970-bf70-4da1-9f10-767d46f9fd76)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901870",
+      "pmid": "42901870",
+      "doi": "10.1002/art.70380",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Sustained Inhibition of Structural Damage Progression and Improvements in Disease Activity With Guselkumab in Biologic-Naïve Participants with Active and Erosive Psoriatic Arthritis: Results Through Week 48 of the Phase 3b Randomized, Double-Blind, Placebo-Controlled APEX Study.",
+      "abstract": "In APEX, guselkumab, which binds to the IL-23p19 subunit and CD64 on IL-23-producing cells, demonstrated significant joint efficacy and inhibition of structural damage progression in participants with active and erosive PsA through Week (W)24; W48 findings are reported herein. The APEX modified full analysis set included 1020 biologic-naïve adults with active PsA (≥3 tender joints; ≥3 swollen joints; CRP ≥0.3mg/dL; ≥2 erosive joints) randomized to guselkumab every (Q)4W (N=273), guselkumab at W0,4 then Q8W (N=371), or placebo followed by guselkumab Q4W beginning at W24 (N=376). Outcomes through W48 included ACR20/50/70 response rates (using multiple/nonresponder imputation); least squares mean (LSM) change in PsA-modified van der Heijde-Sharp score (vdH-S); achievement of clinically meaningful improvement (CMI; ≥0.35-point) in HAQ-DI, ≥90% improvement in Psoriasis Area and Severity Index (PASI90), and minimal disease activity (MDA). Through W48, 93% (950/1020) of participants completed study intervention. Guselkumab Q4W and Q8W through W48 demonstrated durable ACR20/50/70 response rates (71-74%/51-56%/31-35%), and low rates of structural damage progression (vdH-S LSM change: 0.60-0.78); 60-64% of participants reported HAQ-DI CMI, 74-80% achieved PASI90, 36-41% achieved MDA. Following transition to guselkumab, structural damage progression among placebo-randomized participants diminished (vdH-S LSM change W0-24: 0.96; W24-48: 0.41) and clinical response rates increased through W48. Adverse event rates were consistent with placebo and guselkumab through W24 and stable through W48 of guselkumab. APEX W48 findings further support guselkumab use for durable and comprehensive treatment of diverse PsA manifestations. Inhibition of cumulative joint damage with guselkumab may optimize outcomes.",
+      "diseaseId": "spa",
+      "diseaseIds": [
+        "spa"
+      ],
+      "diseaseZh": "脊柱关节炎谱系",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "随机对照/临床试验",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901870/",
+      "credibility": {
+        "studyStage": "临床研究",
+        "conclusionStrength": "clinical-evidence",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:40.720Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5af56a09-b9fc-4d0e-ab2d-2cc55b0bc8bf)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901866",
+      "pmid": "42901866",
+      "doi": "10.1002/acr.80194",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "The association of gout flare resolution with physical activity and sleep: a prospective remote-monitoring study.",
+      "abstract": "This study aimed to determine whether gout flare resolution is associated with physical activity and sleep. These findings were intended to inform the future development of a definition for flare resolution. Data from 81 participants with gout who experienced >1 flare during a 6-month prospective observational study were included. Daily activity (step count) and sleep (total sleep time and deep sleep percentage) were collected remotely using wrist-worn trackers. Daily flare occurrence was captured using smartphone diaries. Activity/sleep outcomes during each flare episode were compared to those during three resolution timeframes: T1: the first day following the flare; T2: the consecutive window immediately following the flare and equal in length to the flare; and T3: the consecutive window equal in length to the flare and immediately following a washout window (equal in length to the flare). Adjusted differences in medians between flare and resolution timeframes were estimated using linear quantile mixed models. Daily step count was lower during flares compared with all resolution timeframes (all P<0.033). T3 provided the best overall model fit, suggesting that resolution is most clearly distinguished from the flare when using this timeframe. No significant differences between flare and resolution were observed for the sleep outcomes for any resolution timeframe. Physical activity improves soon after flare cessation, with the clearest distinction between flare and resolution observed over a longer post-flare recovery period, whereas sleep metrics do not differentiate flare from resolution states. These findings support physical activity as a useful objective domain for gout flare resolution.",
+      "diseaseId": "crystal",
+      "diseaseIds": [
+        "crystal"
+      ],
+      "diseaseZh": "晶体性关节炎",
+      "topics": [
+        "真实世界研究"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901866/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:40.896Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: afc13626-1754-41f7-b64e-3e58a94fdff3)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901778",
+      "pmid": "42901778",
+      "doi": "10.1002/art.70371",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Single-cell analysis reveals CXCL16 + dendritic cells and clonally expanded GZMK + CD4 T cells driving joint inflammation in psoriatic arthritis.",
+      "abstract": "Psoriatic arthritis (PsA) is a chronic immune-mediated arthritis affecting approximately 30% of individuals with psoriasis. The mechanisms driving PsA joint inflammation remain incompletely defined. To address this gap, we performed multimodal single-cell sequencing of immune cells from matched peripheral blood and synovial fluid (SF) from 6 PsA patients, with comparisons to a rheumatoid arthritis (RA) patient and 6 healthy controls (HC). SF CD4 and CD8 T cells displayed elevated expression of TOX, PDCD1, CTLA4, GZMK, CXCR3, and CXCR6, reflecting a tissue-specific activation state. CD4 T cell sub-clustering revealed clonally expanded populations enriched for GZMK and cytotoxic gene programs, suggesting antigen-driven activation. In contrast, CD8 T cell clonality showed a significant correlation with GZMK expression, however GZMK + CD8 T cells in the joint exhibited a transcriptional signature consistent with functional exhaustion. Concurrently, SF was enriched for CD141 + , CD1c + , CCR7 + , and SIGLEC6 + dendritic cells (DCs), characterized by increased CXCL16 expression and antigen presentation pathways. Flow cytometry and ELISA in an additional 25 PsA patients and 16 HCs confirmed protein-level enrichment of key chemokines and GZMK + T cells. Cell-cell communication analysis highlighted CXCR6-CXCL16 and CXCR3-CXCL10 chemokine axes as mediators of immune cell recruitment and retention, while in vitro assays showed enhanced migration of PsA SF T cells toward a CXCL16 gradient relative to paired blood. Together, these findings suggest that clonally expanded GZMK + CD4 T cells in PsA are cytotoxic and antigen-responsive, contributing to joint inflammation following recruitment by CXCL16-producing dendritic cells.",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra",
+        "spa"
+      ],
+      "diseaseZh": "类风湿关节炎 · 脊柱关节炎谱系",
+      "topics": [
+        "生物标志物"
+      ],
+      "evidenceLevel": "动物/细胞研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901778/",
+      "credibility": {
+        "studyStage": "临床前研究",
+        "conclusionStrength": "preclinical",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "动物或细胞结果不能直接外推至患者。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:42.096Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5923f127-280d-4e3f-8b88-d3b70ac99edd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901762",
+      "pmid": "42901762",
+      "doi": "10.1002/art.70381",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Can ultrasound guide treatment decisions in difficult-to-treat rheumatoid arthritis?",
+      "abstract": "",
+      "diseaseId": "ra",
+      "diseaseIds": [
+        "ra"
+      ],
+      "diseaseZh": "类风湿关节炎",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901762/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:42.585Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 05a4aee8-98d9-4550-b4a5-c94d1b99841c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901739",
+      "pmid": "42901739",
+      "doi": "10.1002/acr.80192",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Tear-based biomarker trajectories associated with uveitis in juvenile idiopathic arthritis: a multicenter prospective study.",
+      "abstract": "Extent of uveitis risk in juvenile idiopathic arthritis (JIA) is based on clinical factors. We aim to compare the trajectories of tear-based biomarker levels of patients with JIA with and without uveitis. This prospective multicenter study included children with JIA at risk for uveitis (JIA-no-U), and with JIA-associated uveitis (JIA-U). Serial tear samples were collected from each eye by Schirmer strips at enrollment (E) and follow-up (FU1, FU2). S100 proteins, cytokines, and chemokines were assayed by Luminex or ELISA and compared between groups. Fifty patients (37 JIA-no-U, 13 JIA-U) contributed 222 samples (150 JIA-no-U, 73 JIA-U). At E there were no significant differences in biomarker levels between JIA-U and JIA-no-U. During follow-up of JIA-U, monocyte chemoattractant protein-1 (MCP-1) levels increased longitudinally from E to FU1 and FU2 (1.63±0.31 to 2.46±0.31, p=0.005; and 2.89±0.32, p<0.0001), similar in Chemokine (C-X-C motif) Ligand (CXCL)-10 from E to FU1 and FU2 (4.39±0.41 to 5.26±0.41, p = 0.030; and 6.51±0.43, p < 0.0001) and in IL-8 levels from E to FU1 and FU2 (3.09±0.30 to 4.25±0.30, p = 0.006; and 4.65±0.32, p ≤ 0.001). In both groups, S100A12 and S100A8/A9 increased from E to FU. Longitudinal changes in MCP-1, CXCL10 and IL-8 levels in tear fluid in JIA-U may reflect inflammatory ocular processes and support the role of monocytes and interferon related pathways in uveitis. Lack of differences in S100 proteins may reflect systemic inflammation from arthritis. Tear-based biomarkers may support clinical factors for identifying children with JIA who develop uveitis.",
+      "diseaseId": "pediatric",
+      "diseaseIds": [
+        "pediatric"
+      ],
+      "diseaseZh": "儿童风湿病",
+      "topics": [
+        "I型干扰素",
+        "生物标志物"
+      ],
+      "evidenceLevel": "其他研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901739/",
+      "credibility": {
+        "studyStage": "研究类型未细分",
+        "conclusionStrength": "hypothesis",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:42.851Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 911e10f8-3524-4c69-9eba-05c30c52b19e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901728",
+      "pmid": "42901728",
+      "doi": "10.1002/art.70374",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Sema4A neutralization reduces fibrosis and inflammation in a mouse model of systemic sclerosis and a 3D model of immunity-driven fibrosis.",
+      "abstract": "﻿OBJECTIVE: We previously showed that Semaphorin4A (Sema4A) is elevated in patients with systemic sclerosis (SSc) and promotes inflammation and fibrosis in vitro. Here, we examined the effect of Sema4A neutralization in vivo and in 3D fibrosis models. Sema4A plasma levels were measured by ELISA in healthy controls (n=31) and patients with SSc (n=30). In the bleomycin SSc-model, mice were treated with an anti-Sema4A neutralizing antibody or its respective isotype control (n=6-7). The 3D fibrosis models, consisting of collagen hydrogel, dermal fibroblasts, and peripheral blood mononuclear cells, were stimulated with recombinant Sema4A, rapamycin, or antibodies neutralizing Sema4A, PlexinD1, PlexinB2, Neuropilin-1 or their respective isotype controls (n=6-10). Collagen content was determined by trichrome staining and hydroxyproline assay. Gene expression was determined by RT-qPCR and obtained from GEO-NCBI expression arrays, while protein expression by immunohistochemistry, immunoblotting and flow cytometry. Circulating Sema4A was elevated in patients with SSc (p<0.0001), while Sema4A receptors were elevated in SSc skin and lung (p ranged from <0.05 to 0.0001). Anti-Sema4A administration significantly reduced skin and lung collagen content in bleomycin-treated mice (p<0.01), as well as the expression of extracellular matrix components, fibrotic and inflammatory mediators, and immune cell infiltration. In the 3D models, SSc serum and SSc PBMCs induced cell contraction, which was drastically abrogated by blocking Sema4A (p<0.01). This effect was associated with reduced expression of fibrotic mediators and attenuated mTORC1 pathway activation. We confirmed the pro-fibrotic and pro-inflammatory role of Sema4A, postulating Sema4A neutralization as a novel approach for the treatment of SSc.",
+      "diseaseId": "ssc",
+      "diseaseIds": [
+        "ssc"
+      ],
+      "diseaseZh": "系统性硬化症",
+      "topics": [
+        "靶向治疗"
+      ],
+      "evidenceLevel": "动物/细胞研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901728/",
+      "credibility": {
+        "studyStage": "临床前研究",
+        "conclusionStrength": "preclinical",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "动物或细胞结果不能直接外推至患者。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:43.960Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7b1cf789-9832-4d88-9425-b94fc3c62997)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 3,
+        "retryPending": true
+      }
+    },
+    {
+      "id": "pmid-42901710",
+      "pmid": "42901710",
+      "doi": "10.1002/acr.80191",
+      "source": "PubMed",
+      "sourceVerified": true,
+      "date": "2026-10-20",
+      "dateType": "PubMed收录日期",
+      "title": "Current State of Allogeneic Hematopoietic Cell Transplantation for Still's Disease: A Collaborative Perspective from Attendees of the Systemic Juvenile Idiopathic Arthritis Foundation NextGen Conference.",
+      "abstract": "Systemic juvenile idiopathic arthritis (sJIA) and adult-onset Still's disease (AOSD) represent a spectrum of Still's disease (SD) characterized by dysregulated innate immunity, severe systemic inflammation, and risk of life-threatening complications including macrophage activation syndrome (MAS) and associated lung disease (LD). Although IL-1 and IL-6 pathway inhibitors have improved outcomes, a subset of patients develop severe, refractory disease. This article summarizes the current evidence and multidisciplinary expert perspectives on the role of allogeneic hematopoietic cell transplantation (HCT) in refractory Still's disease. This Special Article is a conference summary based on presentations and multidisciplinary discussion at the 2024 Systemic JIA Foundation NextGen Conference, which convened an international, multidisciplinary group of rheumatologists, transplant physicians, immunologists, pulmonologists, and patient advocates. Recurrent MAS, progressive LD, persistent systemic inflammation despite IL-1/IL-6/JAK inhibition, and glucocorticoid dependence were identified as clinical features that may warrant consideration of allogeneic HCT in SD. Available data, mainly from small pediatric cohorts, suggest that allogeneic HCT can achieve clinical remission and improve pulmonary outcomes in select patients. However, transplant-related mortality remains substantial, particularly in patients with LD, and inflammatory disease may recur after HCT. HCT data in adults remain limited. Allogeneic HCT may be considered for select patients with severe, refractory SD, particularly those with recurrent MAS and/or progressive LD. Early multidisciplinary evaluation, shared decision-making, and careful patient selection are essential. Prospective multicenter studies and closer collaboration between pediatric and adult providers are needed to refine patient selection and improve outcomes.",
+      "diseaseId": "pediatric",
+      "diseaseIds": [
+        "pediatric",
+        "autoinflammatory"
+      ],
+      "diseaseZh": "儿童风湿病 · 自炎症性疾病",
+      "topics": [
+        "真实世界研究",
+        "缓解与达标治疗",
+        "靶向治疗"
+      ],
+      "evidenceLevel": "观察性研究",
+      "evidenceMethod": "基于文献类型自动标注",
+      "studyType": "Journal Article",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901710/",
+      "credibility": {
+        "studyStage": "临床观察",
+        "conclusionStrength": "observational",
+        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
+        "riskNote": "观察性关联不能证明因果。",
+        "confidence": "自动标注"
+      },
+      "titleZh": "",
+      "abstractZh": "",
+      "relevanceFlag": "normal",
+      "translationFailure": {
+        "lastAttemptAt": "2026-10-22T00:39:44.468Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 2cbd0ae3-ac03-45b9-a35b-cb6d3b340822)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
         "totalAttempts": 3,
         "retryPending": true
       }
@@ -70,13 +585,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:15.575Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 20fadf97-c81d-4728-9a8c-6820e528aebd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:11.676Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 50a7736b-e85b-4ba7-b8f0-a834144e079e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900520",
@@ -113,13 +628,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:16.529Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 27d04e70-bcb7-4adf-bead-863769b5a1c8)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:12.280Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 756b0277-4c33-469a-b7b0-ca87b7fd7b1e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900514",
@@ -150,13 +665,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:17.106Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 871730ce-1b59-48b8-9856-162bb6ad6607)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:12.252Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ee089e09-6545-4245-91e3-3f983bb94e6f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900504",
@@ -187,13 +702,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:17.267Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9cb9d00a-1238-4bcf-a2f2-334579e7d228)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:13.560Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 86db68a5-f2ca-46bf-aeb9-20d72d516bf5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900496",
@@ -228,13 +743,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:18.268Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6cbb6308-e1e4-40aa-9d80-6fdd2ed5d59f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:14.137Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 84785e7d-e86b-4a2f-82a9-308c5745df63)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900455",
@@ -268,13 +783,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:18.814Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 0d34c93c-1621-4c5f-b1d4-e1d719ac271b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:14.261Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b2d40e37-7a66-4ef6-b9fd-a8be2385d3ae)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900343",
@@ -305,13 +820,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:18.966Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: dab4f305-6e86-4ab9-9d0b-689c1d438e1d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:15.565Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fc67cca7-a4a6-4f1a-9572-6166dadf065a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900335",
@@ -345,13 +860,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:19.985Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: cb06e2a0-21fd-44fb-a35e-a7adff6e1261)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:16.006Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ca50470c-0bee-4e3a-bb51-4afafafeb114)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899487",
@@ -386,13 +901,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:20.515Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c1e14159-6e71-4f11-9f9a-54ab6b3400c8)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:16.154Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e0c6da32-7fe3-4121-810d-21067bba6b4e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899404",
@@ -426,13 +941,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:20.743Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e131ebc7-6fd4-4bda-94f7-e28c535cca27)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:17.480Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7d32ec0e-7928-45b0-a7d9-e7e4fb51d948)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897993",
@@ -466,13 +981,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:21.683Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: dd8b2a81-1365-42ca-8021-d6f751332c25)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:17.918Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fb674d70-5cef-4e81-9a01-3ae86f76c24a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897741",
@@ -503,13 +1018,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:22.237Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: aae76dc2-2809-49e5-89cc-ec5647545eb7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:18.023Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e92b6292-d37b-45a6-8bff-06ea373d1122)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897363",
@@ -542,13 +1057,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:22.462Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f4fc7bc7-95c6-4f7f-b6f1-bfb831546492)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:19.364Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b660de53-862d-46b5-8524-c101dbc33b65)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898453",
@@ -579,13 +1094,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:23.676Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 35728852-0b77-45c7-9f12-a433428a7f04)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:19.883Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c5dadad6-6759-4307-be80-192123dc87df)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899200",
@@ -621,13 +1136,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:24.739Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 8a55ea56-a654-44a4-b600-4c205e97dbed)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:19.962Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5ff203b1-028c-4def-bfba-5d3c8b68c391)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899105",
@@ -660,13 +1175,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:24.230Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e5a3489e-ffd2-44cf-b674-0df45bd0bdc2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:21.238Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3dc22d15-c650-49d0-98d4-24502170af1a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899094",
@@ -705,13 +1220,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:25.390Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c47160aa-f03f-4e9e-a584-63e2a222ecd0)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:21.791Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c578223b-974c-4283-a4f3-d56473f8e94a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898959",
@@ -745,13 +1260,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:25.958Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: a96d2d7e-52a6-4552-91c6-62ca6c495828)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:21.839Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 4674b2d9-69ea-4dad-a191-e9c67b74935a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898638",
@@ -784,13 +1299,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:26.559Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fb9da316-8a9c-402c-afd8-295d922043c3)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:23.128Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3e889871-92c1-4558-a342-62a066438ad7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898620",
@@ -824,13 +1339,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:27.090Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 2ad4308c-51cb-4a0d-94c8-d5732b427ae6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:23.659Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 421ec1a9-6bfa-4449-b6d7-a0630aa878b5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898585",
@@ -865,13 +1380,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:27.660Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5c0c88c1-97b3-45ac-9f14-318400c0f703)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:23.714Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f46e07ab-d798-4e06-ab7b-d36ad33c7d3b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898496",
@@ -902,13 +1417,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:28.290Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b0856ba2-7090-47b1-b87d-69d4676deb2d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:25.031Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: cbc624dd-fc9c-4ede-ad80-a08d519dad9b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898317",
@@ -943,13 +1458,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:28.784Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 0bc74871-a23d-4d89-9986-c1f581036070)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:25.519Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 13afba8f-39ba-4e83-b2a3-e9ae2ce7d0cd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898150",
@@ -983,13 +1498,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:29.357Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 17f9d000-98bc-456e-9718-6cfdde9b2622)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:25.559Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b0a137be-645b-46af-a9a2-749a62d02e4e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898067",
@@ -1024,13 +1539,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:29.976Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f8048722-49d1-403b-889e-da33f7524368)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:26.902Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 8afa2185-b4c2-46ac-94b0-c19001058e8c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899616",
@@ -1064,13 +1579,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:30.472Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 84cd1118-ace2-4656-9ea4-47166db8d2dc)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:27.419Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ce99c88a-dd18-4b46-a557-5d2ddae3b1b1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897413",
@@ -1104,13 +1619,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:31.051Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b6acf423-2215-4281-91de-a1cbb9f86747)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:27.464Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: d5e31d86-f977-417a-afb0-860535336667)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898059",
@@ -1143,13 +1658,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:31.677Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9073d9bc-d00b-4ec9-85bd-3cab5d32caa1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:28.798Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5d484a45-1088-4dce-8d41-e9945ab4cf20)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899311",
@@ -1185,13 +1700,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:32.150Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9b6b9fd6-126f-4a9d-a1ab-b68c86170e6b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:29.308Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fbce4557-4f5c-4aa3-b663-c98483a5a70f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899060",
@@ -1224,13 +1739,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:32.742Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fa389e7b-95d5-4b78-aace-01305cd03a7e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:29.428Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c66382e9-384f-4298-ba5e-a1ef40223a4b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897698",
@@ -1265,13 +1780,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:33.750Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 82e70688-8cfa-4754-93b9-35d80676686a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:30.680Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 00656e39-4842-4c48-9217-44426f28fa2c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42898020",
@@ -1302,13 +1817,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:33.882Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 273c58ec-7bd7-4543-9e14-32f3f4adaaa9)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:31.177Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: a6d80721-206c-4166-95cb-cb5641ca6fe7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897623",
@@ -1339,13 +1854,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:34.417Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c81114e7-4e8d-490b-ad6f-37436b78286c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:31.354Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7fafa79e-ecbb-4fe5-99ce-c08ec352d25e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42897703",
@@ -1379,13 +1894,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:35.441Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7f2db76b-b9b9-45cd-a57a-057ffa7a7d2e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:32.559Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5a75d5ca-8869-48d5-a0e8-e3b3b3a71c8a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900740",
@@ -1416,13 +1931,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:35.596Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 63028f87-5304-42d4-86e2-143b9efaff81)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:33.133Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: df18cb41-875c-48d6-bd9e-71676da89fd1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42900579",
@@ -1455,13 +1970,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:36.224Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 08c887b7-a9b8-4a9c-a3bf-df813210d8a4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:33.263Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f2d29ec3-abf2-4e32-8b0d-6745520648a8)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42899316",
@@ -1492,13 +2007,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:37.266Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 14b34d04-cd25-4bf3-89fa-ed46aa7bb912)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:34.422Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f9fe83f6-de1e-41a6-b35e-d7f2dea03373)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42894661",
@@ -1532,9 +2047,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:05.196Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ef2c5061-1182-4a17-8dbc-643b97a4bbaf)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:00.399Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 893f1182-3394-4b87-8051-15df529bade7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1569,9 +2084,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:06.198Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 834a7165-9794-42f1-8e12-175e7e1ef1a9)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:00.547Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 00b3e6c9-cad1-483b-8bf2-b514d0c43800)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1609,9 +2124,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:06.827Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f9024522-a1a9-4204-a700-09e325a7ae44)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:00.906Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b99ab5f0-9d03-4629-9538-ecbc8c0b68dc)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1650,13 +2165,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:37.324Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5bcacee6-84e6-4f64-838a-b78bee76b465)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:35.027Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 079cb53d-038d-4b71-a253-d5774d5b7b63)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42895279",
@@ -1692,9 +2207,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:06.905Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9a905433-0ce1-4ecd-bc6f-006c35e7c3d3)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:02.273Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fccdfce5-ca9b-4425-bc80-f83acf96e49d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1732,13 +2247,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:38.007Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: dc1903e4-d0b7-4b98-8cd7-463e2b4a4bfa)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:35.288Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 31871835-aa35-49e0-8acd-9d73ad42837d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42896714",
@@ -1771,13 +2286,13 @@
       },
       "titleZh": "",
       "abstractZh": "",
-      "relevanceFlag": "normal",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:38.971Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e858e92f-e315-484c-b9cb-788f11140054)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 3,
+        "lastAttemptAt": "2026-10-22T00:39:36.387Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: d387a3d6-ca79-4f4a-8584-e9b894621b15)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 6,
         "retryPending": true
-      }
+      },
+      "relevanceFlag": "normal"
     },
     {
       "id": "pmid-42895954",
@@ -1811,9 +2326,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:07.968Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 4ceb4053-7740-44f7-8f30-a1dacac2086f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:02.417Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 963ce5b0-c72f-402c-a3f8-878db3990dd2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1852,9 +2367,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:08.610Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9798b107-7224-4bfe-91f2-7a16b9a6f854)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:02.815Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 894dcc72-d58a-45a4-8b84-60f465f03771)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1891,9 +2406,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:08.602Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9a2604f8-8e0b-4119-abb2-c9c291dccfcf)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:04.159Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: cf78d03d-24de-4f15-aa64-b9f37ab1e625)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1930,9 +2445,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:09.690Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 59799e52-b8b4-487b-862a-f968862873e5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:04.309Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6ceac66d-6b31-4299-a68e-895b6882d06c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -1969,9 +2484,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:10.334Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 92fa42b2-c224-47de-9c8c-61d4cf3974fc)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:04.700Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 44aaf9f5-c69b-422b-84a3-854c0cfa3a0e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2010,9 +2525,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:10.289Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3fa86783-4c45-46bc-913c-647a9cbdb732)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:06.026Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fd49a4bd-484f-44f1-b202-4bce7db6e8a7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2047,9 +2562,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:11.409Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f79e0111-a2c2-446e-bf18-4e2c09d6c4e6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:06.193Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 32e28539-03a2-4fe4-acac-0c3857b1a003)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2088,9 +2603,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:11.981Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: d9de86ad-e1ed-4291-b663-89fdfae4958c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:06.582Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 78762332-6db1-4bb0-bab6-4c9ec0ae1fd0)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2125,9 +2640,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:12.125Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e3f7409b-1c5a-4ee2-bf37-5a7ead6d1d2d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:07.907Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c84f157f-5e16-40e7-a3c7-f5c648549b69)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2167,9 +2682,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:40.309Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 523998de-ec84-4239-9b82-d1a1c0140ba8)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:51.071Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 8dfdd120-18f6-4834-88a8-c405a3a22545)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2206,9 +2721,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:13.125Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5c80f350-21dd-4aaf-846e-04be28831646)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:08.072Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 011544a6-47e0-4cb7-993c-ab5bf2b6d7e6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2246,9 +2761,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:13.698Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e21c02da-84f4-4992-95c2-9917abc9d806)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:08.509Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 44549ce0-d66b-482f-aa2b-17a16747ad69)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2288,9 +2803,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:13.839Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 24b502a0-c060-4a16-9345-ed00f69cec57)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:09.792Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 37bb0d8b-5447-4ba6-8faa-dc913a8a46d1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2325,9 +2840,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:40.324Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 50869430-6f0d-461e-abd4-bdf8ce60172b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:51.075Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 8df9d1aa-6df9-49fb-a0bc-aeb557389242)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2362,9 +2877,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:40.441Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3914b790-f0e0-48f5-a6ec-68e7a5c1e415)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:51.217Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 9f000fa6-f6f4-40ef-8289-8be384177293)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2401,9 +2916,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:42.102Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b30e4e69-cefa-468a-9b52-e8b9985ffa4f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:52.935Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6cbbdb08-658a-4df9-9c7d-325d8df3b9be)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2439,9 +2954,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:42.020Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e950f133-1dbc-40d1-ae5f-6ecde3359d10)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:52.956Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f098ba4b-246c-463b-8540-d764d8d363a5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2478,9 +2993,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:42.143Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 00617431-0df8-42ab-89be-9c8b3d40d84d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:53.122Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 666e456d-9677-4215-8fa3-4807a41a0f7b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2518,9 +3033,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:43.710Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5d6260d0-c571-4b41-9843-dec974d4543b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:54.804Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 0eb3f42c-0091-4da6-9cd9-fcc62afe24b8)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2557,9 +3072,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:43.845Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 0fe89eb4-f266-4b30-a467-1bbb0afca446)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:54.836Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 2d3bad9e-c65a-4cb3-9bf2-c47e7aa5ab4b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2594,9 +3109,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:43.844Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 28dbcedc-e434-4fb5-b0f7-5c7f2cc08045)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:54.986Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: e95d8661-985e-4578-a792-00b9c0a79eed)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2633,9 +3148,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:45.395Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 298a42f3-8507-485b-8d61-1217d34ec51f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:56.681Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 89798bac-4308-4766-ac11-cfce8fde1d85)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2672,9 +3187,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:45.599Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: c4464ba4-c441-4f2c-92cb-ce0a4e97df74)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:56.792Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: ff0781ba-3f82-4995-9d3a-c0b7cde76e2e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2709,9 +3224,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:45.549Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5951882e-7028-4b13-b8da-47c0a75c8e0f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:56.956Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 18350e3d-99d6-4885-8254-d285b4751331)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2749,9 +3264,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:14.820Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b00255dd-6712-481f-8c4f-e536ded4afae)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 6,
+        "lastAttemptAt": "2026-10-22T00:39:09.935Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6e7bcc9f-4cf8-4df5-93d9-a4e8f85e15c3)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 9,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2788,9 +3303,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:47.121Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: d17a6952-b41e-4c85-bac9-382a4217eca3)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:58.554Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 49249d81-7f02-4149-9f25-0282a948ed50)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2829,9 +3344,9 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:47.245Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3a44de57-e6c0-4406-a06a-cb0f3d77f903)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:58.658Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b6893c68-aa63-436d-91f2-2b29ced5b5a6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
@@ -2868,1163 +3383,20 @@
       "titleZh": "",
       "abstractZh": "",
       "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:47.293Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 681492d7-0eac-47b3-94ef-79e961864242)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888947",
-      "pmid": "42888947",
-      "doi": "10.1080/19490976.2026.2739669",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Targeted intestinal ROS scavenging alleviated rheumatoid arthritis by microbial metabolite kynurenic acid mediated Treg/Th17 balance through AhR pathway activation.",
-      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by immune dysregulation, which is often closely related to impaired gut microbiota homeostasis. Excessive reactive oxygen species (ROS) are recognized as critical drivers of microecological immunity disturbance, contributing directly to the inflammatory cascade. However, the underlying mechanism remains unclear. Here, we have used ROS scavengers to alleviate RA progression via inhibiting intestinal ROS and modulating gut microbial kynurenic acid metabolism. Black phosphorus nanosheets (BPNSs), as effective ROS scavengers, significantly ameliorated disease severity in collagen-induced arthritis (CIA) mice by oral administration to eliminate intestinal excess ROS. BPNSs selectively reshaped the gut microbiota and altered its metabolic profile, elevating the relative abundance of the tryptophan-derived metabolite kynurenic acid (KYNA). Mechanistically, elevated KYNA activated the aryl hydrocarbon receptor (AhR) pathway in naïve CD4 + T cells, promoting their differentiation into Treg cells through the inhibition of AKT/mTOR signaling pathway. The therapeutic effect of KYNA was further corroborated in CIA mice, where its administration maintained Treg/Th17 balance, attenuated arthritis progression, and enhanced intestinal barrier integrity. These findings elucidate novel gut-immune-bone axis wherein scavenging intestinal ROS drives KYNA mediated AhR-dependent Treg cell differentiation, thereby proposing a promising ROS scavenging-based strategy for RA treatment.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "动物/细胞研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888947/",
-      "credibility": {
-        "studyStage": "临床前研究",
-        "conclusionStrength": "preclinical",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "动物或细胞结果不能直接外推至患者。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:48.824Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5c8a93d6-feb8-4b2f-8ced-ff93552b656b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42891641",
-      "pmid": "42891641",
-      "doi": "10.1093/mr/roag089",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Treatment persistence and clinical outcomes following subcutaneous methotrexate initiation in patients with rheumatoid arthritis: a real-world observational study.",
-      "abstract": "This study aimed to evaluate treatment persistence and safety following subcutaneous methotrexate (MTX) initiation in Japanese patients with RA and to assess clinical outcomes among patients who directly switched from oral to subcutaneous MTX. This retrospective study included 101 patients with RA who initiated subcutaneous MTX at our institution. Efficacy and safety were analysed in patients who switched from oral MTX due to adverse events. The primary endpoint was the 26-week retention rate of subcutaneous MTX. Gastrointestinal intolerance was the commonest reason for switching from oral to subcutaneous MTX. The overall retention rate was 87.1% (88/101). Among 88 patients who switched, the 26-week retention rate was 92.0% (81/88). During 26 weeks after switching, MTX dose increased in 46.6% (41/88). In patients not receiving biologic or targeted synthetic disease-modifying anti-rheumatic drugs at switching (n=50), the 26-week retention rate was 96.0% (48/50), and mean MTX dose increased (10.3±2.8 to 12.0±2.8 mg/week; p<0.0001). The Clinical Disease Activity Index improved by week 26 (13.2±10.1 to 8.2±7.8; p<0.0001), with 30.0% (15/50) achieving remission. Switching from oral to subcutaneous MTX in patients with RA who are intolerant to oral MTX may enable continued treatment and dose optimization and be associated with improved disease activity.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "真实世界研究",
-        "缓解与达标治疗",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891641/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:49.010Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 4afd23ca-9bfa-468b-bcc6-8b199a58ca1c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888601",
-      "pmid": "42888601",
-      "doi": "10.1097/MD.0000000000051185",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Association between ankylosing spondylitis and hearing loss: A Mendelian randomization study.",
-      "abstract": "Observational studies have suggested a potential link between ankylosing spondylitis (AS) and hearing loss. However, this association remains controversial due to potential drug-induced ototoxicity from treatments. Therefore, we employed a Mendelian randomization (MR) approach to evaluate the association between AS and hearing loss from a genetic perspective. This MR study utilized summary data from genome-wide association studies on AS and hearing loss, including sensorineural hearing loss (SNHL) and conductive hearing loss (CHL). The primary analysis was conducted using the inverse-variance weighted method. The primary analysis showed a causal effect of AS on both SNHL (odds ratio [OR] = 1.121, 95% confidence interval [CI]: 1.042-1.206, P = .002) and CHL (OR = 1.387, 95% CI: 1.123-1.712, P = .002). After excluding chromosome 6 variants, the association with CHL persisted (OR = 1.675, 95% CI: 1.212-2.315, P = .002), while the effect on SNHL was no longer significant (OR = 1.054, 95% CI: 0.942-1.181, P = .357). The primary inverse-variance weighted analysis showed no causal effect of SNHL on AS (OR = 0.984, 95% CI: 0.892-1.086, P = .747). Sensitivity analyses found no evidence of horizontal pleiotropy. This MR study suggests that AS is causally associated with higher risks of CHL and SNHL. The association with CHL appears independent of the chromosome 6 human leukocyte antigen region, whereas the risk for SNHL is largely driven by this region. These findings suggest that targeted audiometric evaluations should be considered for symptomatic patients with AS. Further studies are required to explore the specific mechanisms linking AS to different types of hearing loss.",
-      "diseaseId": "spa",
-      "diseaseIds": [
-        "spa"
-      ],
-      "diseaseZh": "脊柱关节炎谱系",
-      "topics": [
-        "真实世界研究",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888601/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:49.053Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6c17310b-5439-4541-ad81-f45b8380f83c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888590",
-      "pmid": "42888590",
-      "doi": "10.1097/MD.0000000000051143",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Comparison analysis of the triglyceride-glucose index, triglyceride-glucose and frailty index in cardiovascular disease and mortality association among patients with rheumatoid arthritis: A population-based cohort study.",
-      "abstract": "Cardiovascular disease (CVD) is a major cause of excess mortality among patients with rheumatoid arthritis (RA). Conventional risk assessment may not fully capture the metabolic abnormalities and physiological vulnerability associated with RA. We investigated whether the triglyceride-glucose-frailty index (TyG-FI), which combines a surrogate marker of insulin resistance with accumulated health deficits, was associated with prevalent CVD and cardiovascular mortality among adults with RA. We analyzed 1090 adults with self-reported RA from 10 cycles of the National Health and Nutrition Examination Survey conducted between 1999 and 2018. TyG-FI was calculated as the product of the triglyceride-glucose index and a 49-item deficit-accumulation frailty index. Multivariable logistic regression was used to examine the association with prevalent CVD, whereas Cox proportional hazards regression was used to examine cardiovascular mortality. Restricted cubic splines, subgroup analyses, sensitivity analyses, and discrimination analyses were conducted as secondary analyses. In the fully adjusted models, each 1-unit higher TyG-FI was associated with higher odds of prevalent CVD (odds ratio, 4.50; 95% confidence interval, 3.20-6.33) and a higher hazard of cardiovascular mortality (hazard ratio, 1.77; 95% confidence interval, 1.16-2.70). The reported areas under the receiver operating characteristic curve were 0.80 for prevalent CVD and 0.81 for cardiovascular mortality in models incorporating TyG-FI, compared with 0.73 and 0.80, respectively, in models incorporating TyG. An exploratory subgroup analysis suggested a stronger association between TyG-FI and prevalent CVD among participants aged ≤65 years (P for interaction = .044). Higher TyG-FI was associated with prevalent CVD and cardiovascular mortality among US adults with self-reported RA. TyG-FI may capture complementary metabolic and frailty-related information; however, its incremental predictive value, calibration, clinical utility, and external validity require further evaluation before clinical implementation.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888590/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:50.537Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f3d52bce-b1ea-46ed-960d-ce1245d27ced)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888585",
-      "pmid": "42888585",
-      "doi": "10.1097/MD.0000000000051165",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Association of the dietary carbohydrate-to-fiber ratio with prevalent rheumatoid arthritis in NHANES 2009-2018.",
-      "abstract": "This study examines the cross-sectional association between the carbohydrate-to-fiber ratio (CFR), an indicator of carbohydrate quality, and prevalent rheumatoid arthritis (RA) in the National Health and Nutrition Examination Survey (NHANES). The exposure was overall CFR, calculated from 2 days of dietary recall and categorized into population-wide quartiles. RA diagnosis was the outcome. Survey-weighted logistic regression was used to evaluate the CFR-RA association, adjusting for demographic, lifestyle, dietary, and metabolic covariates. Generalized additive models, subgroup analyses, and interaction tests were performed. An exploratory survey-weighted mediation analysis evaluated SII as a hypothesized intermediate factor. The study ultimately included 19,260 participants aged ≥ 20 years with valid 2-day dietary weights, with a survey-weighted RA prevalence of 4.31%. Higher CFR was significantly associated with increased RA odds, with the highest quartile showing 67% higher odds than the lowest (P < .001). After exclusion of CFR values above the upper fence defined using the interquartile range, the model 4 GAM showed an effectively linear positive association. A sensitivity analysis retaining all CFR observations showed curvature in the sparsely populated upper tail with wide uncertainty. In the exploratory model 4 mediation analysis, the estimated indirect association through SII was small (4.77% of the total association; 95% confidence interval: -5.33% to 14.87%), and its confidence interval included the null. Higher CFR was associated with greater odds of prevalent self-reported RA. Longitudinal and genetically informed studies are needed before causal or preventive interpretations can be made.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888585/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:50.764Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: f4e704c9-689b-4b2f-bd32-becbdf86d3f5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888582",
-      "pmid": "42888582",
-      "doi": "10.1097/MD.0000000000051159",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Association of baseline non-severe anemia with clinical outcomes following the first recorded diagnosis of systemic sclerosis: A matched cohort study.",
-      "abstract": "Systemic sclerosis (SSc) carries the highest mortality among systemic autoimmune diseases, yet the prognostic significance of anemia around the time of the first recorded SSc diagnosis is unclear. We examined whether baseline anemia is associated with early mortality and complications. This retrospective matched cohort study identified female adults with a first recorded SSc diagnosis between January 2010 and December 2024 from the TriNetX Research Network. Patients were required to have at least 5 years of pre-index observation without a documented SSc diagnosis. The network comprised 140 healthcare organizations, with approximately 70% of patients in the United States across all 9 census regions and 30% at international sites. Anemia was defined as hemoglobin (Hb) ≥8.0 and <12.0 g/dL and non-anemia as ≥12.0 g/dL, measured within ±30 days of diagnosis. For the Hb-stratified analysis, the anemia cohort was categorized as Hb ≥10.0 to <12.0 g/dL or ≥8.0 to <10.0 g/dL. One-to-one propensity score matching balanced baseline characteristics, and Cox proportional hazards models estimated hazard ratios (HRs) with 95% confidence intervals (CIs). The primary outcome was all-cause mortality during days 31 to 365 among patients surviving the 30-day landmark period; secondary outcomes were sepsis, acute kidney injury, intensive care unit admission, pulmonary fibrosis, and elevated C-reactive protein (≥10 mg/L). After matching, 5410 patients remained in each cohort. Baseline anemia was significantly associated with higher 1-year mortality (HR, 2.54; 95% CI, 1.99-3.22; P < .001) and with increased risks of sepsis (HR, 3.20; 95% CI, 2.38-4.30), acute kidney injury (HR, 2.24; 95% CI, 1.80-2.78), intensive care unit admission (HR, 1.92; 95% CI, 1.47-2.51), and elevated C-reactive protein (HR, 1.55; 95% CI, 1.37-1.74; all P < .001); no significant association was observed for pulmonary fibrosis (HR, 1.06; 95% CI, 0.96-1.17; P = .229). Associations persisted in sensitivity analyses and over 3-year follow-up. Mortality risk showed a graded pattern across Hb strata (Hb ≥10.0-<12.0 g/dL: HR, 1.66; Hb ≥8.0-<10.0 g/dL: HR, 3.33). Baseline anemia was associated with increased mortality and acute systemic complications following the first recorded SSc diagnosis; these observational findings warrant prospective validation.",
-      "diseaseId": "ssc",
-      "diseaseIds": [
-        "ssc"
-      ],
-      "diseaseZh": "系统性硬化症",
-      "topics": [
-        "狼疮肾炎",
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888582/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:51.147Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 96aee21d-231a-4007-a0c7-5af1fc6d5cea)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42888533",
-      "pmid": "42888533",
-      "doi": "10.1097/MD.0000000000051087",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Sarcopenia in systemic sclerosis-associated interstitial lung disease: A cross-sectional radiological and functional assessment.",
-      "abstract": "Systemic sclerosis-associated interstitial lung disease (SSc-ILD) is a significant complication that impairs lung function and increases morbidity. Sarcopenia, characterized by the loss of muscle mass and function, is commonly found in chronic diseases such as systemic sclerosis. This study aimed to evaluate the prevalence of sarcopenia in patients with SSc-ILD and investigate its cross-sectional associations with pulmonary function test parameters, estimated pulmonary artery pressure and quantitative radiological lung involvement. In this cross-sectional study conducted between 2024 and 2025, 40 patients with systemic sclerosis (2013 ACR/EULAR criteria) and high-resolution computed tomography-confirmed interstitial lung disease were evaluated. Patients with overlap myositis, acute infections, severe orthopedic/neurological limitations, and end-stage organ failure were excluded. Sarcopenia was diagnosed based on European Working Group on Sarcopenia in Older People 2 criteria using muscle mass (bioelectrical impedance analysis) and handgrip strength measurements. Pulmonary function tests (FVC, single-breath transfer factor of lung for carbon monoxide), echocardiographic sPAP estimations, and quantitative high-resolution computed tomography lung density analysis were performed. These findings highlight the potential impact of sarcopenia on lung function and the association of sarcopenia with radiological findings in SSc-ILD SSc-ILD. Among the 40 analyzed patients (mean age: 55.8 ± 10.8 years, 85.0% female, mean BMI: 28.7 ± 5.0 kg/m2), sarcopenia was identified in 10 patients (25.0%). Patients with and without sarcopenia were compared to analyze its effects on pulmonary function and radiological findings. Patients with sarcopenia had significantly lower lung diffusion capacity (transfer factor of lung for carbon monoxide) and forced vital capacity % values and significantly higher radiological lung involvement compared to those without sarcopenia (P = .004, P = .023, and P = .035, respectively). Systolic pulmonary artery pressure was also significantly higher in sarcopenic patients (P = .031). Additionally, fat-free mass index, fat-free mass, muscle mass, and handgrip strength were significantly lower in sarcopenic patients (P < .001).",
-      "diseaseId": "ssc",
-      "diseaseIds": [
-        "ssc"
-      ],
-      "diseaseZh": "系统性硬化症",
-      "topics": [],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888533/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:52.275Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 8ac4d526-cd01-463d-95e9-93928d54b992)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42891068",
-      "pmid": "42891068",
-      "doi": "10.1093/rap/rkag106",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Correction: Obinutuzumab as salvage anti-CD20 therapy in poly-refractory difficult-to-treat seropositive rheumatoid arthritis.",
-      "abstract": "[This corrects the article DOI: 10.1093/rap/rkag089.].",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "B细胞与浆细胞",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Published Erratum",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891068/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:52.475Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5dff6aac-3ec9-4dcc-8bdd-d1411ebd5768)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890360",
-      "pmid": "42890360",
-      "doi": "10.1097/GOX.0000000000008189",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Adult-onset Still Disease Flare 5 Days Following Poly-l-lactic Acid Injection: A Cautionary Tale for Aesthetic Practice.",
-      "abstract": "Adult-onset Still disease (AOSD) is a rare systemic autoinflammatory disorder characterized by quotidian fevers, evanescent rash, and polyarthritis. Minimally invasive aesthetic procedures are increasingly common, yet their immunological safety in patients with underlying autoimmune disease remains poorly characterized. We report a 57-year-old woman with AOSD, previously stable on annual rituximab (1 g), who developed a severe systemic flare temporally associated with a poly-l-lactic acid facial injection, with symptom onset 5 days after the procedure. She presented with high-grade pyrexia (40°C), extreme leukocytosis (white blood cell, 26 × 10 9 /L), C-reactive protein (230 mg/L), and acute arthritis of the hand joints, requiring inpatient intravenous corticosteroids and intravenous rituximab. This case raises the possibility that collagen-stimulating biomaterials may act as an immunological trigger for systemic autoinflammatory relapse in predisposed patients; however, causality cannot be inferred from a single observation, and the relationship described here is strictly temporal. As a conceptual, hypothesis-generating proposal, a structured preprocedural risk assessment and multidisciplinary perioperative protocol are suggested for consideration before elective aesthetic procedures in AOSD patients, pending validation in larger series.",
-      "diseaseId": "autoinflammatory",
-      "diseaseIds": [
-        "autoinflammatory"
-      ],
-      "diseaseZh": "自炎症性疾病",
-      "topics": [],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Case Reports",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890360/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:52.854Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 23e217c1-4e14-45ff-83ac-9eb77f244ea2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889866",
-      "pmid": "42889866",
-      "doi": "10.2147/IJWH.S643942",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Sexual Dysfunction and Associated Factors in Iranian Women with Systemic Lupus Erythematosus: A Cross-Sectional Study.",
-      "abstract": "Sexual dysfunction is a prevalent yet under-investigated dimension of quality of life in women with systemic lupus erythematosus (SLE). This study aimed to determine the prevalence of sexual dysfunction and its associated demographic, reproductive, and SLE-related clinical factors among Iranian women with SLE. This cross-sectional study enrolled women with SLE recruited from private rheumatology practices in two Iranian cities between December 2025 and June 2026. Data were collected via a clinical-demographic questionnaire and the Female Sexual Function Index (FSFI). Of 116 recruited women, 97 participants were included in the final analysis. Univariable and multivariable (backward elimination) linear regression models were used to identify factors associated with total and subdomain FSFI scores. The mean (±SD) age of participants was 39.31 (±8.11) years, and sexual dysfunction was identified in 68 of 97 women (70.1%). Arousal 2.65 (±0.59) and desire 3.02 (±1.16) were the most impaired domains, while pain 5.06 (±1.08) was the least affected. In multivariable analysis, active lupus showed the strongest association with poorer sexual function, with significantly lower total FSFI scores (β=-5.33; 95% CI: -6.83, -3.82; P<0.001) and all subdomains (P≤0.009). Longer disease duration and older age at SLE diagnosis were independently associated with lower total, arousal, and satisfaction scores. Current infertility in a small subgroup (n=11/97), higher intercourse frequency, and unemployment were associated with better sexual outcomes in specific domains, while higher parity and chronic comorbidities were associated with worse orgasm and pain scores, respectively. Sexual dysfunction is highly prevalent among Iranian women with SLE, particularly affecting arousal and desire. Disease activity, duration, and age at diagnosis are independently associated factors. These findings suggest the potential value of integrating routine sexual health assessments into comprehensive SLE care.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [
-        "妊娠与女性健康"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889866/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:54.903Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 5ae7e979-b668-443a-aba7-43169cc6eaa9)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890976",
-      "pmid": "42890976",
-      "doi": "10.3389/fresc.2026.1920901",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Feasibility and safety of a 6-month outpatient rehabilitation program combining therapeutic electrical stimulation using belt electrodes and nutritional management in patients with rheumatoid arthritis: a pilot study.",
-      "abstract": "Although resistance training with nutritional intervention is recommended for sarcopenia, effective programs are often difficult to implement in patients with rheumatoid arthritis (RA). This pilot study aimed to assess the feasibility and safety of a 6-month outpatient rehabilitation program combining therapeutic electrical stimulation (TES) using belt electrodes with nutritional management in patients with RA. This pilot study was conducted as a prospective observational study with a single-arm before-after framework and enrolled outpatients with RA in remission or with low disease activity. Participants received an outpatient rehabilitation program as part of routine clinical practice once or twice weekly over 6 months, including TES applied to the lower limbs using belt electrodes (20 min per session; 20 Hz; maximum tolerable intensity) and the daily intake of an L-leucine-enriched protein-containing nutritional supplement. Feasibility and safety were evaluated based on study completion, TES session frequency, verbally confirmed adherence to nutritional supplementation, adverse events documented during the program, and maintenance of disease activity. Lower-limb lean mass, knee extensor muscle strength, and gait speed were assessed as exploratory clinical outcomes at baseline and after 6 months. Of the 14 recruited outpatients with RA, 10 completed both the 6-month program and the final outcome assessment, corresponding to a study completion rate of 71.4%. Participants received a median of 34.5 TES sessions over 6 months. As exploratory clinical outcomes, the median paired changes in lower-limb lean mass, knee extensor muscle strength, and gait speed were 0.08 kg (95% confidence interval [CI], 0.00 to 0.25; P  = 0.043), 1.58 kgf (95% CI, -0.35 to 7.25; P  = 0.084), and 0.18 m/s (95% CI, -0.04 to 0.24; P  = 0.084), respectively. Disease activity remained within the low disease activity to remission range and did not significantly change during the 6-month observation period ( P  = 0.214). No joint-related or cardiovascular adverse events were documented. This pilot study provides preliminary information on the feasibility and safety of a 6-month outpatient rehabilitation program combining TES using belt electrodes and nutritional management in patients with RA. These findings may inform the design of future studies.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "真实世界研究",
-        "缓解与达标治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890976/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:54.170Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 35531f8d-f097-41ce-8a5e-c1b7e77fdb12)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890837",
-      "pmid": "42890837",
-      "doi": "10.3389/fimmu.2026.1959200",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Association of phenotypic and functional characteristics of regulatory T cells from minor salivary glands with expression of the delta 7 FoxP3 splice variant in patients with Sjögren's disease.",
-      "abstract": "Sjögren's disease (SjD) is a systemic autoimmune disorder characterized by lymphoplasmacytic infiltration of exocrine glands, including minor salivary glands (MSG), with potential formation of ectopic germinal centers. Regulatory T cells (Tregs) are critical suppressors of autoimmune responses, and their dysfunction has been implicated in SjD pathogenesis. FoxP3, the master transcription factor of Tregs, undergoes alternative splicing to produce four variants: full-length (FL), Δ2, Δ7, and Δ2Δ7. While FoxP3 splice variants are known to influence Treg proliferation and suppressive activity, their profile and functional significance in Tregs from SjD patients remain poorly characterized. Peripheral blood was collected from 20 SjD patients or 20 healthy donors (HD). MSG biopsies were obtained from 10 SjD patients. Tregs were isolated from blood and biopsy tissue by immunomagnetic separation and expanded ex vivo. FoxP3 splice variant mRNA levels were quantified by real-time RT-PCR. Treg phenotype (CD4, CD25, CD127, CD152, Helios), suppressive molecules (CD39, CD223, granzymes A/B, perforin), was assessed by flow cytometry. The concentrations of suppressive cytokines IL-10 andIL-35 were accessed by Bio-Plex assay. Proliferation was evaluated by cell counting. Suppressive activity was determined by mixed lymphocyte reaction. Splice-switching oligonucleotides (SSOs) were used to induce Δ7 FoxP3 expression to confirm direct functional effects. Peripheral blood Tregs from SjD patients showed significantly decreased increased Δ7 FoxP3 splice variant compared to HD. MSG-derived Tregs from SjD patients also predominantly expressed the Δ7 FoxP3 variant. High-expressing Δ7 FoxP3 Tregs exhibited reduced proliferative activity, division frequency and decreased suppressive activity compared to low-expressing Δ7 FoxP3 Tregs. High-expressing Δ7 FoxP3 Tregs showed significantly reduced CD127low and Helios expression, decreased CD39, CD223, granzyme, and granzyme B. IL-10 and IL-35 production was also reduced. SSO-mediated induction of Δ7 FoxP3 MSG-derived Tregs confirmed these phenotypic and functional changes. This study demonstrates that elevated Δ7 FoxP3 splice variant expression in MSG-derived Tregs from SjD patients is associated with impaired proliferative and suppressive function, reduced expression of suppressive molecules and cytokines, and a phenotype suggestive of a transitional or immature Treg state. The results highlight the functional consequences of altered FoxP3 alternative splicing in SjD pathogenesis and suggest a possible involvement of Tregs in the biology of ectopic germinal centers in SjD.",
-      "diseaseId": "sjogren",
-      "diseaseIds": [
-        "sjogren"
-      ],
-      "diseaseZh": "干燥综合征",
-      "topics": [],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890837/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:54.578Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 3a497f9a-662a-438a-97a6-ca984e3d8551)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890786",
-      "pmid": "42890786",
-      "doi": "10.3389/fimmu.2026.1829186",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Preferential phosphodiesterase inhibition as a novel strategy to modulate key pathways in systemic sclerosis.",
-      "abstract": "Systemic sclerosis (SSc) is a complex autoimmune disease marked by vasculopathy, immune dysregulation, and progressive fibrosis of the skin and internal organs. The high disease burden and impact on quality of life highlight the need for therapies that target underlying pathogenic mechanisms rather than merely treating organ-specific symptoms. Phosphodiesterases, including phosphodiesterase 4B (PDE4B), are key regulators of cellular function and inflammatory responses of several cell types central to SSc pathogenesis. Given PDE4B's broad effects, targeting it may provide benefits beyond organ-specific manifestations and improve current care. Selective PDE4B inhibition represents a novel therapeutic approach for SSc, with improved subtype selectivity compared with earlier pan-PDE4 inhibitors. Nerandomilast preferentially inhibits PDE4B (ninefold over PDE4D), potentially improving tolerability versus oral pan-PDE4 inhibitors by avoiding adverse events such as gastrointestinal intolerance. Preclinical findings in SSc-relevant mouse and cell models show that PDE4B inhibition modulates inflammatory cytokine secretion, smooth muscle cell tension, endothelial and epithelial barrier integrity, and extracellular matrix synthesis under oxidative stress; this suggests nerandomilast could attenuate immune dysregulation, fibrosis, and potentially impact vasculopathy. Two pivotal Phase III trials evaluated nerandomilast in patients with idiopathic pulmonary fibrosis (FIBRONEER™-IPF; NCT05321069) and progressive pulmonary fibrosis (FIBRONEER™-ILD; NCT05321082), the latter of which included patients with SSc-associated interstitial lung disease (SSc-ILD). The ongoing CONQUEST trial (NCT06195072) is investigating the efficacy and safety of various drugs, including nerandomilast, in patients with early active SSc-ILD. This perspective highlights the rationale for targeting PDE4B in SSc therapy and explores preclinical findings in SSc and clinical findings in SSc-ILD to date.",
-      "diseaseId": "ssc",
-      "diseaseIds": [
-        "ssc"
-      ],
-      "diseaseZh": "系统性硬化症",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "动物/细胞研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890786/",
-      "credibility": {
-        "studyStage": "临床前研究",
-        "conclusionStrength": "preclinical",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "动物或细胞结果不能直接外推至患者。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:55.861Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 613a3283-4f5f-4e26-bf00-e92cfcdeb6f5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890317",
-      "pmid": "42890317",
-      "doi": "10.3389/fimmu.2026.1917500",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Clinical variables and quantitative CT radiomics for mortality risk stratification after acute exacerbation of idiopathic inflammatory myopathy-associated interstitial lung disease.",
-      "abstract": "Acute exacerbation (AE) is the most lethal event of idiopathic inflammatory myopathy-associated interstitial lung disease (IIM-ILD). This exploratory study compared clinical, radiomics, and combined predictor strategies across five survival-learning algorithms for survival risk stratification. We retrospectively analyzed 78 patients with AE-IIM-ILD and divided them into a training cohort (n = 54; 20 deaths) and a held-out internal testing cohort (n = 24; 9 deaths), stratified by observed mortality event status. Three predictor strategies were evaluated: a clinical strategy comprising PaO 2 /FiO 2 ratio, neutrophil percentage (NEU%), and arthritis-related symptoms; a radiomics strategy comprising two selected radiomics features; and a combined strategy comprising PaO 2 /FiO 2 ratio, arthritis-related symptoms, and a composite radiomics score (Rad-score). Each strategy was evaluated using five survival-learning algorithms. Harrell's concordance index (C-index) was the primary discrimination metric, with mean time-dependent area under the curve (AUC) used as a secondary measure. During the 1-year follow-up, 29 deaths were observed. Performance rankings varied across predictor strategies, algorithms, and evaluation metrics. The combined-Random Survival Forest configuration demonstrated the highest training-cohort C-index among the 15 configurations. Its mean time-dependent AUC was 0.923 (95% CI: 0.860-0.970) in the training cohort and 0.915 (95% CI: 0.736-0.986) in the testing cohort, with corresponding C-indices of 0.874 (95% CI: 0.803-0.940) and 0.842 (95% CI: 0.673-0.971), respectively. The model stratified patients into high- and low-risk groups with distinct observed survival trajectories. In this exploratory cohort, integrating selected clinical variables with a quantitative CT Rad-score using RSF showed promising numerical discrimination and risk-stratification performance. These findings suggest that clinical and quantitative imaging information may provide complementary prognostic information after AE-IIM-ILD.",
-      "diseaseId": "myositis",
-      "diseaseIds": [
-        "myositis"
-      ],
-      "diseaseZh": "特发性炎性肌病",
-      "topics": [
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890317/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:56.291Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: a4cb2f34-9f77-45a7-bec4-0d22d0063942)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890161",
-      "pmid": "42890161",
-      "doi": "10.3389/fimmu.2026.1957327",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Autoantibodies against interleukin-1 receptor antagonist in Still's disease in adult patients, data from a multicenter cohort study.",
-      "abstract": "Emerging evidence supports the presence of autoantibodies targeting interleukin-1 receptor antagonist (IL-1Ra), a regulator of IL-1 signaling, in adult-onset Still's disease (AOSD). However, existing data are limited by small cohorts and potential confounding due to prior exposure to IL-1 inhibitors. This study aimed to develop a simple and reproducible indirect ELISA for detecting anti-IL-1Ra antibodies and to assess their frequency and immunological features in IL-1 inhibitor-naïve AOSD patients. Serum samples from IL-1 inhibitor-naïve AOSD patients (n=46) and healthy controls (n=26) were analyzed using an indirect ELISA based on recombinant IL-1Ra (anakinra) as antigen. Specificity was confirmed by dot blot. Anti-IL-1Ra IgG were affinity-purified from a high-titer patient and characterized by ELISA and SDS-PAGE. Epitope mapping was performed using phage display peptide libraries, followed by sequence alignment and structural mapping onto native IL-1Ra. Anti-IL-1Ra antibody levels were significantly higher in AOSD patients than in healthy controls (p=0.003), with a greater proportion showing high titers (p<0.001). Levels did not differ between active and inactive AOSD patients. Purified antibodies displayed specific dose-dependent binding to IL-1Ra. Phage display identified two peptide motifs corresponding to linear epitopes mapped to surface-exposed regions of the native protein, indicating recognition of unmodified IL-1Ra domains. Anti-IL-1Ra antibodies are detectable in IL-1 inhibitor-naïve AOSD patients using a standardized ELISA. The identification of distinct linear epitopes suggests a heterogeneous autoimmune response targeting IL-1Ra and may support a role for adaptive immunity within the Still's disease spectrum. Further studies are needed to define their functional and clinical relevance.",
-      "diseaseId": "autoinflammatory",
-      "diseaseIds": [
-        "autoinflammatory"
-      ],
-      "diseaseZh": "自炎症性疾病",
-      "topics": [
-        "真实世界研究",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890161/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:56.619Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 783f4542-dd07-45c6-abe1-020b7903bcd2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890130",
-      "pmid": "42890130",
-      "doi": "10.3389/fmed.2026.1968785",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Associations of systemic inflammatory indices with rheumatoid arthritis and all-cause mortality: a NHANES study with independent hospital-based replication.",
-      "abstract": "Rheumatoid arthritis (RA) is a chronic systemic inflammatory disease associated with substantial morbidity and increased mortality. Although several composite inflammatory indices have been proposed as accessible biomarkers, their associations with RA and long-term prognosis remain incompletely understood. We analyzed 15,545 adults from five NHANES cycles (2001-2010), including 1,075 participants with self-reported RA. Survey-weighted multivariable logistic regression was used to assess associations between inflammatory indices and prevalent RA. Among participants with RA, survey-weighted Kaplan-Meier and Cox regression analyses were used to evaluate all-cause mortality. Restricted cubic spline analyses examined potential nonlinear associations. An independent retrospective hospital-based cohort was used to assess the directional consistency of key RA-related associations. Among 15,545 participants, 1,075 had self-reported RA. In the fully adjusted models, participants in the highest RAR quartile had greater odds of prevalent self-reported RA than those in the lowest quartile (OR, 1.86; 95% CI, 1.33-2.60), whereas higher CALLY was inversely associated with RA (Q4 vs. Q1: OR, 0.58; 95% CI, 0.43-0.78); both associations remained significant after FDR correction. Among participants with self-reported RA, higher RAR was associated with a greater hazard of all-cause mortality (Q4 vs. Q1: HR, 2.48; 95% CI, 1.62-3.77), whereas higher CALLY was associated with a lower mortality hazard (Q4 vs. Q1: HR, 0.44; 95% CI, 0.31-0.61), with both associations remaining significant after FDR correction. Restricted cubic spline analyses suggested nonlinear associations for several inflammatory indices. In the independent hospital-based cohort, several key RA-related inflammatory indices showed directionally consistent associations, supporting the reproducibility of the principal RA-related findings. RAR and CALLY showed the most consistent associations with both prevalent RA and all-cause mortality. These accessible inflammatory indices may warrant further evaluation as markers of systemic inflammatory and nutritional status in RA, but prospective validation is needed before clinical application.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "生物标志物",
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890130/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:57.571Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fffa5f4a-c3e6-4601-9832-f98110a9e7ff)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42891369",
-      "pmid": "42891369",
-      "doi": "10.1093/ehjcr/ytag613",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Recanalization of a diagonal coronary branch in Takayasu arteritis.",
-      "abstract": "",
-      "diseaseId": "vasculitis",
-      "diseaseIds": [
-        "vasculitis"
-      ],
-      "diseaseZh": "系统性血管炎",
-      "topics": [],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Case Reports",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891369/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:58.065Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 60a3bd5a-c1f8-4dfd-8139-aafec3679799)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889599",
-      "pmid": "42889599",
-      "doi": "10.3389/fped.2026.1970903",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Translating the 2024 ACR lupus nephritis guidelines to pediatric practice.",
-      "abstract": "Lupus nephritis (LN) is more common and often more aggressive in children than in adults, yet most randomized trials informing current LN management have enrolled adults. The 2024 American College of Rheumatology (ACR) guideline is the first ACR guideline on lupus nephritis to explicitly state that its recommendations apply to both adults and children , although its evidence base remains largely adult-derived. This review uses the 2024 ACR guideline as an organizing framework, cross-referenced with the 2024 KDIGO and 2025 EULAR recommendations, to examine which aspects of LN management translate effectively to pediatric practice and which require caution. We review the diagnostic pathway, including screening, kidney biopsy, and ISN/RPS classification, as well as therapeutic strategies, including the shift from sequential dual therapy to upfront triple therapy, response targets, class-specific treatment, and selection between belimumab and calcineurin inhibitors. We then examine areas where pediatric evidence remains limited, particularly glucocorticoid dosing, long-term biologic safety, fertility and growth, and transition to adult care. While the fundamental principles of LN management are largely age-agnostic, many quantitative recommendations are not. Steroid dosing, long-term treatment exposure, and developmental consequences remain important pediatric-specific considerations that current guidelines cannot fully address. We conclude by highlighting the pediatric evidence available to date and the need for dedicated pediatric trials to replace adult-derived extrapolation with child-specific evidence.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [
-        "狼疮肾炎",
-        "B细胞与浆细胞",
-        "妊娠与女性健康",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "系统评价/指南",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889599/",
-      "credibility": {
-        "studyStage": "证据综合",
-        "conclusionStrength": "review",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:58.373Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: fb314f63-7b52-48ba-b5f5-d07417c37fb0)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889406",
-      "pmid": "42889406",
-      "doi": "10.3389/fimmu.2026.1834700",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Single-cell mass cytometry cartography highlights systemic lupus erythematosus and Sjögren's disease immune differences.",
-      "abstract": "Autoimmune diseases such as primary Sjögren's disease (pSjD) and systemic lupus erythematosus (SLE) share clinical and serological features, including type I interferon signatures, autoantibody formation, and chronic inflammation, but the underlying immunopathology is not the same. To support the development of targeted therapies, we aimed to systematically characterize disease-specific alterations in peripheral immune cell subsets of pSjD and SLE compared to healthy donors (HD). We analyzed peripheral blood mononuclear cells from 15 HD, 12 pSjD and 21 SLE patients by mass cytometry. We manually pre-gated viable CD19 + B cells, CD3 + T cells, and innate immune populations before performing high-dimensional, consensus clustering. We compared relative subset frequencies and marker expression, including costimulatory and inhibitory receptors, between the three cohorts. In the B cell compartment, we identified 13 clusters. SLE patients showed an relative expansion of plasmablasts and two double-negative (IgD - CD27 - ) B cell clusters, one CD21 - and one CD19 low with high IgA. Both had an activated phenotype with elevated CD38, CD86, and Ki-67. In SLE, the costimulatory molecules CD86 and CD226 were upregulated on memory and DN B cells. By contrast, B cell changes in pSjD were more modest. We found 12 T cells clusters. Both diseases had increased CD4 + PD-1 + ICOS + circulating T follicular helper-like cells, and pSjD showed expansion of CD8 + effector memory (Tem) and terminally differentiated (Temra) T cell subsets. Relative innate cell frequencies did not differ substantially between groups, however, intermediate CD226 hi monocytes were reduced in SLE but showed higher activation marker expression (CD86, HLA-DR). Network correlation analysis revealed higher immune-cell connectivity in SLE compared to pSjD. SLE is characterized by B cell activation, plasmablast expansion, and costimulatory upregulation, while pSjD is mainly defined by alterations in the CD8 + T cell compartment. These disease-specific immunologic signatures highlight distinct patterns in SLE and pSjD and generate hypotheses for future studies investigating targeted therapeutic approaches.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle",
-        "sjogren"
-      ],
-      "diseaseZh": "系统性红斑狼疮 · 干燥综合征",
-      "topics": [
-        "细胞治疗",
-        "B细胞与浆细胞",
-        "I型干扰素",
-        "生物标志物",
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889406/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:59.413Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 375f69ce-5a68-41d8-a387-58fdc18d5718)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889391",
-      "pmid": "42889391",
-      "doi": "10.3389/fimmu.2026.1917757",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Identification of Akkermansia muciniphila as a candidate gut commensal involved in the pathogenesis of rheumatoid arthritis.",
-      "abstract": "The \"mucosal origins hypothesis\" posits that mucosal sites, such as the gut, are initial sites where immune responses first develop that may, months to years later, result in clinical rheumatoid arthritis (RA). Our goal here was to conduct a discovery-based, hypothesis-generating study using samples from a relatively small number of patients to implicate previously unrecognized highly IgA-coated commensal flora that may have a role in RA pathogenesis (primary outcome). The secondary supporting outcomes were to determine whether HLA-DR-presented microbial peptides from such flora could be identified in synovial tissue and to determine T and B cell responses to these peptides and citrullinated proteins. Highly IgA-coated bacteria taxa were identified in RA patients' stool samples by 16s rRNA sequencing; HLA-DR-presented peptides derived from the most common, highly IgA-coated microbes were identified from synovial tissue by liquid chromatography-tandem mass spectrometry; T cell responses to the identified microbial and human mimic epitopes were determined by IFNγ ELISpot assays, and citrullinated IgG and IgA antibodies to implicated microbial and human proteins were measured by ELISA. Of 32 RA patients, 28 (88%) had highly IgA-coated Akkermansia muciniphila ( Am ) in stool samples. HLA-DR presentation of peptides derived from two Am proteins, including the molecular chaperone DnaK protein ( Am -cDnaK), was identified from RA synovial tissue, suggesting that the microbe or its components may reach the joints. Eight of 21 patients (38%) had T cell responses to the Am -cDnaK peptide and a human heat shock protein-mimic peptide (Hu-HSPA5) and/or IgG antibodies to citrullinated forms of these proteins. Reactivity was found primarily in pre-RA and early RA soon after transition to clinical RA and less commonly during later flares of arthritis. These data implicate Am as a candidate gut commensal involved in RA pathogenesis and may serve as a compass for planning larger studies to test the hypothesis that Am , as well as certain other highly IgA-coated commensal flora or their components, may sometimes reach joints where they initiate or enhance autoimmune T cell responses via epitope mimicry and epitope spreading, leading to antibody responses to citrullinated host proteins in joints.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "B细胞与浆细胞"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889391/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:34:59.740Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: dc10f8ee-f5af-40b7-9a01-a2d25543eb3d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889219",
-      "pmid": "42889219",
-      "doi": "10.3389/fimmu.2026.1893483",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Longitudinal monitoring of adalimumab levels and anti-adalimumab antibodies in Chinese patients with ankylosing spondylitis: a prospective cohort study.",
-      "abstract": "This study aimed to clarify the association between longitudinal adalimumab concentrations, anti-adalimumab antibodies (AAA) levels, and clinical response in Chinese patients with ankylosing spondylitis (AS). A prospective multi-center, observational cohort study of AS patients receiving adalimumab therapy was conducted. Disease activity was assessed with the AS Disease Activity Score (ASDAS), and clinical responders were defined based on ASDAS improvement together with C-reactive protein normalization. Adalimumab concentrations were measured using a validated sandwich immunoassay. Measurement of AAA levels was performed with a laboratory-developed immunoassay system integrating electrochemiluminescence technology with specific immunomagnetic separation, with result reported as signal-to-noise ratio (S/N). A total of 140 patients receiving adalimumab monotherapy were included. The median follow-up period was 169 days, and 711 plasma samples were available for adalimumab concentrations and AAA levels measurements. Seven patients had pre-existing AAA, and 120 (90.2%) of the remaining 133 patients tested positive for AAA during follow-up. A total of 48 patients were excluded from the exposure-response relationship dataset owing to pre-existing AAA (n=7), lack of active disease (n=26), incomplete follow-up (n=8), and prolonged dosing intervals (n=7). Among the remaining 92 patients, a total of 58 (63%) achieved clinical response. Adalimumab concentrations were higher, and AAA levels were significantly lower, in responders compared with non-responders at multiple time points. Exposure-response relationship models also revealed a steady-state adalimumab concentration target of 5.1 μg/mL and a week-4 concentration target of 3.3 μg/mL, corresponding to an 80% probability of clinical response. Thirty-six of 92 patients (39.1%) exhibited AAA-S/N values exceeding the putative clinically meaningful threshold (AAA-S/N=10). Patients in the high-AAA group (AAA-S/N≥10) had lower drug levels (median: 1.5 μg/mL vs. 6.9 μg/mL, P< 0.0001) and poorer response rates (38.8% vs. 78.6%, P  = 0.0002), relative to those in the low-AAA group (AAA-S/N<10). Furthermore, patients who were week-4 AAA-positive exhibited a 1.8-fold increased risk of non-response (relative risk, 95% confidence interval, 1.1-2.8). Our results demonstrate that longitudinal profiles of adalimumab concentrations and AAA levels show a strong association with clinical responses in this Chinese AS cohort, which may inform therapeutic drug monitoring-guided adalimumab treatment strategies that remain to be further validated. ClinicalTrials.gov (NCT04875299).",
-      "diseaseId": "spa",
-      "diseaseIds": [
-        "spa"
-      ],
-      "diseaseZh": "脊柱关节炎谱系",
-      "topics": [
-        "真实世界研究",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889219/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:00.085Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7d8a9fcf-9c20-43e9-8c2a-94f60df2496e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889197",
-      "pmid": "42889197",
-      "doi": "10.3389/fimmu.2026.1851483",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Development of siRNAs targeting interferon beta as a novel therapeutic approach for adult and juvenile dermatomyositis.",
-      "abstract": "A key feature of the autoimmune conditions adult and juvenile dermatomyositis (DM/JDM) is the correlation of interferon (IFN) beta induction with disease initiation and activity. Our aim was to establish a short interfering RNA (siRNA) approach to knockdown IFNB1 expression as a therapeutic strategy for DM/JDM. A library of 74 siRNAs targeting IFNB1 was designed and screened for IFNB1 knockdown by qRT-PCR. Lead siRNAs were analysed for secreted IFN beta protein reduction and acute cytotoxicity. IFNB1 expression was induced for efficacy screening in vitro , including in immortalised myoblasts, myotubes and dermal fibroblasts, alongside JDM patient-derived myotubes. RNA sequencing was also performed on siRNA treated and untreated dermal fibroblasts and patient myotubes. Initial screening of 27 siRNAs identified two lead siRNAs with significant knockdown of both IFN beta transcript and secreted protein in all cell lines, with one lead siRNA demonstrating a more favourable cytotoxicity profile. RNA sequencing and pathway analysis revealed that both lead siRNAs were able to reduce the induction of disease-associated immune and autoimmune pathways in dermal fibroblasts and JDM myotubes. An additional 47 siRNAs across the IFNB1 locus were screened; however, the previous lead siRNA remained the most active across relevant cell lines. Overall, comprehensive in vitro screening identified a lead siRNA targeting IFNB1 with significant mRNA and protein knockdown activity, low cytotoxicity and the ability to modulate immune-relevant pathways in muscle and skin cells. This is a promising first step towards the development of an siRNA therapy for DM/JDM and other conditions driven by IFN beta over-expression.",
-      "diseaseId": "pediatric",
-      "diseaseIds": [
-        "pediatric",
-        "myositis"
-      ],
-      "diseaseZh": "儿童风湿病 · 特发性炎性肌病",
-      "topics": [
-        "I型干扰素",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "动物/细胞研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889197/",
-      "credibility": {
-        "studyStage": "临床前研究",
-        "conclusionStrength": "preclinical",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "动物或细胞结果不能直接外推至患者。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:01.101Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 7fa7ef5c-5fc7-45f3-863c-7d52a317cf10)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889087",
-      "pmid": "42889087",
-      "doi": "10.3389/fimmu.2026.1903757",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "The neuropsychiatric systemic lupus erythematosus biomarker landscape: what blood and cerebrospinal fluid analytes have been studied and how they performed? A systematic review and meta-analysis.",
-      "abstract": "This study aims to evaluate biomarkers that discriminate systemic lupus erythematosus patients with and without neuropsychiatric involvement. We searched MEDLINE, Embase, and CENTRAL (inception-March 2024) for studies of blood or cerebrospinal fluid (CSF) analytes in neuropsychiatric systemic lupus erythematosus (NPSLE). Random-effects meta-analyses were conducted for analyte-biofluid pairs with ≥5 independent studies; the remaining data were synthesized narratively. A total of 93 studies were included. Few analyte-biofluid combinations met the criteria for meta-analysis, and most promising biomarkers (intrathecal inflammation, neuronal injury, and reduced neuroprotection) were assessed in only small, heterogeneous studies. The meta-analyses showed higher CSF IL-6 and MCP-1 in NPSLE than non-NPSLE SLE (Hedges' g 0.81 and 0.66, respectively), a smaller heterogeneous effect for IL-8, and two- to threefold higher odds of NPSLE in patients positive for serum anti-ribosomal P (OR 2.68, 95% CI 2.03-3.53), anti-NR2/NMDAR (2.09, 1.07-4.06), and IgG anticardiolipin (2.36, 1.56-3.59) antibodies. Compared with non-SLE controls, NPSLE generally showed higher CSF soluble mediators than healthy or non-inflammatory neurological comparators, but the levels in CNS infections were often similar or higher. CSF markers of intrathecal inflammation, neuronal injury, and reduced neuroprotection distinguish NPSLE from non-NPSLE SLE but are neither specific for NPSLE nor easily obtainable in routine practice. Classical serum autoantibodies (anti-ribosomal P, anti-NR2, and antiphospholipid antibodies) show modest, phenotype-dependent diagnostic performance. Evidence remains fragmented, with heterogeneous assays, cutoffs, and case definitions, underscoring the need for harmonized multicenter studies to identify robust diagnostic, evaluative, and prognostic biomarkers for overall and manifestation-specific NPSLE.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [
-        "神经精神受累",
-        "生物标志物"
-      ],
-      "evidenceLevel": "系统评价/指南",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889087/",
-      "credibility": {
-        "studyStage": "证据综合",
-        "conclusionStrength": "review",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:01.429Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 69b35f53-43e6-4ee8-bce9-27148f5cd816)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42889030",
-      "pmid": "42889030",
-      "doi": "10.3389/fmed.2026.1858051",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Cross-sectional analysis of socioeconomic determinants of functional disability in rheumatoid arthritis patients: a single-region experience from Saudi Arabia.",
-      "abstract": "Rheumatoid arthritis (RA) patients have increased disability risk, with physical inactivity and socioeconomic factors that are contributing to worse outcomes. Limited data exist on these relationships in Middle Eastern and Arab populations, and validated predictive models are scarce in the literature. Our study aims to assess physical activity levels and evaluate health-related quality of life and disability findings in RA patients from Riyadh, Saudi Arabia, and develop a sociodemographic risk-stratification model to quantify disability risk based on our cohort. We collected our data for the study from RA patients in Riyadh, Saudi Arabia, through a disseminated cross-section survey for the eligible targeted cohort. Physical activity was assessed using IPAQ-S, disability using HAQ-DI, and sociodemographic characteristics through structured interviews. We developed a sociodemographic risk-stratification model using multiple linear regression with interaction terms, validated through 10-fold cross-validation and bootstrap methods (1,000 iterations). Mediation analysis was performed to investigate education-employment-disability pathways. Risk stratification algorithms and utilization assessments were performed. Physical inactivity was highly prevalent, with the majority of included individuals reporting low physical activity levels. Mean HAQ-DI was 0.58 (SD 0.55). The model achieved a cross-validated R 2 of 0.188 (mean per-fold test R 2 = 0.122), reflecting the modest explanatory ceiling expected when only sociodemographic predictors are modeled, while still stratifying patients into low (58.2%), moderate (28.2%), and high (13.7%) disability risk categories. Education showed the strongest association with disability (ε 2 = 0.093, P < 0.0001), with employment partially mediating this relationship (13.4% mediation, 95% CI: 7.5-20.1%). Model calibration was significant, with utilization probability demonstrated across risk thresholds. We developed the first structured analysis for RA disability prediction in the region, revealing complete physical inactivity and significant socioeconomic disparities. Our analyses findings demonstrated evidence-based risk stratification for further consideration while identifying modifiable intervention targets. The results support population-level physical activity interventions and targeted socioeconomic support programs.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "真实世界研究"
-      ],
-      "evidenceLevel": "观察性研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889030/",
-      "credibility": {
-        "studyStage": "临床观察",
-        "conclusionStrength": "observational",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "观察性关联不能证明因果。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:01.765Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 4adfcd09-5f51-4ee6-bb81-63dc56c563ad)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890560",
-      "pmid": "42890560",
-      "doi": "10.20517/evcna.2026.66",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Engineering Tripterygium wilfordii -derived exosome-like nanoparticles for targeted therapy in rheumatoid arthritis.",
-      "abstract": "Aim: Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by excessive activation of pro-inflammatory macrophages and elevated levels of reactive oxygen species (ROS), resulting in synovial hyperplasia, cartilage destruction, and joint dysfunction. This study aimed to develop an engineered Tripterygium wilfordii -derived exosome-like nanoparticle system (TWELP@GlcN-HA) that integrates antioxidant, anti-inflammatory, immunomodulatory, and joint-targeting activities for synergistic RA therapy. Methods: Tripterygium wilfordii -derived exosome-like nanoparticles (TWELP) were isolated from fresh Tripterygium wilfordii and sequentially surface-modified with glucosamine (GlcN) for cartilage protection and hyaluronic acid (HA) for targeted uptake by inflammatory cells. Their physicochemical properties, including morphology, particle size, structural integrity, and surface potential, were systematically characterized. In vitro assays were performed to evaluate ROS scavenging, inhibition of pro-inflammatory cytokines [tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6)], and macrophage polarization. Biodistribution and therapeutic efficacy were evaluated in a collagen-induced arthritis (CIA) mouse model by assessing synovial inflammation, cartilage damage, joint morphology, and joint function. Results: TWELP@GlcN-HA exhibited a uniform spherical morphology, stable surface potential, and preserved structural integrity. In vitro , it efficiently scavenged ROS, suppressed TNF-α and IL-6 secretion, and promoted macrophage polarization from M1 to M2, thereby restoring immune homeostasis. In vivo , HA-mediated targeting promoted nanoparticle accumulation in inflamed joints. TWELP@GlcN-HA significantly alleviated synovial inflammation and cartilage destruction, improved joint morphology and function, and exhibited excellent biosafety with no systemic toxicity. Conclusion: TWELP@GlcN-HA provides a multifunctional combinatorial strategy for RA treatment by synergistically regulating ROS, reprogramming pro-inflammatory macrophages, protecting cartilage, and achieving targeted joint delivery. Its enhanced therapeutic efficacy and favorable safety profile make it a promising candidate for future clinical translation in RA management.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "细胞治疗",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "动物/细胞研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890560/",
-      "credibility": {
-        "studyStage": "临床前研究",
-        "conclusionStrength": "preclinical",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "动物或细胞结果不能直接外推至患者。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:02.797Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 1ff0f5f6-3a20-41d9-af82-6b5e0173b2fe)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42891014",
-      "pmid": "42891014",
-      "doi": "10.7759/cureus.116330",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "The Bidirectional Relationship Between Rheumatoid Arthritis and Periodontitis: Current Evidence and Clinical Implications.",
-      "abstract": "Rheumatoid arthritis (RA) and periodontitis are chronic inflammatory diseases that share several pathogenic, immunological, and environmental characteristics. Increasing evidence suggests that these conditions are linked through a potentially bidirectional relationship in which chronic periodontal inflammation may contribute to the initiation and progression of RA, whereas RA may predispose individuals to periodontal tissue destruction through systemic inflammation, immune dysregulation, and impaired oral hygiene. This narrative review summarizes the current understanding of the epidemiological association between RA and periodontitis and discusses the shared inflammatory pathways, including cytokine dysregulation, osteoclast activation, and altered host immune responses, that underlie both diseases. Particular emphasis is placed on the reciprocal influence of periodontitis on RA activity and the impact of RA on periodontal disease. Available evidence indicates that periodontal infection may amplify the systemic inflammatory burden and autoimmune responses, whereas chronic inflammatory changes associated with RA can accelerate periodontal tissue breakdown and increase the risk of disease progression. Emerging clinical evidence also suggests that periodontal therapy may serve as a valuable adjunct to conventional RA management by reducing the systemic inflammatory burden and improving disease activity, although definitive causal relationships have not yet been established. Periodontal therapy may have beneficial effects on systemic inflammatory markers and selected measures of RA activity, although the clinical significance and consistency of these effects remain uncertain. Recognition of this bidirectional association highlights the importance of interdisciplinary collaboration between dental professionals and rheumatologists to facilitate early diagnosis, comprehensive patient assessment, and development of integrated treatment strategies. Future longitudinal and interventional studies are warranted to clarify the causal mechanisms linking these conditions and determine whether improved periodontal health can contribute to better long-term outcomes in patients with RA.",
-      "diseaseId": "ra",
-      "diseaseIds": [
-        "ra"
-      ],
-      "diseaseZh": "类风湿关节炎",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891014/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:03.206Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 6d4d2c2f-cfc4-4298-a564-cdca816630bc)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890968",
-      "pmid": "42890968",
-      "doi": "10.7759/cureus.116332",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Kikuchi-Fujimoto Disease in a Patient With Systemic Lupus Erythematosus: A Case Report.",
-      "abstract": "Kikuchi-Fujimoto disease (KFD), or histiocytic necrotizing lymphadenitis, is a rare, self-limiting syndrome characterized by fever and lymphadenopathy, most commonly cervical, though other nodal regions may be involved. It is well recognized to occur in patients with systemic lupus erythematosus (SLE), with which it shares substantial clinical and histopathologic overlap, often mimicking a lupus flare or a lymphoproliferative disorder. We report the case of a 43-year-old woman with a known history of SLE, maintained on hydroxychloroquine and low-dose prednisolone, who presented with a two-week history of fever, chills, rigors, and generalized body aches. She was found to have elevated inflammatory markers, hypocomplementemia, a markedly elevated antinuclear antibody titer, and elevated anticardiolipin IgM, with imaging demonstrating marked right axillary and bilateral pelvic/iliac lymphadenopathy. Excisional lymph node biopsy demonstrated extensive necrotizing lymphadenitis with karyorrhectic debris and a predominantly T-cell infiltrate, without granulomas, and with negative infectious and Epstein-Barr virus studies, consistent with KFD. Bone marrow examination excluded an underlying hematologic malignancy, and a low HScore made hemophagocytic lymphohistiocytosis unlikely. The patient was treated with escalation of corticosteroid therapy and continuation of hydroxychloroquine, achieving clinical recovery with resolution of fever. This case highlights the importance of recognizing KFD as a cause of fever and lymphadenopathy in patients with SLE, and underscores the value of histopathologic confirmation in guiding appropriate management.",
-      "diseaseId": "sle",
-      "diseaseIds": [
-        "sle"
-      ],
-      "diseaseZh": "系统性红斑狼疮",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Case Reports",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890968/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:03.450Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 0dd49783-ba5d-474a-b523-af6ed3256c17)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42891305",
-      "pmid": "42891305",
-      "doi": "10.1002/imo2.70106",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Gene expression signatures from single-cell transcriptomics predict Sjögren's syndrome.",
-      "abstract": "Sjögren's syndrome (SjS) is a systemic autoimmune disorder characterized by lymphocytic infiltration of exocrine glands, leading to dry eyes and mouth. While previous genome-wide association studies (GWAS) and transcriptomic analyses have identified genes associated with SjS, predictive models based on single-cell resolution are limited. In this study, single-cell RNA sequencing (scRNA-seq) data from peripheral blood mononuclear cells (PBMCs) of SjS patients were analyzed to map immune cell alterations linked to the disease. Compared with healthy controls, SjS patients displayed decreased proportions of naïve CD8 + T cells and Helios FOXP3 lo CD4 + Tregs, alongside increased frequencies of CTLA -4 + CD8 + inhibitory T cells and TRDC γδ T cells. Using machine learning, a predictive model for SjS diagnosis was developed based on a 12-gene signature (SjS. Sig: GIMAP7 , PSMB8 , CD27 , CCR7 , TAGAP , UQCR10 , HCLS1 , LCK , TNFAIP3 , ISG15 , GIMAP4 , and HLA - DRB1 ), which effectively differentiated patients from healthy individuals. Key genes such as CD27 , PSMB8 , HCLS1 , LCK , UQCR10 , and GIMAP4 were validated in clinical samples through flow cytometry and real-time quantitative PCR. These findings provide insights into the immune landscape of SjS at a single-cell resolution and propose a reliable molecular signature for diagnosis and immune monitoring.",
-      "diseaseId": "sjogren",
-      "diseaseIds": [
-        "sjogren"
-      ],
-      "diseaseZh": "干燥综合征",
-      "topics": [
-        "生物标志物",
-        "靶向治疗"
-      ],
-      "evidenceLevel": "其他研究",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891305/",
-      "credibility": {
-        "studyStage": "研究类型未细分",
-        "conclusionStrength": "hypothesis",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:04.500Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: 57b48e39-1f32-4579-9b6b-444629ea3016)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
-        "retryPending": true
-      },
-      "relevanceFlag": "normal"
-    },
-    {
-      "id": "pmid-42890071",
-      "pmid": "42890071",
-      "doi": "10.5114/ada.2026.164292",
-      "source": "PubMed",
-      "sourceVerified": true,
-      "date": "2026-10-17",
-      "dateType": "PubMed收录日期",
-      "title": "Short-term risk and long-term incidence rate of herpes zoster with upadacitinib in patients with atopic dermatitis and psoriatic arthritis: a systematic review and meta-analysis.",
-      "abstract": "Upadacitinib is a novel selective Janus kinase 1 (JAK1) inhibitor. However, it increases the risk of herpes zoster infection. We aimed to estimate the short-term risk and long-term incidence rate of herpes zoster in patients with atopic dermatitis (AD) and psoriatic arthritis (PsA) treated with different doses of upadacitinib. Randomised controlled trials and long-term (≥ 52 weeks) open-label extension studies of upadacitinib for AD and PsA were included. Short-term odds ratios (ORs) and long-term exposure-adjusted event rates (EAERs) for herpes zoster infection were estimated using R software 4.4.3 and STATA 18.0. This review included 8 randomised controlled studies and 11 open-label extension studies. The short-term analysis showed that in AD patients, the ORs for herpes zoster infection after 15 mg and 30 mg upadacitinib were 2.62 (95% CI: 1.06-6.47) and 3.13 (95% CI: 1.38-7.12), respectively. In PsA patients, the ORs were 1.39 (95% CI: 0.45-4.33) and 2.43 (95% CI: 0.96-6.16), respectively. The long-term analysis showed that the EAER for herpes zoster infection in AD and PsA patients using 15 mg upadacitinib was 1 year: 3.87/100 patient-years (PYs), 2 years: 4.68/100 PYs, and 3 years: 4.30/100 PYs; for 30 mg, the EAER was 1 year: 6.96/100 PYs, 2 years: 8.29/100 PYs, and 3 years: 7.53/100 PYs. Upadacitinib 30 mg was associated with a significantly higher risk of herpes zoster compared with 15 mg, with consistent dose-dependent effects at 1-year (OR = 1.78, 95% CI: 1.41-2.24), 2-year (OR = 1.80, 95% CI: 1.28-2.53), and 3-year follow-up (OR = 1.94, 95% CI: 1.59-2.35). Upadacitinib increases the risk of herpes zoster in AD and PsA patients, with a more significant effect in AD patients and a dose-dependent relationship over time.",
-      "diseaseId": "spa",
-      "diseaseIds": [
-        "spa"
-      ],
-      "diseaseZh": "脊柱关节炎谱系",
-      "topics": [
-        "靶向治疗"
-      ],
-      "evidenceLevel": "系统评价/指南",
-      "evidenceMethod": "基于文献类型自动标注",
-      "studyType": "Journal Article",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890071/",
-      "credibility": {
-        "studyStage": "证据综合",
-        "conclusionStrength": "review",
-        "clinicalImplication": "研究类型标签用于辅助浏览，具体结论以原始摘要和论文全文为准。",
-        "riskNote": "研究类型由规则自动归类，具体内容以原文为准。",
-        "confidence": "自动标注"
-      },
-      "titleZh": "",
-      "abstractZh": "",
-      "translationFailure": {
-        "lastAttemptAt": "2026-10-21T00:35:05.076Z",
-        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: cdff4582-a9d9-4bbb-acb3-6dc9ffa5493d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
-        "totalAttempts": 9,
+        "lastAttemptAt": "2026-10-22T00:38:58.928Z",
+        "lastReason": "402 {\"error\":{\"message\":\"Insufficient Balance (request_id: b7dd1df4-137b-44b8-ab6a-fe2b791be6cd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+        "totalAttempts": 12,
         "retryPending": true
       },
       "relevanceFlag": "normal"
     }
   ],
   "translationStatus": {
-    "attemptedAt": "2026-10-21T00:35:38.971Z",
-    "candidates": 102,
+    "attemptedAt": "2026-10-22T00:39:44.468Z",
+    "candidates": 86,
     "translated": 0,
-    "failed": 102,
+    "failed": 86,
     "publishable": 0,
-    "pending": 102
+    "pending": 86
   }
 }
